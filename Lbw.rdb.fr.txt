@@ -56,7 +56,7 @@
 =ID_OPTIONS_UADMIN(1)	&Administration des utilisateurs...
 =ID_OPTIONS_B2B_AUTOEXCHANGE(1)	&Echange de données automatique
 =ID_OPTIONS_B2B_ADMIN(1)	&Administrer des Cartes de visite B2B...
-=ID_OPTIONS_CREATOR(1)	&Utiliser l'assistant d'organigramme
+=ID_OPTIONS_CREATOR(1)	&Utiliser l'Assistant d'Organigramme
 =ID_OPTIONS_CTDBDOC(1)	Aff&icher la documentation de la banque de données des cylindres
 =ID_HELP_INDEX(1)	&Index
 =ID_HELP_USING(1)	Utiliser l'&aide
@@ -64,7 +64,7 @@
 
 =POPUP6(1)	A&dministration de commandes
 =POPUP7(1)	&Edition
-=POPUP8(1)	P&lans de locaux
+=POPUP8(1)	P&lan de Local
 =POPUP9(1)	Fe&nêtre
 =ID_FILE_ARCHIVE_CLOSE(1)	&Fermer
 =ID_FILE_ARCHIVE_SAVE(1)	&Enregistrer
@@ -99,10 +99,10 @@
 =ID_WINDOW_CASCADE(1)	&Cascade
 =ID_WINDOW_TILE_HORZ(1)	&Réorganiser tout
 =ID_WINDOW_ARRANGE(1)	Ali&gner les icônes
-=ID_WINDOW_STARTLIST(1)	Ouvrir Aperçu &listes\tCtrl+L
-=ID_WINDOW_STARTMATRIX(1)	Ouvrir &plan d'organigramme\tCtrl+S
-=ID_WINDOW_STARTCALCULATOR(1)	Ouvrir &module de calcul\tCtrl+R
-=ID_WINDOW_STARTDESIGNER(1)	Ouvrir &designer\tCtrl+D
+=ID_WINDOW_STARTLIST(1)	Ouvrir Aperçu &Listes\tCtrl+L
+=ID_WINDOW_STARTMATRIX(1)	Ouvrir &Plan d'Organigramme\tCtrl+S
+=ID_WINDOW_STARTCALCULATOR(1)	Ouvrir &Module de Calcul\tCtrl+R
+=ID_WINDOW_STARTDESIGNER(1)	Ouvrir &Designer Système\tCtrl+D
 =ID_WINDOW_ACTIVATENEXT(1)	Activer &prochaine base de données\tTab
 =ID_WINDOW_ACTIVATEPREV(1)	Activer base de données pr&écédente\tMaj+Tab
 =ID_WINDOW_FOCUSNEXT(1)	Feuilleter pr&ochaine base de données\tMaj+flèche droite
@@ -110,7 +110,7 @@
 =ID_VIEW_SHOWCONNECTED(1)	Afficher conne&xions
 =ID_VIEW_CONNECTEDONLY(1)	Afficher &que les connectées\tF7
 =ID_WINDOW_ARRANGELISTS(1)	Liste acti&ve maximale\tF8
-=ID_VIEW_GROUNDPLAN(1)	Afficher les plan&s de locaux
+=ID_VIEW_GROUNDPLAN(1)	Afficher le Plan de &Local
 
 =ID_CALC_CGA(1)	Administration groupes de codes...\tF3
 =ID_CALC_EDITRANGE(1)	Editer la &variation des combinaisons...\tF4
@@ -135,10 +135,10 @@
 =ID_OPTIONS_FORMATCOLS(1)	Format &colonnes...
 =ID_OPTIONS_KEYSUP(1)	&Clé haut
 =ID_OPTIONS_CYLSUP(1)	C&ylindre haut
-=ID_OPTIONS_EUROFORMAT(1)	&Plan d'organigramme Euro
+=ID_OPTIONS_EUROFORMAT(1)	&Plan d'Organigramme Euro
 =ID_OPTIONS_CYLGROUPS(1)	&Groupes de cylindres
 =ID_OPTIONS_FUNCONLY(1)	Afficher plan de fonctio&n seulement
-=ID_OPTIONS_MTRX_SETUP(1)	Co&nfigurer Plan d'organigramme...
+=ID_OPTIONS_MTRX_SETUP(1)	Co&nfigurer Plan d'Organigramme...
 
 =IDD_DOOR_EDIT(1)	Porte
 =IDD_DOOR_EDIT_STATICTXT1(1)	Section &bâtiment:
@@ -508,8 +508,8 @@
 =IDD_DOC_CONSISTENCY_CANCEL(1)	F&ermer
 =IDD_DOC_CONSISTENCY_CHECK9(1)	C&ylindres avec même nombre fermeture identique
 
-=IDD_LISTS_GROUNDPLAN(1)	Plan du local
-=IDD_LISTS_GROUNDPLAN_STATICTXT1(1)	Entrez la désignation du plan du local et sélectionnez le fichier graphique, qui contient le plan horizontal (format de ficher BMP, JPG, PNG, TIF, EPS, TGA, PCT, WMF ou EMF).
+=IDD_LISTS_GROUNDPLAN(1)	Plan de Local
+=IDD_LISTS_GROUNDPLAN_STATICTXT1(1)	Entrez la désignation du plan de local et sélectionnez le fichier graphique, qui contient le plan horizontal (format de ficher BMP, JPG, PNG, TIF, EPS, TGA, PCT, WMF ou EMF).
 =IDD_LISTS_GROUNDPLAN_STATICTXT2(1)	&Désignation:
 =IDD_LISTS_GROUNDPLAN_STATICTXT3(1)	Fichier &graphique:
 =IDD_LISTS_GROUNDPLAN_RADIO1(1)	&Insérer plan
@@ -526,7 +526,7 @@
 =IDD_LISTS_GROUNDPLAN_ADDITEMS_OK(1)	OK
 =IDD_LISTS_GROUNDPLAN_ADDITEMS_CANCEL(1)	Annuler
 =IDD_LISTS_GROUNDPLAN_ADDITEMS_BUTTON_STRFORM(1)	&Format...
-=IDD_LISTS_GROUNDPLAN_ADDITEMS_STATICTXT2(1)	Dans la liste, marquez les portes, qui doivent être insérées dans le plan du local, puis appuyez sur OK.
+=IDD_LISTS_GROUNDPLAN_ADDITEMS_STATICTXT2(1)	Dans la liste, marquez les portes, qui doivent être insérées dans le plan de local, puis appuyez sur OK.
 =IDD_LISTS_GROUNDPLAN_ADDITEMS_HELP(1)	&Aide
 
 =IDD_USERS_LOGIN(1)	LOCKBASE - Initialisation de l'adm. des utilisateurs|LOCKBASE - Accueil|Administration des utilisateurs - Modifier un mot de passe
@@ -680,7 +680,7 @@
 =IDD_PRINT_FORMAT_STATIC_111(1)	&Copies:
 
 =IDD_CALC_ANKER38_CHECK1(1)	&Utilisez les doubles aimants pour des clés
-=IDD_CALC_ANKER38_STATICTXT1(1)	&Mode de calcul:
+=IDD_CALC_ANKER38_STATICTXT1(1)	&Mode de Calcul:
 =IDD_CALC_ANKER38_OK(1)	OK
 =IDD_CALC_ANKER38_CANCEL(1)	Annuler
 
@@ -871,7 +871,7 @@
 =IDD_SYSHEAD_HIST_EDIT_CANCEL(1)	Annuler
 =IDD_SYSHEAD_HIST_EDIT_HELP(1)	&Aide
 
-=IDD_MTRX_SETUP(1)	Configurer Plan d'organigramme
+=IDD_MTRX_SETUP(1)	Configurer Plan d'Organigramme
 =IDD_MTRX_SETUP_STATICTXT1(1)	&Mise en page:
 =IDD_MTRX_SETUP_STATICTXT2(1)	Signes de &connexion
 =IDD_MTRX_SETUP_STATICTXT3(1)	Fermeture &supérieure:
@@ -963,7 +963,7 @@
 =IDD_EXCHG_CSVEDIT_731(1)	Colonne\nLigne
 =IDD_EXCHG_CSVEDIT_691(1)	Champ de données\nConnexion
 
-=IDD_MTRX_SETUP_691(1)	Cylindres - Clés\nPlan d'organigramme Euro
+=IDD_MTRX_SETUP_691(1)	Cylindres - Clés\nPlan d'Organigramme Euro
 
 =IDD_DOC_PASTE_691(1)	Remplacer\nInsérer
 =IDD_DOC_PASTE_692(1)	Ignorer\nAjouter
@@ -971,10 +971,10 @@
 
 =IDD_SYSHEAD_HIST_ORDER_1018(1)	Clés\nCylindres
 
-=IDR_LBWLIST(1)	Aperçu liste\nNoName\nLBWDOC\nFichier-LOCKBASE (*.lbf)\n.LBF\nLBWDOC\nFichier-LOCKBASE
-=IDR_LBWDSGN(1)	Designer système\nNoName\nLBWDOC\nFichier-LOCKBASE (*.lbf)\n.LBF\nLBWDOC\nFichier-LOCKBASE
-=IDR_LBCWTYPE(1)	Module de calcul\nNoName\nLBWDOC\nFichier-LOCKBASE (*.lbf)\n.LBF\nLBWDOC\nFichier-LOCKBASE
-=IDR_LBWMTRX(1)	Plan d'organigramme\nNoName\nLBWDOC\nFichier-LOCKBASE (*.lbf)\n.LBF\nLBWDOC\nFichier-LOCKBASE
+=IDR_LBWLIST(1)	Aperçu Listes\nNoName\nLBWDOC\nFichier-LOCKBASE (*.lbf)\n.LBF\nLBWDOC\nFichier-LOCKBASE
+=IDR_LBWDSGN(1)	Designer Système\nNoName\nLBWDOC\nFichier-LOCKBASE (*.lbf)\n.LBF\nLBWDOC\nFichier-LOCKBASE
+=IDR_LBCWTYPE(1)	Module de Calcul\nNoName\nLBWDOC\nFichier-LOCKBASE (*.lbf)\n.LBF\nLBWDOC\nFichier-LOCKBASE
+=IDR_LBWMTRX(1)	Plan d'Organigramme\nNoName\nLBWDOC\nFichier-LOCKBASE (*.lbf)\n.LBF\nLBWDOC\nFichier-LOCKBASE
 =IDS_LBW_EXCHANGE(1)	Fichier-LOCKBASE (*.lbf)\nModèle LOCKBASE (*.lbt)\nLOCKBASE pour DOS (*.sys)
 =IDS_LBW_DONGLE(1)	Clé dongle invalide ou non présente !\nVeuillez insérer la clé LOCKBASE dans un port imprimante.
 =IDS_LBW_WEASELS(1)	Weasels rip my flesh !\n\nLe texte du fichier du programme a été modifié. Les causes possibles sont des erreurs de lecteurs, réseau ou des tentatives d'accès par des virus.\n\nCopiez à nouveau le fichier depuis la disquette d'origine.
@@ -991,17 +991,17 @@
 =IDS_LBW_ERRSDB(1)	Erreur tout en ouvrant la base de données de système de LOCKBASE (LBW.SDB).
 =IDS_LBW_LANGUAGE(1)	f
 =IDS_APP_WIZBUTTONS(1)	&Suivant >\nFini\n< &Précédent\nAnnuler\n&Aide
-=IDS_LISTVIEW(1)	Aperçu liste 
-=IDS_MATRIXVIEW(1)	Plan d'organigramme 
-=IDS_CALCULATORVIEW(1)	Module de calcul 
-=IDS_DESIGNERVIEW(1)	Designer système 
+=IDS_LISTVIEW(1)	Aperçu Listes 
+=IDS_MATRIXVIEW(1)	Plan d'Organigramme 
+=IDS_CALCULATORVIEW(1)	Module de Calcul 
+=IDS_DESIGNERVIEW(1)	Designer Système 
 =IDS_NEWTYPEDLG(1)	Tailles de champs de saisie
 =IDS_OE_NOT_FOUND(1)	Fichier introuvable.
 =IDS_OE_IN_USE(1)	Fichier est actuellement en service.
 =IDS_OE_INVALID(1)	Ce fichier n'est pas un document LOCKBASE ou a été supprimé.
 =IDS_OE_NOLBF(1)	Ce fichier n'est pas un document LOCKBASE.
 =IDS_OE_VERSION(1)	Mauvaise version LOCKBASE.
-=IDP_DOC_MERGETREE(1)	Ce document LOCKBASE possède une structure de groupe crée au moyen du Designer.\nLe fichier ne peut qu'être chargé sans le Designer, lorsque la structure de groupe a été supprimée.\n\nLa structure de groupe de ce système doit-elle être supprimée ? 
+=IDP_DOC_MERGETREE(1)	Ce document LOCKBASE possède une structure de groupe crée au moyen du Designer Système.\nLe fichier ne peut qu'être chargé sans le Designer Système, lorsque la structure de groupe a été supprimée.\n\nLa structure de groupe de ce système doit-elle être supprimée ? 
 =IDP_DOC_NEWERVERSION(1)	Ce fichier LOCKBASE a été créé avec une version plus récente et ne peut pas être ouvert avec la présente version.\nAfin d'obtenir une mise à jour, veuillez contacter votre revendeur LOCKBASE.
 =IDS_OE_DISKSPACE(1)	Il n'y a pas assez d'espace disque de disponible dans le répertoire pour les fichiers temporaires.
 =IDS_OE_READONLY(1)	Ce fichier Lockbase est en lecture seule. Il est probablement en cours d'édition sur un autre poste de travail.\r\rLe fichier a été ouvert en copie seulement. Les modification apportées à ce ficher ne peuvent pas être enregistrées.
@@ -1025,10 +1025,10 @@
 =IDS_WINDOW_ACTIVATEPREV(1)	Vers la base de données précédente pour éditer des registres de données
 =IDS_WINDOW_ARRANGELISTS(1)	Utilise l'espace total pour la liste active\nUtilise l'espace total pour la liste active
 =IDS_OPTIONS_VIEWS(1)	Déterminer, quelles vues de données sont affichées au chargement du document
-=IDS_WINDOW_STARTMATRIX(1)	Ouvrir fenêtre de plan de d'organigramme
-=IDS_WINDOW_STARTCALCULATOR(1)	Ouvrir fenêtre du module de calcul
-=IDS_WINDOW_STARTDESIGNER(1)	Ouvrir fenêtre du Designer système
-=IDS_WINDOW_STARTLIST(1)	Ouvrir fenêtre d'aperçu listes
+=IDS_WINDOW_STARTMATRIX(1)	Ouvrir fenêtre de Plan de d'Organigramme
+=IDS_WINDOW_STARTCALCULATOR(1)	Ouvrir fenêtre du Module de Calcul
+=IDS_WINDOW_STARTDESIGNER(1)	Ouvrir fenêtre du Designer Système
+=IDS_WINDOW_STARTLIST(1)	Ouvrir fenêtre d'Aperçu Listes
 =IDS_OPTIONS_STRINGFORM(1)	Déterminer le format de sortie et le classement de la liste active
 =IDS_EDIT_GROUPSELECT(1)	Ouvre une liste de groupes pour basculer dans un autre groupe
 =IDS_CALC_EDITRANGE(1)	Editer la variation des combinaisons d'un groupe focalisé\nEditer la variation des combinaisons d'un groupe focalisé
@@ -1044,16 +1044,16 @@
 =IDS_VIEW_CONNECTEDONLY(1)	Seules les entrées liées au registre de données focalisé sont affichées\nSeules les entrées liées au registre de données focalisé sont affichées
 =IDS_CALC_CGA(1)	Ouvre l'administration des groupes de codes\nOuvre l'administration des groupes de codes
 =IDS_OPTIONS_USECGA(1)	Active ou désactive l'administration des groupes de codes
-=IDS_OPTIONS_EUROFORMAT(1)	Représente le plan d'organigramme de manière synthétique (cylindres, clés subordonnées, cylindres centraux)
-=IDS_OPTIONS_FUNCONLY(1)	Masque les cylindres à fermeture identique du plan d'organigramme
-=IDS_OPTIONS_KEYRETURN(1)	Détermine, si les retours de clés à terme doivent être affichés automatiquement lors de l'affichage de l'aperçu listes
+=IDS_OPTIONS_EUROFORMAT(1)	Représente le Plan d'Organigramme de manière synthétique (cylindres, clés subordonnées, cylindres centraux)
+=IDS_OPTIONS_FUNCONLY(1)	Masque les cylindres à fermeture identique du Plan d'Organigramme
+=IDS_OPTIONS_KEYRETURN(1)	Détermine, si les retours de clés à terme doivent être affichés automatiquement lors de l'affichage de l'Aperçu Listes
 =IDS_EDIT_KEYRETURN(1)	Affiche les retours de clés arrivés à terme
 =IDS_FILE_B2B_INBOX(1)	Démarre une boîte de dialogue pour l'ouverture de courrier reçu\nDémarre une boîte de dialogue pour l'ouverture de courrier reçu
 =IDS_FILE_B2B_SENDTHIS(1)	Ouvre une boîte de dialogue pour l'envoi de l'actuel système de fermeture\nOuvre une boîte de dialogue pour l'envoi de l'actuel système de fermeture
 =IDS_FILE_B2B_EXCHANGE(1)	Transmet les fichiers prêts à l'envoi et reçoit le courrier entrant par Internet
 =IDS_OPTIONS_B2B_AUTOEXCHANGE(1)	Détermine que l'échange de données est effectué automatiquement au démarrage du programme
 =IDS_EDIT_CONSISTENCY(1)	Vérifie si l'installation contient des désignations de cylindres ou de clés doubles, etc.
-=IDS_VIEW_GROUNDPLAN(1)	Bascule entre le plan du local et la représentation sous forme de listes des portes.
+=IDS_VIEW_GROUNDPLAN(1)	Bascule entre le Plan de Local et la représentation sous forme de listes des portes.
 =AFX_IDS_IDLEMESSAGE(1)	F1 pour l'aide
 =AFX_IDS_HELPMODEMESSAGE(1)	Sélectionnez un objet pour lequel vous voulez obtenir de l'aide
 =IDS_FILE_NEW(1)	Etablir un nouveau système\nEtablir un nouveau système
@@ -1107,12 +1107,12 @@
 =IDP_INSERTNUMCHAR_CYL(1)	Vous n'avez pas saisi de code de numérotation (@) dans le champ 'Numéro'.\nVoulez-vous créer des cylindres à fermeture identique ?
 =IDP_SELECTAFRAME(1)	Aucune vue de données démarrée !\nSélectionnez une ou plusieurs vues de données dans le menu Options/vues devant être démarrées lors de l'ouverture d'un fichier.
 =IDP_FIELDEMPTY(1)	Ce champ doit être renseigné.
-=IDS_PRTF_DATALISTS(1)	Aperçu liste
-=IDS_PRTF_MATRIXVW(1)	Plan d'organigramme
-=IDS_PRTF_CALCULATOR(1)	Module de calcul
-=IDS_PRTF_DESIGNER(1)	Designer système
+=IDS_PRTF_DATALISTS(1)	Aperçu Listes
+=IDS_PRTF_MATRIXVW(1)	Plan d'Organigramme
+=IDS_PRTF_CALCULATOR(1)	Module de Calcul
+=IDS_PRTF_DESIGNER(1)	Designer Système
 =IDS_PRTF_COVERSHEET(1)	Page de garde\n\n\nHistoire:
-=IDS_PRTF_MATRIXPRN(1)	Plan d'organigramme
+=IDS_PRTF_MATRIXPRN(1)	Plan d'Organigramme
 =IDS_PRTF_PINNINGLIST(1)	Plan de montage
 =IDS_PRTF_CYLREPAIR(1)	Ordre\nOrdre de réparation de cylindre\n\nAvec celui-ci nous commandons respectivement 1 pièce du/des cylindre(s) suivant(s):||Date:|Installation-de-fermeture:|Produit:|(Ville, Date)|(Signature)|A|Qté-de-commande
 =IDS_PRTF_CYL2KEY(1)	Liste de connexions\nListe cylindres - clés
@@ -1249,7 +1249,7 @@
 =IDS_MACHINE_UNOCODESTR(1)	Installer Unocode\nProduit/No de carte:\nNo de carte:\n
 =IDS_MACHINE_ECOSSTR(1)	Installer Ecos II\nProduit/utilisation:\n&Utilisation:\n
 =IDP_MACHINE_ECOSWARN(1)	Attention!\nLes descriptions de clés contiennent des caractères autres que numérique\nLa fonction de série Ecos II ne peut pas être utilisée pour fraiser les clés transmises.
-=IDP_MACHINE_NOTRANSFER(1)	L'interface machine n'est accessible qu'après la transmission des valeurs de taille et de piston du module de calcul dans la base de données.\nAucun transfert n'a pourtant été effectué.
+=IDP_MACHINE_NOTRANSFER(1)	L'Interface Machine n'est accessible qu'après la transmission des valeurs de taille et de piston du Module de Calcul dans la base de données.\nAucun transfert n'a pourtant été effectué.
 =IDP_MACHINE_BRANDERROR(0)	Les installations de cette fabrication ne peuvent pas être sorties sur la machine sélectionnée.
 =IDS_MACHINE_QUATTROSTR(1)	Installer Quattrocode\nProduit/No de série Silce:\nNo de série Silca:\n
 =IDP_CGA_NOCGA(1)	L'administration de groupes de codes ne peut être démarrée.\n\nLe fichier LBWCGA.EXE n'est pas présent dans le répertoire LOCKBASE, a été endommagé ou ne peut être lancé pour d'autres raisons (par. ex. Windows 3.1 ou antérieur).
@@ -1260,7 +1260,7 @@
 =IDS_LISTS_GROUNDPLAN_FILTER(1)	Fichiers graphiques pris en charge
 =IDP_LISTS_GROUNDPLAN_DEL(1)	Êtes-vous sûr de vouloir supprimer ce plan ?
 =IDP_LISTS_GROUNDPLAN_REMITEMS(1)	Êtes-vous sûr de vouloir retirer %lu portes de ce plan ?
-=IDP_LISTS_GROUNDPLAN_LOAD(1)	Erreur lors du chargement du plan de local '%s' :\nLe nom du plan est invalide.\nLe fichier lié au plan de local ne se trouve pas à l'endroit attendu. Entrez à nouveau le chemin du fichier.\nLe fichier lié au plan de local n'est pas un fichier graphique ou n'est pas d'un format pris en charge. Veuillez sélectionner un autre fichier.\n
+=IDP_LISTS_GROUNDPLAN_LOAD(1)	Erreur lors du chargement du plan de local '%s' :\nLe nom du plan n'est pas valide.\nLe fichier lié au plan de local ne se trouve pas à l'endroit attendu. Entrez à nouveau le chemin du fichier.\nLe fichier lié au plan de local n'est pas un fichier graphique ou n'est pas d'un format pris en charge. Veuillez sélectionner un autre fichier.\n
 =IDP_BRANDSET_IMPORTERROR(1)	Erreur lors de la initialisation du module de fabrication '%s':\nLe fichier '%s' ne peut être ouvert.\nLe fichier '%s' ne contient que des données invalides.\nImpossible d'écrire dans le fichier '%s'.
 =IDP_BRANDSET_IMPORTOK(1)	Les données pour le module de fabrication '%s' ont été lues avec succès.
 =IDP_DOC_ASK_TO_SAVE(1)	Les données dans '%s' ont été modifiées.\nVoulez-vous enregistrer les modifications?
@@ -1322,7 +1322,7 @@
 =IDS_WINDOW_FOCUSPREV(1)	Basculer vers la base de données précédente pour visionner des registres de données
 =IDS_WINDOW_FOCUSNEXT(1)	Feuilleter vers la prochaine base de données pour visionner des registres de données
 =IDS_OPTIONS_UADMIN(1)	Ouvrir ou activer l'administration des utilisateurs
-=IDS_OPTIONS_CREATOR(1)	Activez ce réglage, pour utiliser l'Assistant d'organigramme pour créer des nouveaux systèmes de fermetures
+=IDS_OPTIONS_CREATOR(1)	Activez ce réglage, pour utiliser l'Assistant d'Organigramme pour créer des nouveaux systèmes de fermetures
 =IDS_OPTIONS_CTDBDOC(1)	Activez ce réglage, pour afficher les textes d'aide concernant les produits des cylindres lors de la création ou de l'édition des cylindres
 =IDS_OPTIONS_B2B_ADMIN(1)	Ouvre une boîte de dialogue pour administrer des Cartes de visite B2B
 =IDS_EDIT_SORT(1)	Classe les registres dans la présentation non-triée
@@ -1340,7 +1340,7 @@
 =IDP_USERS_ERR_OLDPWD(1)	L’ancien mot de passe est incorrect.
 =IDP_USERS_CHGPWD(1)	Le mot de passe pour l’utilisateur '%s' a été modifié.
 =IDS_USERS_INSTRUCT(1)	Initialisation de la base de données des utilisateurs.Veuillez saisir un nom et un mot de passe pour l'administrateur maître:|Pour s'identifier dans LOCKBASE, veuillez saisir votre nom d'utilisateur et votre mot de passe dans les champs suivants:|Pour modifier votre mot de passe, tapez d'abord votre ancien mot de passe, puis votre nouveau mot de passe:
-=IDS_USERS_RIGHTS(1)	Vue:0-3:Aperçu liste;Plan d'organigramme;Module de calcul;Designer système\nAccès aux données:10-12:Modifier installations;Données techniques;Modifier installations calculées\nOutils:50-52:Interface machine;Echange de données Internet (B2B);Charger et installer les mises à jour
+=IDS_USERS_RIGHTS(1)	Vue:0-3:Aperçu Listes;Plan d'Organigramme;Module de Calcul;Designer Système\nAccès aux données:10-12:Modifier installations;Données techniques;Modifier installations calculées\nOutils:50-52:Interface machine;Echange de données Internet (B2B);Charger et installer les mises à jour
 =IDS_UPDATE_TXT0(1)	LOCKBASE va tenter de contrôler si des nouvelles mises à jour sont disponibles sur le serveur Web Lockbase pour cette installation.\nAppuyez sur 'Suivant >>' pour poursuivre, ou sur 'Annuler' pour quitter l'opération.\n\nSi vous désirez désactiver la fonction de mise à jour Web, sélectionnez 'À propos de LOCKBASE...' dans le menu d'Aide et décochez la case 'Contrôler automatiquement tous les...'.
 =IDS_UPDATE_TXT1(1)	\nConnexion avec le serveur Web LOCKBASE en cours ...
 =IDS_UPDATE_TXT2(1)	La mise à jour suivante a été trouvée:\n\n%s\n\nAppuyez sur 'Suivant >>' pour charger et installer la mise à jour maintenant ou sur 'Annuler' pour quitter l'opération.
@@ -1355,7 +1355,7 @@
 =IDP_UPDATE_ERRTMP(1)	La mise à jour n'a pas pu être copiée sur le disque dur de l'ordinateur.\n\nLOCKBASE enregistre la mise à jour dans un fichier temporaire et nécessite les droits d'écriture ainsi qu'un espace disque suffisant dans le répertoire temporaire.
 =IDP_UPDATE_CNFCANCEL(1)	Êtes-vous sûr de vouloir interrompre\nle service de mise à jour LOCKBASE?
 =IDS_PRTFX_COVERSHEET(1)	Historique
-=IDS_PRTFX_MATRIXPRN(1)	Cylindres central|&Format paysage|&Sortir variures planifiées|&Plan de fonction uniquement|&Disposition*Clé haut*Cylindre haut*Plan d'organigramme Euro*Groupes des Cylindres|Facteur de &graduation (%)
+=IDS_PRTFX_MATRIXPRN(1)	Cylindres central|&Format paysage|&Sortir variures planifiées|&Plan de fonction uniquement|&Disposition*Clé haut*Cylindre haut*Plan d'Organigramme Euro*Groupes des Cylindres|Facteur de &graduation (%)
 =IDS_PRTFX_PINNINGLIST(1)	&Pistons accumulatifs|&Rassembler identiques|&Sortir variures planifiées|&Nombre par ligne|&Evaluate cylinder quantity|&Minimum lines per pinning
 =IDS_PRTFX_LETTER(1)	Texte lettre|Destinataire|Date|Installation|Produit|Ville, Date|Signature|Qté-de-commande|&Champ de qté de commande|&Adresse à (mm)|&Titre à (mm)
 =IDS_PRTFX_KEYSTOCK(1)	Signature|&Afficher le champ de signature|&Stock*Tous*Actuel*Disponible*Remise*Détruite
@@ -1375,7 +1375,7 @@
 =IDP_CISA_CODE_ERR(1)		Le fichier '%s' existe déjà.
 =IDP_CISA_FILENAME_ERR(0)	Le nom du fichier '%1' ne corresponds pas au numéro système '%2'.
 =IDP_CYLTYPEDB_SCANERR(1)	Erreur lors de l'importation du fichier d'articles '%s', ligne %d, colonne %d. Le processus de l'importation a été annulé.
-=IDP_C2B_ERROR(1)	Une erreur est apparue pendant la création du programme de commande (C2B).\nLe programme ne peut pas être établi dans le répertoire LOCKBASE.\nLe fichier '%s' n'existe pas ou est endommagé.\nLe fichier '%s' ne peut pas être créé ou recouvert.\nAucun fichier n'a été trouvé qui peut servir comme modèle de format ('LbwC2B.lbt').\nLe module B2B n'est pas prêt à fonctionner.
+=IDP_C2B_ERROR(1)	Une erreur est apparue pendant la création du programme de commande (C2B).\nLe programme ne peut pas être établi dans le répertoire LOCKBASE.\nLe fichier '%s' n'existe pas ou est endommagé.\nLe fichier '%s' ne peut pas être créé ou recouvert.\nAucun fichier n'a été trouvé qui peut servir comme modèle de format ('LbwC2B.lbt').\nLe Module B2B n'est pas prêt à fonctionner.
 =IDP_C2B_SUCCESS(1)	Le programme de commande (C2B) a été créé avec succès.\n\rLe fichier '%s' a été utilisé comme modèle de format.\r\rVous devriez toutefois mieux créer un propre modèle de format pour le programme de commande et l'enregistrer sous le nom 'LbwC2B.lbt' dans le répertoire LOCKBASE.
 =IDP_CYL_INVEXTRA(1)	L'équipement spécial '%s' est inadmissible.
 =IDP_CYL_USERDEFTYPE(1)	Le type de cylindre écrit est inconnu.\rCe type devrait-il être employé de toute façon ?
@@ -1399,17 +1399,17 @@
 =IDS_FILE_ORDERS_NEW(1)	Etablit une nouvelle commande et l'ouvre pour l'édition\nEtablit une nouvelle commande et l'ouvre pour l'édition
 =IDS_FILE_ORDERS_VIEW(1)	Ouvre l'administration de commandes\nOuvre l'administration de commandes
 =IDS_FILE_ORDERS_CLOSE(1)	Finir travail à la commande actuelle et fermer commande\nFinir travail à la commande actuelle et fermer commande
-=IDS_OPTIONS_MTRX_SETUP(1)	Ouvre dialogue pour la configuration du Plan d'organigrammes
+=IDS_OPTIONS_MTRX_SETUP(1)	Ouvre dialogue pour la configuration du Plan d'Organigrammes
 =IDS_EDIT_COPY_COL(1)	Copier des colonnes marquées dans le presse-papier\nCopier des colonnes marquées dans le presse-papier
 =IDS_EDIT_PASTE_COL(1)	Insérer des colonnes du presse-papier\nInsérer des colonnes du presse-papier
 =IDS_EDIT_COPY_LINE(1)	Copier des lignes marquées dans le presse-papier\nCopier des lignes marquées dans le presse-papier
 =IDS_EDIT_PASTE_LINE(1)	Insérer des lignes du presse-papier\nInsérer des lignes du presse-papier
-=IDS_OPTIONS_KEYSUP(1)	Affiche le Plan d'organigramme sous forme normal (clés haut)\nAffiche le Plan d'organigramme sous forme normal (clés haut)
+=IDS_OPTIONS_KEYSUP(1)	Affiche le Plan d'Organigramme sous forme normal (clés haut)\nAffiche le Plan d'Organigramme sous forme normal (clés haut)
 =IDS_EDIT_COPY(1)	Copier des registres marqués dans le presse-papier\nCopier des registres marqués dans le presse-papier
 =IDS_EDIT_PASTE(1)	Insérer des registres du presse-papier\nInsérer des registres du presse-papier
 =IDS_STRFRM_CYLGROUP(1)	\nGroupe\nDescription\nDisponible\nPrévu\nCylindres\n
-=IDS_OPTIONS_CYLSUP(1)	Affiche le Plan d'organigramme sous forme normal (cylindres haut)\nAffiche le Plan d'organigramme sous forme normal (cylindres haut)
-=IDS_OPTIONS_CYLGROUPS(1)	Affiche le Plan d'organigramme rassemblé selon des groupes de cylindres (groupes de cylindres, clés supérieures, cylindres centrals)\nAffiche le Plan d'organigramme rassemblé selon des groupes de cylindres (groupes de cylindres, clés supérieures, cylindres centrals)
+=IDS_OPTIONS_CYLSUP(1)	Affiche le Plan d'Organigramme sous forme normal (cylindres haut)\nAffiche le Plan d'Organigramme sous forme normal (cylindres haut)
+=IDS_OPTIONS_CYLGROUPS(1)	Affiche le Plan d'Organigramme rassemblé selon des groupes de cylindres (groupes de cylindres, clés supérieures, cylindres centrals)\nAffiche le Plan d'Organigramme rassemblé selon des groupes de cylindres (groupes de cylindres, clés supérieures, cylindres centrals)
 =AFX_IDS_OPENFILE(1)	Ouvrir
 =AFX_IDS_SAVEFILE(1)	Enregistrer sous
 =AFX_IDS_ALLFILTER(1)	Tous les fichiers (*.*)
@@ -1599,9 +1599,9 @@
 =IDD_B2B_RECV_OK(1)	Fermer
 
 =IDD_B2B_SETUP_R1(1)	LOCKBASE B2B - Setup (1)
-=IDD_B2B_SETUP_R1_STATICTXT1(1)	Avec cet Assistant d'organigramme vous pouvez créer une nouvelle clé cryptographique pour votre carte de visite. Cela peut être nécessaire, lorsqu'on craint, que votre clé actuelle soit parvenue en mains non autorisé.
+=IDD_B2B_SETUP_R1_STATICTXT1(1)	Avec cet Assistant d'Organigramme vous pouvez créer une nouvelle clé cryptographique pour votre carte de visite. Cela peut être nécessaire, lorsqu'on craint, que votre clé actuelle soit parvenue en mains non autorisé.
 =IDD_B2B_SETUP_R1_STATICTXT2(1)	Pour des raisons de sécurité on doit autoriser un échange de clés. Le processus se passe par conséquent en trois étapes:
-=IDD_B2B_SETUP_R1_STATICTXT3(1)	1. Vous créez une nouvelle clé cryptographique avec cet Assistant d'organigramme, dont part publique sera transférée avec une demande d'autorisation au serveur B2B LOCKBASE (cela va automatiquement).
+=IDD_B2B_SETUP_R1_STATICTXT3(1)	1. Vous créez une nouvelle clé cryptographique avec cet Assistant d'Organigramme, dont part publique sera transférée avec une demande d'autorisation au serveur B2B LOCKBASE (cela va automatiquement).
 =IDD_B2B_SETUP_R1_STATICTXT4(1)	2. La société Körtner && Muth GmbH entre en contact avec vous et examine au moyen de l'empreinte digitale/'fingerprint' (une somme de contrôle sûre), si la clé demandée vient en effet de vous.
 =IDD_B2B_SETUP_R1_STATICTXT5(1)	3. Lorsque la clé est authentique, elle va être signée électroniquement et sera mis à la disposition d'autres participants dans le réseau B2B pour le téléchargement.
 =IDD_B2B_SETUP_R1_STATICTXT6(1)	Attention: Le processus d'autorisation est onéreux à titre! Lorsque vous ne voulez pas créer une nouvelle clé, annulez maintenant.
@@ -1694,7 +1694,7 @@
 =IDP_STDBRAND_NODATA(1)	Aucun profil n'est disponible pour le module de fabrication '%s'.
 =AFX_IDS_APP_TITLE_CGA(1)	Administration de groupes de codes
 
-=IDD_MAIN(1)	Assistant d'organigramme LOCKBASE
+=IDD_MAIN(1)	Assistant d'Organigramme LOCKBASE
 =IDD_MAIN_PANEL_SYS(1)	Page de garde
 =IDD_MAIN_STATIC_100(1)	Objet
 =IDD_MAIN_STATIC_101(1)	&Numéro du plan:
@@ -1752,7 +1752,7 @@
 =IDD_MAIN_OK(1)	&Charger
 =IDD_MAIN_BUTTON_PRINT(1)	&Imprimer...
 =IDD_MAIN_BUTTON_SEND(1)	&Commander...
-=IDD_MAIN_STATIC_FIN_C2B(1)	Veuillez contrôler votre saisie au moyen de la vue d'ensemble finale suivante. Choisissez 'Imprimer...' pour imprimer le plan d'organigramme ou 'Commander...' pour communiquer les données comme commande par Internet. 'Fini' finit le programme.
+=IDD_MAIN_STATIC_FIN_C2B(1)	Veuillez contrôler votre saisie au moyen de la vue d'ensemble finale suivante. Choisissez 'Imprimer...' pour imprimer le Plan d'Organigramme ou 'Commander...' pour communiquer les données comme commande par Internet. 'Fini' finit le programme.
 
 =IDD_CTDB_EXTRA(1)	Equipement spécial
 =IDD_CTDB_EXTRA_LIST_MAIN(1)	Abréviation\tDescription
@@ -1762,10 +1762,10 @@
 =IDD_CTDB_EXTRA_OK(1)	OK
 
 =IDP_MSG_DIGITAL(1)	Veuillez saisir un nombre entier positif.
-=IDP_MSG_ABORT(1)	Si vous fermez l'Assistant d'organigramme maintenant, aucun système sera créé et toutes les données saisies sont perdues.\n\nVous êtes sûr, que vous voulez fermer l'Assistant d'organigramme?
-=IDP_MSG_CLOSE(1)	Vous êtes sûr, que vous voulez fermer l'Assistant d'organigramme?
+=IDP_MSG_ABORT(1)	Si vous fermez l'Assistant d'Organigramme maintenant, aucun système sera créé et toutes les données saisies sont perdues.\n\nVous êtes sûr, que vous voulez fermer l'Assistant d'Organigramme?
+=IDP_MSG_CLOSE(1)	Vous êtes sûr, que vous voulez fermer l'Assistant d'Organigramme?
 =IDP_MSG_INVEXTRA(1)	L'équipement spécial '%s' est inadmissible.
-=AFX_IDS_APP_TITLE_Creator(1)	Assistant d'organigramme LOCKBASE
+=AFX_IDS_APP_TITLE_Creator(1)	Assistant d'Organigramme LOCKBASE
 =IDS_HLP_BTNUP(1)	En cliquant sur ce bouton vous déplacez les lignes marquées par une position vers le haut.
 =IDS_HLP_BTNDN(1)	En cliquant sur ce bouton vous déplacez les lignes marquées par une position vers le bas.
 =IDS_HLP_BTNABORT(1)	Appuyez sur ce bouton, pour rétrograder les modifications apportées dans les champs de saisie de données marquées.
@@ -1816,7 +1816,7 @@
 =IDS_HLP_BTNFINISH(1)	En cliquant sur ce bouton vous terminez la saisie et lancez la création du système.\n\nExaminez la justesse et l'intégralité de votre entrée, avant que vous ne fassiez fournir le système.
 =IDS_HLP_CYLBTNEXTRA(1)	Cliquez ici, pour choisir les équipements spéciaux des cylindres. Vous pouvez combiner plusieurs équipements spéciaux, pourvu que cela soit techniquement possible.
 =IDS_HLP_BTNFINISH_C2B(1)	En cliquant sur ce bouton vous terminez le programme.
-=IDS_HLP_FINBTNPRINT(1)	En cliquant sur ce bouton vous imprimer le plan d'organigramme.
+=IDS_HLP_FINBTNPRINT(1)	En cliquant sur ce bouton vous imprimer le Plan d'Organigramme.
 =IDS_HLP_FINBTNSEND(1)	En cliquant sur ce bouton vous pouvez expédier les données comme commande par Internet.
 =IDS_HLP_CYLTYPE_1(1)	Entrez-y le type du cylindre.
 =IDS_HLP_CYLEXTRA_1(1)	Entrez-y les équipements spéciaux du cylindre.
@@ -1873,11 +1873,11 @@
 
 =M_INTRO_P9(0)	LOCKBASE Calculator 
 
-=M_INTRO_P10(0)	La version LOCKBASE w{Calculator} sert à calculer des systèmes de fermeture. La plupart des fabrications de cylindres européennes sont prises en charge par LOCKBASE. De plus, il est possible d'administrer les registres de clés et de cylindres ainsi que de créer des plans d'organigrammes Les fabricants de systèmes de fermetures diminuent au minimum le temps nécessaire au calcul de systèmes de fermetures grâce à LOCKBASE w{Calculator}. De plus tout défaut de fermeture lié à des erreurs de calcul est totalement exclu. 
+=M_INTRO_P10(0)	La version LOCKBASE w{Calculator} sert à calculer des systèmes de fermeture. La plupart des fabrications de cylindres européennes sont prises en charge par LOCKBASE. De plus, il est possible d'administrer les registres de clés et de cylindres ainsi que de créer des plans d'organigrammes Les fabricants de systèmes de fermetures diminuent au minimum le temps nécessaire au calcul de systèmes de fermetures grâce à LOCKBASE w{Module de Calcul}. De plus tout défaut de fermeture lié à des erreurs de calcul est totalement exclu. 
 
 =M_INTRO_P11(0)	LOCKBASE Professional 
 
-=M_INTRO_P12(0)	Cette version de LOCKBASE offre tout ce qui est nécessaire aux fabricants d'installations de fermetures pour la planification, le calcul et l'administration de leurs systèmes. Outre les quatre registres de données du l'w{Aperçu listes}->LST, le w{Plan d'organigramme}->MTRX et le w{Module de calcul}->CALC avec l'w{Administration des groupes de codes}->CALC_CGA, LOCKBASE w{Professional} comprend également de w{Designer système}->DSGN, grâce auquel il est possible de structurer facilement et de saisir des installations de fermetures hiérarchisées. Les sous-groupes d'un système de fermeture peuvent être calculés individuellement, de manière à ce que la taille et la répartition des variations des combinaisons soient facilement optimisables. 
+=M_INTRO_P12(0)	Cette version de LOCKBASE offre tout ce qui est nécessaire aux fabricants d'installations de fermetures pour la planification, le calcul et l'administration de leurs systèmes. Outre les quatre registres de données du l'w{Aperçu Listes}->LST, le w{Plan d'Organigramme}->MTRX et le w{Module de Calcul}->CALC avec l'w{Administration des Groupes de Codes}->CALC_CGA, LOCKBASE w{Professional} comprend également de w{Designer Système}->DSGN, grâce auquel il est possible de structurer facilement et de saisir des installations de fermetures hiérarchisées. Les sous-groupes d'un système de fermeture peuvent être calculés individuellement, de manière à ce que la taille et la répartition des variations des combinaisons soient facilement optimisables. 
 
 =M_INTRO_CONVENTIONS(0)	1. A propos de ce Manuel 
 
@@ -1887,7 +1887,7 @@
 
 =M_INTRO_CONVENTIONS_P1_B(0)	Le guide {'Premiers pas avec LOCKBASE'}->FSTEP est une petite introduction à la création d'un petit système de fermeture avec LOCKBASE et les modes de fonctionnement des différentes parties logicielles. 
 
-=M_INTRO_CONVENTIONS_P1_C(0)	Elle est suivie par les descriptions de l'utilisation de LOCKBASE, classées par modules de programmes. La fenêtre w{Principale}->MAIN, les {Boites de dialogues générales}->DLG, l'w{Aperçu listes}->LST, le w{Plan d'organigramme}->MTRX, le w{Module de calcul}->CALC et le w{Designer système}->DSGN ainsi que le {gestionnaire d'impression}->PRN sont décrits dans des chapitres séparés. 
+=M_INTRO_CONVENTIONS_P1_C(0)	Elle est suivie par les descriptions de l'utilisation de LOCKBASE, classées par modules de programmes. La fenêtre w{Principale}->MAIN, les {Boites de dialogues générales}->DLG, l'w{Aperçu Listes}->LST, le w{Plan d'Organigramme}->MTRX, le w{Module de Calcul}->CALC et le w{Designer Système}->DSGN ainsi que le {gestionnaire d'impression}->PRN sont décrits dans des chapitres séparés. 
 
 =M_INTRO_CONVENTIONS_P1_D(0)	A la fin du manuel se trouve un glossaire, dans lequel sont expliqués les termes les plus courants, pas seulement sur LOCKBASE, mais aussi sur l'informatique. 
 
@@ -1897,7 +1897,7 @@
 
 =M_INTRO_CONVENTIONS_P2_B(0)	les boutons et les champs de saisie: f{soulignés}, p.ex. f{OK}, f{Fichier}. 
 
-=M_INTRO_CONVENTIONS_P2_C(0)	Les noms de fenêtres et de boîtes de dialogues: w{italiques}, p.ex. w{Aperçu listes}. 
+=M_INTRO_CONVENTIONS_P2_C(0)	Les noms de fenêtres et de boîtes de dialogues: w{italiques}, p.ex. w{Aperçu Listes}. 
 
 =M_INTRO_CONVENTIONS_P2_D(0)	Les désignations de touches: k{Petites Majuscules}, p.ex. k{Entrée}. Un + (plus) entre deux noms de touches du clavier signifie alors que la première touche doit rester enfoncée et maintenue jusqu'à ce que la deuxième soit tapée, p.ex. k{Maj+Entrée}. Par contre, un trait d'union entre les désignations de touches signifie que les touches doivent être enfoncées l'une après l'autre, p.ex. k{Alt-D-F}. 
 
@@ -2019,7 +2019,7 @@
 
 =M_INTRO_WIN_WINDOWS_P6(0)	En tirant le cadre de la fenêtre, vous pouvez modifier la taille de la fenêtre, en tirant la barre de titre, vous pouvez déplacer le fenêtre. 
 
-=M_INTRO_WIN_WINDOWS_P7(0)	Les utilisateurs du clavier possèdent les mêmes options au moyen du menu m{Système} que l'on peut ouvrir en combinant les touches k{Alt+Espace} ou k{Alt+ -} (trait d'union) ou par un clic de souris sur le champ menu système en haut à gauche de chaque fenêtre. Les fenêtres LOCKBASE w{Plan d'organigramme}->MTRX, w{Aperçu listes}->LST, w{Designer système}->DSGN et w{Module de calcul}->CALC possèdent également un champ menu système accessible avec les touches k{Alt+Espace}. 
+=M_INTRO_WIN_WINDOWS_P7(0)	Les utilisateurs du clavier possèdent les mêmes options au moyen du menu m{Système} que l'on peut ouvrir en combinant les touches k{Alt+Espace} ou k{Alt+ -} (trait d'union) ou par un clic de souris sur le champ menu système en haut à gauche de chaque fenêtre. Les fenêtres LOCKBASE w{Plan d'Organigramme}->MTRX, w{Aperçu Listes}->LST, w{Designer Système}->DSGN et w{Module de Calcul}->CALC possèdent également un champ menu système accessible avec les touches k{Alt+Espace}. 
 
 =M_INTRO_WIN_COMMANDS(0)	Menus, commandes et boîtes de dialogue 
 
@@ -2059,19 +2059,19 @@
 
 =M_FSTEP_P1(0)	Plan d'Organigramme 
 
-=M_FSTEP_P2(0)	Le w{Plan d'organigramme}->MTRX LOCKBASE aide à la saisie et à la spécification de systèmes de fermeture. C.-à-d. vous pouvez ici saisir, ajouter, supprimer ou modifier des cylindres et des clés d'une installation de fermeture. De plus vous pouvez y fixer les connexions. 
+=M_FSTEP_P2(0)	Le w{Plan d'Organigramme}->MTRX LOCKBASE aide à la saisie et à la spécification de systèmes de fermeture. C.-à-d. vous pouvez ici saisir, ajouter, supprimer ou modifier des cylindres et des clés d'une installation de fermeture. De plus vous pouvez y fixer les connexions. 
 
 =M_FSTEP_P3(0)	Module de Calcul 
 
-=M_FSTEP_P4(0)	Le w{Module de calcul}->CALC LOCKBASE calcule les systèmes de fermeture saisis dans l'w{Aperçu listes}->LST, le w{Plan d'organigramme}->MTRX ou dans le w{Designer système}->DSGN selon vos paramétrages. 
+=M_FSTEP_P4(0)	Le w{Module de Calcul}->CALC LOCKBASE calcule les systèmes de fermeture saisis dans l'w{Aperçu Listes}->LST, le w{Plan d'Organigramme}->MTRX ou dans le w{Designer Système}->DSGN selon vos paramétrages. 
 
 =M_FSTEP_P5(0)	Aperçu Listes 
 
-=M_FSTEP_P6(0)	L'w{Aperçu listes}->LST LOCKBASE contient des listes de propriétaires de clés, de clés, de cylindres et de portes. On peut également y saisir, ajouter, supprimer ou modifier des registres. L'w{Aperçu listes} est approprié pour l'administration de systèmes de fermeture. 
+=M_FSTEP_P6(0)	L'w{Aperçu Listes}->LST LOCKBASE contient des listes de propriétaires de clés, de clés, de cylindres et de portes. On peut également y saisir, ajouter, supprimer ou modifier des registres. L'w{Aperçu Listes} est approprié pour l'administration de systèmes de fermeture. 
 
 =M_FSTEP_P7(0)	Designer Système 
 
-=M_FSTEP_P8(0)	Le w{Designer système}->DSGN LOCKBASE est très utile lors de la saisie d'un système de fermeture. Il soutient la planification de grands systèmes de fermeture hiérarchisés. 
+=M_FSTEP_P8(0)	Le w{Designer Système}->DSGN LOCKBASE est très utile lors de la saisie d'un système de fermeture. Il soutient la planification de grands systèmes de fermeture hiérarchisés. 
 
 =M_FSTEP_P9(0)	Gestionnaire d'Impression 
 
@@ -2105,17 +2105,17 @@
 
 =M_FSTEP_SETUP_P7(0)	Visite guidée: 
 
-=M_FSTEP_SETUP_P7_A(0)	Si vous voulez saisir les registres avec le w{Plan d'organigramme}, feuilletez jusqu'au sujet {'Saisie de registres dans le Plan d'organigramme'}->FSTEP_SETUP_MTRX. 
+=M_FSTEP_SETUP_P7_A(0)	Si vous voulez saisir les registres avec le w{Plan d'Organigramme}, feuilletez jusqu'au sujet {'Saisie de registres dans le Plan d'Organigramme'}->FSTEP_SETUP_MTRX. 
 
-=M_FSTEP_SETUP_P7_B(0)	Si vous voulez saisir les registres avec l'w{Aperçu listes} feuilletez jusqu'au sujet {'Saisie de registres dans l'Aperçu listes'}->FSTEP_SETUP_LST 
+=M_FSTEP_SETUP_P7_B(0)	Si vous voulez saisir les registres avec l'w{Aperçu Listes} feuilletez jusqu'au sujet {'Saisie de registres dans l'Aperçu Listes'}->FSTEP_SETUP_LST 
 
-=M_FSTEP_SETUP_P7_C(0)	Si vous voulez saisir les registres avec le w{Designer système} feuilletez jusqu'au sujet {'Saisie de registres dans le Designer système'}->FSTEP_SETUP_DSGN. 
+=M_FSTEP_SETUP_P7_C(0)	Si vous voulez saisir les registres avec le w{Designer Système} feuilletez jusqu'au sujet {'Saisie de registres dans le Designer Système'}->FSTEP_SETUP_DSGN. 
 
-=M_FSTEP_SETUP_MTRX(0)	Saisie de registres dans le Plan d'organigramme 
+=M_FSTEP_SETUP_MTRX(0)	Saisie de registres dans le Plan d'Organigramme 
 
-=M_FSTEP_SETUP_MTRX_P1(0)	Basculez dans la fenêtre dans laquelle le w{Plan d'organigramme} est représenté, 
+=M_FSTEP_SETUP_MTRX_P1(0)	Basculez dans la fenêtre dans laquelle le w{Plan d'Organigramme} est représenté, 
 
-=M_FSTEP_SETUP_MTRX_P1_A(0)	en sélectionnant la commande m{Ouvrir Plan d'organigramme} du menu m{Fenêtre}. 
+=M_FSTEP_SETUP_MTRX_P1_A(0)	en sélectionnant la commande m{Ouvrir Plan d'Organigramme} du menu m{Fenêtre}. 
 
 =M_FSTEP_SETUP_MTRX_P2(0)	Créez les registres de données comme suit: 
 
@@ -2179,13 +2179,13 @@
 
 =M_FSTEP_SETUP_MTRX_P12(0)	Visite guidée: 
 
-=M_FSTEP_SETUP_MTRX_P12_A(0)	Feuilletez jusqu'à la section {'Saisir les variures dans l'Aperçu listes ou dans le Plan d'organigramme'}->FSTEP_SETUP_CONNECT_LM. 
+=M_FSTEP_SETUP_MTRX_P12_A(0)	Feuilletez jusqu'à la section {'Saisir les variures dans l'Aperçu Listes ou dans le Plan d'Organigramme'}->FSTEP_SETUP_CONNECT_LM. 
 
-=M_FSTEP_SETUP_LST(0)	Saisie de registres dans l'Aperçu listes 
+=M_FSTEP_SETUP_LST(0)	Saisie de registres dans l'Aperçu Listes 
 
 =M_FSTEP_SETUP_LST_P1(0)	Basculez dans la fenêtre dans laquelle les listes sont représentées, 
 
-=M_FSTEP_SETUP_LST_P1_A(0)	en sélectionnant la commande m{Ouvrir Aperçu listes} du menu m{Fenêtre}. 
+=M_FSTEP_SETUP_LST_P1_A(0)	en sélectionnant la commande m{Ouvrir Aperçu Listes} du menu m{Fenêtre}. 
 
 =M_FSTEP_SETUP_LST_P2(0)	Vous pouvez éditer les personnes, les clés, les cylindres et les portes, lorsque la liste, dans laquelle les registres sont représentés, est active. Vous pouvez rendre la liste active en 
 
@@ -2255,17 +2255,17 @@
 
 =M_FSTEP_SETUP_LST_P13(0)	Visite guidée: 
 
-=M_FSTEP_SETUP_LST_P13_A(0)	Feuilletez jusqu'à la section {'Saisir les variures dans l'Aperçu listes ou dans le Plan d'organigramme'}->FSTEP_SETUP_CONNECT_LM. 
+=M_FSTEP_SETUP_LST_P13_A(0)	Feuilletez jusqu'à la section {'Saisir les variures dans l'Aperçu Listes ou dans le Plan d'Organigramme'}->FSTEP_SETUP_CONNECT_LM. 
 
-=M_FSTEP_SETUP_CONNECT_LM(0)	Saisir les variures dans l'Aperçu listes ou dans le Plan d'organigramme 
+=M_FSTEP_SETUP_CONNECT_LM(0)	Saisir les variures dans l'Aperçu Listes ou dans le Plan d'Organigramme 
 
-=M_FSTEP_SETUP_CONNECT_LM_P1(0)	Vous pouvez saisir les connexions dans le w{Plan d'organigramme}->MTRX ainsi que dans l'w{Aperçu listes}->LST. 
+=M_FSTEP_SETUP_CONNECT_LM_P1(0)	Vous pouvez saisir les connexions dans le w{Plan d'Organigramme}->MTRX ainsi que dans l'w{Aperçu Listes}->LST. 
 
 =M_FSTEP_SETUP_CONNECT_LM_P2(0)	Connectez la clé de passe générale (CPG) avec les cylindres en 
 
-=M_FSTEP_SETUP_CONNECT_LM_P2_A(0)	cliquant avec la souris sur le registre "CPG" au sein de la liste des fonctions de clés. Il apparaît ensuite au premier plan. Dans l'w{Aperçu listes}->LST cliquez d'abord sur le bouton représentant des clés. 
+=M_FSTEP_SETUP_CONNECT_LM_P2_A(0)	cliquant avec la souris sur le registre "CPG" au sein de la liste des fonctions de clés. Il apparaît ensuite au premier plan. Dans l'w{Aperçu Listes}->LST cliquez d'abord sur le bouton représentant des clés. 
 
-=M_FSTEP_SETUP_CONNECT_LM_P2_B(0)	En appelant la commande m{Connecter} du menu m{Edition}. La boîte de dialogue w{Connecter clé et cylindre}->DLG_DATA_CONNECT apparaît. Dans le w{Plan d'organigramme}->MTRX cliquez sur "Cylindre" dans la zone de groupe f{Connecter avec}. 
+=M_FSTEP_SETUP_CONNECT_LM_P2_B(0)	En appelant la commande m{Connecter} du menu m{Edition}. La boîte de dialogue w{Connecter clé et cylindre}->DLG_DATA_CONNECT apparaît. Dans le w{Plan d'Organigramme}->MTRX cliquez sur "Cylindre" dans la zone de groupe f{Connecter avec}. 
 
 =M_FSTEP_SETUP_CONNECT_LM_P2_C(0)	Marquez tous les cylindres de la liste f{Non-connecté}, en cliquant sur le premier cylindre, tout en maintenant le bouton k{Maj} enfoncé en cliquant sur le dernier registre de cylindre. Tous les cylindres de cette liste apparaissent ensuite au premier plan. 
 
@@ -2273,9 +2273,9 @@
 
 =M_FSTEP_SETUP_CONNECT_LM_P2_E(0)	Quittez cette boîte de dialogue en cliquant sur f{OK}. 
 
-=M_FSTEP_SETUP_CONNECT_LM_P3(0)	La boîte de dialogue w{Connecter clé et cylindres} dans le w{Plan d'organigramme} 
+=M_FSTEP_SETUP_CONNECT_LM_P3(0)	La boîte de dialogue w{Connecter clé et cylindres} dans le w{Plan d'Organigramme} 
 
-=M_FSTEP_SETUP_CONNECT_LM_P4(0)	Les connexions sont représentées de toute façon avec un point rouge dans le w{Plan d'organigramme}->MTRX. Vous pouvez faire afficher les connexions dans l'w{Aperçu listes}->LST en 
+=M_FSTEP_SETUP_CONNECT_LM_P4(0)	Les connexions sont représentées de toute façon avec un point rouge dans le w{Plan d'Organigramme}->MTRX. Vous pouvez faire afficher les connexions dans l'w{Aperçu Listes}->LST en 
 
 =M_FSTEP_SETUP_CONNECT_LM_P4_A(0)	sélectionnant la commande m{Afficher} connexions du menu m{Fenêtre}. 
 
@@ -2285,7 +2285,7 @@
 
 =M_FSTEP_SETUP_CONNECT_LM_P6_A(0)	cliquant avec la souris sur le registre "CG1" au sein de la liste des fonctions de clés. Il apparaît ensuite au premier plan. 
 
-=M_FSTEP_SETUP_CONNECT_LM_P6_B(0)	En appelant la commande m{Connecter} du menu m{Edition}. La boîte de dialogue w{Connecter clé et cylindre} apparaît. Dans le w{Plan d'organigramme}->MTRX cliquez sur "Cylindre" dans la zone de groupe f{Connecter avec}. 
+=M_FSTEP_SETUP_CONNECT_LM_P6_B(0)	En appelant la commande m{Connecter} du menu m{Edition}. La boîte de dialogue w{Connecter clé et cylindre} apparaît. Dans le w{Plan d'Organigramme}->MTRX cliquez sur "Cylindre" dans la zone de groupe f{Connecter avec}. 
 
 =M_FSTEP_SETUP_CONNECT_LM_P6_C(0)	Marquez les trois premiers cylindres de la liste f{Non-connecté}, en cliquant sur le premier cylindre "B1", tout en maintenant le bouton k{Maj} enfoncé en cliquant sur le cylindre "B3". Les cylindres "B1" à "B3" araissent au premier plan. 
 
@@ -2293,7 +2293,7 @@
 
 =M_FSTEP_SETUP_CONNECT_LM_P6_E(0)	Quittez cette boîte de dialogue en cliquant sur f{OK}. 
 
-=M_FSTEP_SETUP_CONNECT_LM_P7(0)	La boîte de dialogue w{Connecter clé et cylindres} dans l'w{Aperçu listes} 
+=M_FSTEP_SETUP_CONNECT_LM_P7(0)	La boîte de dialogue w{Connecter clé et cylindres} dans l'w{Aperçu Listes} 
 
 =M_FSTEP_SETUP_CONNECT_LM_P8(0)	Vous pouvez également utiliser la boîte de dialogue w{Connexion} pour créer les connexions des clés de groupe C1 à C3. 
 
@@ -2315,7 +2315,7 @@
 
 =M_FSTEP_SETUP_CONNECT_LM_P10(0)	en répétant les 5 dernières étapes. 
 
-=M_FSTEP_SETUP_CONNECT_LM_P11(0)	Les connexions dans le w{Plan d'organigramme} 
+=M_FSTEP_SETUP_CONNECT_LM_P11(0)	Les connexions dans le w{Plan d'Organigramme} 
 
 =M_FSTEP_SETUP_CONNECT_LM_P12(0)	Pour créer les clés individuelles des cylindres B4 à B6 avec leurs connexions: 
 
@@ -2341,13 +2341,13 @@
 
 =M_FSTEP_SETUP_DSGN(0)	Saisir les données et les variures dans le Designer Système 
 
-=M_FSTEP_SETUP_DSGN_P1(0)	Vous pouvez établir des registres et des connexions en une étape dans le w{Designer système}->DSGN. 
+=M_FSTEP_SETUP_DSGN_P1(0)	Vous pouvez établir des registres et des connexions en une étape dans le w{Designer Système}->DSGN. 
 
-=M_FSTEP_SETUP_DSGN_P2(0)	Pour basculer dans la fenêtre w{Designer système}, 
+=M_FSTEP_SETUP_DSGN_P2(0)	Pour basculer dans la fenêtre w{Designer Système}, 
 
-=M_FSTEP_SETUP_DSGN_P2_A(0)	sélectionnez la commande m{Ouvrir Designer système} du menu m{Fenêtre}. 
+=M_FSTEP_SETUP_DSGN_P2_A(0)	sélectionnez la commande m{Ouvrir Designer Système} du menu m{Fenêtre}. 
 
-=M_FSTEP_SETUP_DSGN_P3(0)	Votre système de fermeture est symbolisé par la boîte avec le numéro système en haut à gauche dans le w{Designer système}. 
+=M_FSTEP_SETUP_DSGN_P3(0)	Votre système de fermeture est symbolisé par la boîte avec le numéro système en haut à gauche dans le w{Designer Système}. 
 
 =M_FSTEP_SETUP_DSGN_P4(0)	Créez la clé de passe générale CPG en 
 
@@ -2385,7 +2385,7 @@
 
 =M_FSTEP_SETUP_DSGN_P6_L(0)	Quittez la boîte de dialogue w{Ajouter groupe} en cliquant sur f{OK}. 
 
-=M_FSTEP_SETUP_DSGN_P7(0)	Dans l'arborescence de groupe à gauche dans le w{Designer système} apparaît maintenant un rectangle "1" sous l'ovale avec le numéro système. Les clés de groupe croisées apparaissent dans la liste f{Clés de groupes} dans la zone de saisie f{Données groupes} en bas à droite du w{Designer système}->DSGN. 
+=M_FSTEP_SETUP_DSGN_P7(0)	Dans l'arborescence de groupe à gauche dans le w{Designer Système} apparaît maintenant un rectangle "1" sous l'ovale avec le numéro système. Les clés de groupe croisées apparaissent dans la liste f{Clés de groupes} dans la zone de saisie f{Données groupes} en bas à droite du w{Designer Système}->DSGN. 
 
 =M_FSTEP_SETUP_DSGN_P8(0)	Connectez les clés de groupe avec les cylindres comme suit: 
 
@@ -2399,7 +2399,7 @@
 
 =M_FSTEP_SETUP_DSGN_P8_E(0)	Quittez cette boîte de dialogue en cliquant sur f{OK}. 
 
-=M_FSTEP_SETUP_DSGN_P9(0)	La boîte de dialogue w{Connecter clé et cylindre(s)} dans le w{Designer système} 
+=M_FSTEP_SETUP_DSGN_P9(0)	La boîte de dialogue w{Connecter clé et cylindre(s)} dans le w{Designer Système} 
 
 =M_FSTEP_SETUP_DSGN_P10(0)	De la même manière, connectez 
 
@@ -2443,11 +2443,11 @@
 
 =M_FSTEP_SETUP_DSGN_P14(0)	La boîte de dialogue w{Ajouter groupe} 
 
-=M_FSTEP_SETUP_DSGN_P15(0)	LOCKBASE crée maintenant les données du groupe 2 en une étape. La hiérarchisation de votre installation est maintenant visible en haut à gauche du w{Designer système}->DSGN. Les nœuds (ovales) indiquent CPG, les deux rectangles les données du groupe 1 et du groupe 2. 
+=M_FSTEP_SETUP_DSGN_P15(0)	LOCKBASE crée maintenant les données du groupe 2 en une étape. La hiérarchisation de votre installation est maintenant visible en haut à gauche du w{Designer Système}->DSGN. Les nœuds (ovales) indiquent CPG, les deux rectangles les données du groupe 1 et du groupe 2. 
 
 =M_FSTEP_SETUP_DSGN_P16(0)	Créez la CG1, la clé générale du groupe 1, en 
 
-=M_FSTEP_SETUP_DSGN_P16_A(0)	cliquant sur le rectangle 1 dans le w{Designer système}, pour basculer dans le groupe 1. 
+=M_FSTEP_SETUP_DSGN_P16_A(0)	cliquant sur le rectangle 1 dans le w{Designer Système}, pour basculer dans le groupe 1. 
 
 =M_FSTEP_SETUP_DSGN_P16_B(0)	Cliquez dans la zone de saisie f{Données groupes} à droite sur le mot f{Clé de passe}. La boîte de dialogue w{Clé de passe} s'affiche. 
 
@@ -2455,37 +2455,37 @@
 
 =M_FSTEP_SETUP_DSGN_P16_D(0)	Quittez cette boîte de dialogue, en cliquant sur f{OK}. 
 
-=M_FSTEP_SETUP_DSGN_P17(0)	Vous pouvez maintenant visualiser les connexions de l'ensemble de votre système dans le w{Plan d'organigramme}->MTRX en double-cliquant sur l'ovale. 
+=M_FSTEP_SETUP_DSGN_P17(0)	Vous pouvez maintenant visualiser les connexions de l'ensemble de votre système dans le w{Plan d'Organigramme}->MTRX en double-cliquant sur l'ovale. 
 
-=M_FSTEP_SETUP_DSGN_P18(0)	Si vous voulez voir le w{Plan d'organigramme} en affichage normal, 
+=M_FSTEP_SETUP_DSGN_P18(0)	Si vous voulez voir le w{Plan d'Organigramme} en affichage normal, 
 
-=M_FSTEP_SETUP_DSGN_P18_A(0)	dans le menu m{Options} décochez la case m{Plan d'organigramme Euro}. 
+=M_FSTEP_SETUP_DSGN_P18_A(0)	dans le menu m{Options} décochez la case m{Plan d'Organigramme Euro}. 
 
-=M_FSTEP_SETUP_DSGN_P19(0)	Le w{Plan d'organigramme} sans plan d'organigramme Euro 
+=M_FSTEP_SETUP_DSGN_P19(0)	Le w{Plan d'Organigramme} sans Plan d'Organigramme Euro 
 
-=M_FSTEP_SETUP_DSGN_P20(0)	Généralités sur le Designer système 
+=M_FSTEP_SETUP_DSGN_P20(0)	Généralités sur le Designer Système 
 
-=M_FSTEP_SETUP_DSGN_P21(0)	Dans le w{Plan d'organigramme}->MTRX ou dans l'w{Aperçu listes}->LST, vous ne pouvez qu'ajouter, supprimer et modifier des données ou des connexions en groupes (rectangles) ou en niveaux hiérarchiques inférieurs, sinon vous détruiriez la hiérarchie du système de fermeture. 
+=M_FSTEP_SETUP_DSGN_P21(0)	Dans le w{Plan d'Organigramme}->MTRX ou dans l'w{Aperçu Listes}->LST, vous ne pouvez qu'ajouter, supprimer et modifier des données ou des connexions en groupes (rectangles) ou en niveaux hiérarchiques inférieurs, sinon vous détruiriez la hiérarchie du système de fermeture. 
 
 =M_FSTEP_SETUP_DSGN_P22(0)	Pour afficher ou modifier les données d'un niveau hiérarchique (pour basculer dans un groupe), 
 
-=M_FSTEP_SETUP_DSGN_P22_A(0)	double-cliquez dans le w{Designer système}->DSGN sur le rectangle ou l'ovale du groupe contenant les données que vous voulez visualiser ou éditer. 
+=M_FSTEP_SETUP_DSGN_P22_A(0)	double-cliquez dans le w{Designer Système}->DSGN sur le rectangle ou l'ovale du groupe contenant les données que vous voulez visualiser ou éditer. 
 
-=M_FSTEP_SETUP_DSGN_P23(0)	Ensuite vous pouvez visualiser toutes les connexions du w{Plan d'organigramme}->MTRX. 
+=M_FSTEP_SETUP_DSGN_P23(0)	Ensuite vous pouvez visualiser toutes les connexions du w{Plan d'Organigramme}->MTRX. 
 
-=M_FSTEP_SETUP_DSGN_P24(0)	Dans le w{Plan d'organigramme}->MTRX ou dans l'w{Aperçu listes}->LST, vous pouvez vous déplacer dans la hiérarchie en 
+=M_FSTEP_SETUP_DSGN_P24(0)	Dans le w{Plan d'Organigramme}->MTRX ou dans l'w{Aperçu Listes}->LST, vous pouvez vous déplacer dans la hiérarchie en 
 
 =M_FSTEP_SETUP_DSGN_P24_A(0)	cliquant sur le champ de saisie de la barre d'outils, dans lequel se trouve le numéro système. Une liste avec le prochain niveau hiérarchique se déroule ensuite. Si vous ne vous trouvez pas sur le plus haut niveau hiérarchique, une "<-" symbolise le prochain niveau le plus haut. 
 
-=M_FSTEP_SETUP_DSGN_P24_B(0)	Cliquez ensuite sur l'entrée, que vous voulez atteindre. L'entrée du champ de saisie de la barre d'outils affiche maintenant la position choisie au sein de la hiérarchie du système de fermeture. Dans le w{Plan d'organigramme} vous obtenez ensuite les données et les connexions appartenant à ce niveau hiérarchique. 
+=M_FSTEP_SETUP_DSGN_P24_B(0)	Cliquez ensuite sur l'entrée, que vous voulez atteindre. L'entrée du champ de saisie de la barre d'outils affiche maintenant la position choisie au sein de la hiérarchie du système de fermeture. Dans le w{Plan d'Organigramme} vous obtenez ensuite les données et les connexions appartenant à ce niveau hiérarchique. 
 
 =M_FSTEP_SETUP_DSGN_P25(0)	Vous pouvez de cette manière atteindre tout point de votre système de fermeture. 
 
 =M_FSTEP_SETUP_DSGN_P26(0)	Si vous voulez par la suite modifier des données d'un système de fermeture en nœuds hiérarchiques (niveaux hiérarchiques supérieurs), vous devez d'abord défaire la structure du groupe correspondant. 
 
-=M_FSTEP_SETUP_DSGN_P27(0)	Vous effectuez cela, dans le w{Designer système}->DSGN en 
+=M_FSTEP_SETUP_DSGN_P27(0)	Vous effectuez cela, dans le w{Designer Système}->DSGN en 
 
-=M_FSTEP_SETUP_DSGN_P27_A(0)	focalisant l'ovale/le nœud. Les sous-groupes sont affichés dans la liste des f{Sous-groupes} à droite dans le w{Designer système}. 
+=M_FSTEP_SETUP_DSGN_P27_A(0)	focalisant l'ovale/le nœud. Les sous-groupes sont affichés dans la liste des f{Sous-groupes} à droite dans le w{Designer Système}. 
 
 =M_FSTEP_SETUP_DSGN_P27_B(0)	Marquez deux ou plusieurs sous-groupes et appuyez sur le bouton f{Fusionner}. 
 
@@ -2499,7 +2499,7 @@
 
 =M_FSTEP_SETUP_INSKEY_P2(0)	Les copies de clés sont des clés uniques, taillées, possédant une fonction (de clé) particulière. 
 
-=M_FSTEP_SETUP_INSKEY_P3(0)	Si vous avez fait faire un double supplémentaire de cette clé, vous devez indiquer cette copie de clé à LOCKBASE. Vous pouvez le faire aussi bien dans le w{Plan d'organigramme}->MTRX ainsi que dans l' w{Aperçu listes}->LST: 
+=M_FSTEP_SETUP_INSKEY_P3(0)	Si vous avez fait faire un double supplémentaire de cette clé, vous devez indiquer cette copie de clé à LOCKBASE. Vous pouvez le faire aussi bien dans le w{Plan d'Organigramme}->MTRX ainsi que dans l' w{Aperçu Listes}->LST: 
 
 =M_FSTEP_SETUP_INSKEY_P3_A(0)	Double-cliquez sur la fonction de clé "C2". La boîte de dialogue w{Fonction de clé}->DLG_DATA_FUNC s'ouvre. 
 
@@ -2511,7 +2511,7 @@
 
 =M_FSTEP_SETUP_INSKEY_P5(0)	Conseil: 
 
-=M_FSTEP_SETUP_INSKEY_P5_A(0)	Lorsque vous créez une clé dans l'w{Aperçu listes}, la liste de fonctions de clés doit être active. 
+=M_FSTEP_SETUP_INSKEY_P5_A(0)	Lorsque vous créez une clé dans l'w{Aperçu Listes}, la liste de fonctions de clés doit être active. 
 
 =M_FSTEP_SETUP_INSKEY_P6(0)	Visite guidée: 
 
@@ -2521,9 +2521,9 @@
 
 =M_FSTEP_CALC(0)	2. Calcul d'une installation 
 
-=M_FSTEP_CALC_P1(0)	Basculez dans le w{Module de calcul}->CALC, en 
+=M_FSTEP_CALC_P1(0)	Basculez dans le w{Module de Calcul}->CALC, en 
 
-=M_FSTEP_CALC_P1_A(0)	sélectionnant la commande m{Ouvrir Module de calcul} du menu m{Fenêtre}. 
+=M_FSTEP_CALC_P1_A(0)	sélectionnant la commande m{Ouvrir Module de Calcul} du menu m{Fenêtre}. 
 
 =M_FSTEP_CALC_P2(0)	Voici tout d'abord un petit aperçu des étapes nécessaires au calcul de votre système de fermeture. 
 
@@ -2545,7 +2545,7 @@
 
 =M_FSTEP_CALC_P5(0)	Pour sélectionner manuellement une fabrication, 
 
-=M_FSTEP_CALC_P5_A(0)	cliquez sur le champ de saisie f{Produit} du w{Module de calcul}->CALC. Une liste avec les produits de cylindres disponibles se déroule ensuite. 
+=M_FSTEP_CALC_P5_A(0)	cliquez sur le champ de saisie f{Produit} du w{Module de Calcul}->CALC. Une liste avec les produits de cylindres disponibles se déroule ensuite. 
 
 =M_FSTEP_CALC_P5_B(0)	Sélectionnez l'entrée "GeGe P1-18 5" dans la liste. 
 
@@ -2559,11 +2559,11 @@
 
 =M_FSTEP_CALC_P7_A(0)	Sous-groupe de codes on entend le type de variation de la position de taille. Il est différent dans les différents types de produits. Chez GeGe par exemple, on fait la différence entre les positions de taille paires et impaires. 'A' représente les profondeurs de taille 2, 4, 6, 8, 0, et 'B' pour 1, 3, 5, 7, 9. Un groupe de codes GeGe est constitué des lettres 'A' et 'B', le cas échéant d'identifiants de pistons et d'un groupe de profils. 
 
-=M_FSTEP_CALC_P7_B(0)	Si le produit "GeGe P1-18 5" n'est pas livré avec LOCKBASE, sélectionnez un autre produit en cliquant sur le bouton f{Fléché et point d'interrogation} (aide contextuelle). Cliquez ensuite sur le champ f{Groupe de codes}. Sélectionnez votre cylindre dans la liste et saisissez la désignation du produit et le groupe de codes dans le w{Module de calcul}->CALC LOCKBASE de la manière suivante. 
+=M_FSTEP_CALC_P7_B(0)	Si le produit "GeGe P1-18 5" n'est pas livré avec LOCKBASE, sélectionnez un autre produit en cliquant sur le bouton f{Fléché et point d'interrogation} (aide contextuelle). Cliquez ensuite sur le champ f{Groupe de codes}. Sélectionnez votre cylindre dans la liste et saisissez la désignation du produit et le groupe de codes dans le w{Module de Calcul}->CALC LOCKBASE de la manière suivante. 
 
 =M_FSTEP_CALC_P8(0)	Pour sélectionner le groupe de codes à l'aide de l'w{Administration des groupes de codes}->CALC_CGA, procédez comme suit: 
 
-=M_FSTEP_CALC_P8_A(0)	Cliquez sur i{BTN_CALC_CGA.BMP} dans la barre d'outils du w{Module de calcul} ou sélectionnez la commande m{Edition - Administration des groupes de codes}. La boîte de dialogue w{Administration des groupes de codes} s'affiche. 
+=M_FSTEP_CALC_P8_A(0)	Cliquez sur i{BTN_CALC_CGA.BMP} dans la barre d'outils du w{Module de Calcul} ou sélectionnez la commande m{Edition - Administration des groupes de codes}. La boîte de dialogue w{Administration des groupes de codes} s'affiche. 
 
 =M_FSTEP_CALC_P8_B(0)	Sélectionnez l'entrée "GeGe P1-18 5" dans la liste et appuyez sur k{Entrée}. 
 
@@ -2623,15 +2623,15 @@
 
 =M_FSTEP_CALC_P23(0)	Visite guidée: 
 
-=M_FSTEP_CALC_P23_A(0)	Si vous travaillez sans le w{Designer système}->DSGN LOCKBASE, vous pouvez ignorer la fin de cette section. 
+=M_FSTEP_CALC_P23_A(0)	Si vous travaillez sans le w{Designer Système}->DSGN LOCKBASE, vous pouvez ignorer la fin de cette section. 
 
 =M_FSTEP_CALC_P24(0)	Pour calculer le système de fermeture avec des sous-groupes, il faut effectuer une analyse en vue de détecter une structure de groupes dissimulée. 
 
-=M_FSTEP_CALC_P24_A(0)	Basculez dans le w{Designer système}->DSGN. 
+=M_FSTEP_CALC_P24_A(0)	Basculez dans le w{Designer Système}->DSGN. 
 
 =M_FSTEP_CALC_P24_B(0)	Appuyez le bouton f{Analyse} dans la zone f{Sous-groupes}. Deux sous-groupes s'affichent. 
 
-=M_FSTEP_CALC_P24_C(0)	Basculez à nouveau dans le w{Module de calcul}->CALC. 
+=M_FSTEP_CALC_P24_C(0)	Basculez à nouveau dans le w{Module de Calcul}->CALC. 
 
 =M_FSTEP_CALC_P25(0)	Nous allons différencier groupe 1 du groupe 2 en utilisant exclusivement la position "4" du premier canal de pistons pour le groupe 1. Elle est l'identifiant de groupe du groupe 1. 
 
@@ -2663,7 +2663,7 @@
 
 =M_FSTEP_CALC_P31_A(0)	Sélectionnez la commande m{Calculer} du menu m{Edition}. 
 
-=M_FSTEP_CALC_P32(0)	LOCKBASE vous indique lorsqu'il a terminé son calcul. Le résultat s'affiche dans la liste de fonctions de clés à droite dans le w{Module de calcul}->CALC. 
+=M_FSTEP_CALC_P32(0)	LOCKBASE vous indique lorsqu'il a terminé son calcul. Le résultat s'affiche dans la liste de fonctions de clés à droite dans le w{Module de Calcul}->CALC. 
 
 =M_FSTEP_CALC_P33(0)	Transmettre calcul 
 
@@ -2677,13 +2677,13 @@
 
 =M_FSTEP_CALC_P34_D(0)	Cliquez à nouveau sur f{OK}, pour quitter cette boîte de dialogue. 
 
-=M_FSTEP_CALC_P35(0)	Le w{Module de calcul}, Transfert, la boîte de dialogue w{Transmettre calcul} 
+=M_FSTEP_CALC_P35(0)	Le w{Module de Calcul}, Transfert, la boîte de dialogue w{Transmettre calcul} 
 
 =M_FSTEP_CALC_P36(0)	Généralités concernant le calcul avec ou sans structure de groupes 
 
 =M_FSTEP_CALC_P37(0)	Les systèmes une fois calculés peuvent évidemment être étendus. LOCKBASE fait attention pour cela de garder les anciennes combinaisons de fermeture. 
 
-=M_FSTEP_CALC_P38(0)	Vous pouvez également laisser calculer des systèmes, lorsque vous avez à nouveau fusionné la structure de groupe du système (voir chapitre sur le w{Designer système}->DSGN), ou lorsque aucune structure de groupe n'est présente. Vous pouvez ensuite seulement fixer la combinaison pour la clé de passe générale et vous pouvez vous éviter de fixer la combinaison des clés de groupe. Vous laissez LOCKBASE effectuer ce travail, car il sépare logiquement les groupes toujours présents. 
+=M_FSTEP_CALC_P38(0)	Vous pouvez également laisser calculer des systèmes, lorsque vous avez à nouveau fusionné la structure de groupe du système (voir chapitre sur le w{Designer Système}->DSGN), ou lorsque aucune structure de groupe n'est présente. Vous pouvez ensuite seulement fixer la combinaison pour la clé de passe générale et vous pouvez vous éviter de fixer la combinaison des clés de groupe. Vous laissez LOCKBASE effectuer ce travail, car il sépare logiquement les groupes toujours présents. 
 
 =M_FSTEP_CALC_P39(0)	Le calcul est plus compliqué sans structure de groupes et dure plus longtemps qu'avec la structure de groupes. 
 
@@ -2709,9 +2709,9 @@
 
 =M_FSTEP_KEYCTRL_P1(0)	Création de registres de personnes 
 
-=M_FSTEP_KEYCTRL_P2(0)	Vous pouvez seulement entrer une personne si vous disposez l'w{Aperçu listes}->LST LOCKBASE. Basculez dans l'w{Aperçu listes}, en 
+=M_FSTEP_KEYCTRL_P2(0)	Vous pouvez seulement entrer une personne si vous disposez l'w{Aperçu Listes}->LST LOCKBASE. Basculez dans l'w{Aperçu Listes}, en 
 
-=M_FSTEP_KEYCTRL_P2_A(0)	sélectionnant la commande m{Ouvrir Aperçu listes} du menu m{Fenêtre}. 
+=M_FSTEP_KEYCTRL_P2_A(0)	sélectionnant la commande m{Ouvrir Aperçu Listes} du menu m{Fenêtre}. 
 
 =M_FSTEP_KEYCTRL_P2_B(0)	Cliquez sur le bouton au-dessus de la liste tout à gauche (sur lequel se trouvent quatre visages). 
 
@@ -2747,11 +2747,11 @@
 
 =M_MAIN(0)	III. La Fenêtre Principale LOCKBASE 
 
-=M_MAIN_P1(0)	La fenêtre w{Principale} LOCKBASE a) Menu principal, b) Barres d'outils de la fenêtre w{Principale} (haut) et w{Aperçu listes} (bas), c) les quatre fenêtres documents de LOCKBASE w{Professional}, d) Barre d'état. 
+=M_MAIN_P1(0)	La fenêtre w{Principale} LOCKBASE a) Menu principal, b) Barres d'outils de la fenêtre w{Principale} (haut) et w{Aperçu Listes} (bas), c) les quatre fenêtres documents de LOCKBASE w{Professional}, d) Barre d'état. 
 
 =M_MAIN_P2(0)	La fenêtre programme et les principales commandes LOCKBASE sont expliquées ci-dessous. 
 
-=M_MAIN_P3(0)	La figure montre la version w{Professional} de LOCKBASE avec un fichier de système de fermeture ouvert. Des quatre fenêtres de documents w{Designer système}->DSGN, w{Plan d'organigramme}->MTRX, w{Module de calcul}->CALC et w{Aperçu listes}->LST (c), dans lesquelles le système est représenté, la dernière est active. Toutes les entrées et commandes se réfèrent momentanément à cette fenêtre. 
+=M_MAIN_P3(0)	La figure montre la version w{Professional} de LOCKBASE avec un fichier de système de fermeture ouvert. Des quatre fenêtres de documents w{Designer Système}->DSGN, w{Plan d'Organigramme}->MTRX, w{Module de Calcul}->CALC et w{Aperçu Listes}->LST (c), dans lesquelles le système est représenté, la dernière est active. Toutes les entrées et commandes se réfèrent momentanément à cette fenêtre. 
 
 =M_MAIN_P4(0)	Du fait que différentes possibilités de traitement d'un système de fermeture existent dans les différentes fenêtres de document, le contenu de certains menus peuvent être modifiés lors de la sélection d'une autre fenêtre. Il est tenu compte de ceci dans la description de la fenêtre concernée. 
 
@@ -2771,9 +2771,9 @@
 
 =M_MAIN_FILE_NEW_P1_C(0)	appuyez sur la touche k{F11}. 
 
-=M_MAIN_FILE_NEW_P2(0)	La boîte de dialogue w{Page de garde}->MAIN_FILE_COVERSHEET apparaît en premier. Les fenêtres LOCKBASE allant avec votre version LOCKBASE s'ouvrent ensuite (w{Designer système}->DSGN, w{Plan d'organigramme}->MTRX, w{Module de calcul}->CALC et w{Aperçu listes}->LST). 
+=M_MAIN_FILE_NEW_P2(0)	La boîte de dialogue w{Page de garde}->MAIN_FILE_COVERSHEET apparaît en premier. Les fenêtres LOCKBASE allant avec votre version LOCKBASE s'ouvrent ensuite (w{Designer Système}->DSGN, w{Plan d'Organigramme}->MTRX, w{Module de Calcul}->CALC et w{Aperçu Listes}->LST). 
 
-=M_MAIN_FILE_NEW_P3(0)	Si vous avez sélectionné autre-chose dans la commande m{Options -Ouvrir fenêtre au démarrage}->MAIN_OPTIONS_OPENWINONSTART, seules ces fenêtres s'ouvriront. Les fenêtres sont vides, vous pouvez ainsi saisir les données d'un nouveau système de fermeture. 
+=M_MAIN_FILE_NEW_P3(0)	Si vous avez sélectionné autre-chose dans la commande m{Options - Ouvrir fenêtre au démarrage}->MAIN_OPTIONS_OPENWINONSTART, seules ces fenêtres s'ouvriront. Les fenêtres sont vides, vous pouvez ainsi saisir les données d'un nouveau système de fermeture. 
 
 =M_MAIN_FILE_OPEN(0)	Ouvrir un fichier de système de fermeture existant 
 
@@ -2857,7 +2857,7 @@
 
 =M_MAIN_FILE_OPEN_IMPORT_CSV_P11(0)	Des connexions entre les bases de données peuvent être déterminés de deux différentes manières: Comme matrice ou comme liste de valeurs. 
 
-=M_MAIN_FILE_OPEN_IMPORT_CSV_P12(0)	La connexion matrice correspond à la représentation connue du plan d'organigramme. Les connexions sont prises des champs d'intersection d'une colonne et ligne déjà définie, p.ex. des champs d'intersection des numéros cylindres listés dans une colonne et des fonctions de clé listées dans une ligne. 
+=M_MAIN_FILE_OPEN_IMPORT_CSV_P12(0)	La connexion matrice correspond à la représentation connue du Plan d'Organigramme. Les connexions sont prises des champs d'intersection d'une colonne et ligne déjà définie, p.ex. des champs d'intersection des numéros cylindres listés dans une colonne et des fonctions de clé listées dans une ligne. 
 
 =M_MAIN_FILE_OPEN_IMPORT_CSV_P13(0)	La liste des valeurs est une attribution des registres à des bases de données différantes à l'aide des paires de valeurs listées. La liste de valeurs veut dire p.ex.: Connectez le cylindre avec le numéro trouvé dans la cellule 'B4' avec la fonction de clé trouvée dans la cellule 'F4', etc. 
 
@@ -2895,7 +2895,7 @@
 
 =M_MAIN_FILE_CLOSE(0)	Fermer un fichier 
 
-=M_MAIN_FILE_CLOSE_P1(0)	Lorsque vous avez terminé vos travaux sur le système de fermeture, vous pouvez fermer les fenêtres de documents appartenant au système actif (w{Designer système}->DSGN, w{Plan d'organigramme}->MTRX, w{Module de calcul}->CALC et w{Aperçu listes}->LST) grâce à la commande m{Fichier - Fermer}. Les autres systèmes de fermeture ouverts et la fenêtre de programme LOCKBASE restent ouverts. 
+=M_MAIN_FILE_CLOSE_P1(0)	Lorsque vous avez terminé vos travaux sur le système de fermeture, vous pouvez fermer les fenêtres de documents appartenant au système actif (w{Designer Système}->DSGN, w{Plan d'Organigramme}->MTRX, w{Module de Calcul}->CALC et w{Aperçu Listes}->LST) grâce à la commande m{Fichier - Fermer}. Les autres systèmes de fermeture ouverts et la fenêtre de programme LOCKBASE restent ouverts. 
 
 =M_MAIN_FILE_CLOSE_P2(0)	Si le système de fermeture est nouvellement créé ou modifié et non encore enregistré, une confirmation apparaît pour éviter de perdre des données. 
 
@@ -2937,13 +2937,13 @@
 
 =M_MAIN_FILE_B2B(0)	Envoyer/recevoir les fichiers 
 
-=M_MAIN_FILE_B2B_P1(0)	Cette commande ouvre un sous-menu, dans lequel vous avez accès aux fonctions du module B2B de LOCKBASE. 
+=M_MAIN_FILE_B2B_P1(0)	Cette commande ouvre un sous-menu, dans lequel vous avez accès aux fonctions du Module B2B de LOCKBASE. 
 
-=M_MAIN_FILE_B2B_P2(0)	LOCKBASE B2B (pour 'business to business') est un module qui permet l'échange confortable et sécurisé de données d'installations de fermeture via Internet. Le module B2B s'occupe de l'adressage, de la compression, du cryptage et du transfert des données à envoyer. L'utilisation du procédé de cryptage à 'clé publique' 'RSA' permet de garantir la norme de sécurité actuellement la plus élevée possible pour le cryptage de données. 
+=M_MAIN_FILE_B2B_P2(0)	LOCKBASE B2B (pour 'business to business') est un module qui permet l'échange confortable et sécurisé de données d'installations de fermeture via Internet. Le Module B2B s'occupe de l'adressage, de la compression, du cryptage et du transfert des données à envoyer. L'utilisation du procédé de cryptage à 'clé publique' 'RSA' permet de garantir la norme de sécurité actuellement la plus élevée possible pour le cryptage de données. 
 
 =M_MAIN_FILE_B2B_P3(0)	Le dialogue pour l'envoi d'un fichier 
 
-=M_MAIN_FILE_B2B_P4(0)	Afin d'envoyer le fichier actuellement ouvert grâce au module B2B, 
+=M_MAIN_FILE_B2B_P4(0)	Afin d'envoyer le fichier actuellement ouvert grâce au Module B2B, 
 
 =M_MAIN_FILE_B2B_P4_A(0)	sélectionnez la commande m{Envoyer le fichier en cours...}. 
 
@@ -2993,7 +2993,7 @@
 
 =M_MAIN_FILE_B2B_P12(0)	Le dialogue de création de la carte de visite B2B 
 
-=M_MAIN_FILE_B2B_P13(0)	Lorsque vous lancez le module B2B pour la première fois, vous devez créer votre 'Carte de visite B2B'. Ceci vous permet d'obtenir une adresse unique dans le réseau B2B et une clé cryptographique est créée pour vous. 
+=M_MAIN_FILE_B2B_P13(0)	Lorsque vous lancez le Module B2B pour la première fois, vous devez créer votre 'Carte de visite B2B'. Ceci vous permet d'obtenir une adresse unique dans le réseau B2B et une clé cryptographique est créée pour vous. 
 
 =M_MAIN_FILE_B2B_P14(0)	Renseignez tous les champs et appuyez sur le bouton f{Suivant}. Vous devez ensuite aider à générer une suite de 'vraies' chiffres de hasard, nécessaires à la création de la clé cryptographique. Après avoir encore une fois appuyé sur f{Suivant}, vous pouvez créer votre carte de visite. 
 
@@ -3021,7 +3021,7 @@
 
 =M_MAIN_FILE_COVERSHEET_P2_B(0)	sélectionnez la commande m{Fichier - Page de garde système}. 
 
-=M_MAIN_FILE_COVERSHEET_P3(0)	Ou dans le w{Plan d'organigramme}->MTRX 
+=M_MAIN_FILE_COVERSHEET_P3(0)	Ou dans le w{Plan d'Organigramme}->MTRX 
 
 =M_MAIN_FILE_COVERSHEET_P3_A(0)	double-cliquez sur les liens d'infos systèmes en haut de l'aperçu du système de fermeture. 
 
@@ -3253,7 +3253,7 @@
 
 =M_MAIN_FILE_C2B_P1(0)	LOCKBASE C2B est un système de commande pour des systèmes de fermetures, qui permet l'échange confortable et sécurisé de données entre client et revendeur resp. fabricant. Il possède de trois composantes: 
 
-=M_MAIN_FILE_C2B_P1_A(0)	Un petit programme de commande, l'Assistant d'organigramme (LbwC2B) qui est utilisé par le client et lui permet de créer un système de fermeture d'une manière rapide et facile sans devoir savoir beaucoup au sujet des systèmes de fermetures; 
+=M_MAIN_FILE_C2B_P1_A(0)	Un petit programme de commande, l'Assistant d'Organigramme (LbwC2B) qui est utilisé par le client et lui permet de créer un système de fermeture d'une manière rapide et facile sans devoir savoir beaucoup au sujet des systèmes de fermetures; 
 
 =M_MAIN_FILE_C2B_P1_B(0)	un service Internet (service C2B Web), qui organise et assure l'échange de données entre des clients et des revendeurs/des fabricants; 
 
@@ -3307,11 +3307,11 @@
 
 =M_MAIN_OPTIONS_TOOLBAR_P3_A(0)	i{TOOLBAR_MAIN.BMP} fenêtre w{Principale}, 
 
-=M_MAIN_OPTIONS_TOOLBAR_P3_B(0)	i{TOOLBAR_LST.BMP} w{Aperçu listes}, 
+=M_MAIN_OPTIONS_TOOLBAR_P3_B(0)	i{TOOLBAR_LST.BMP} w{Aperçu Listes}, 
 
-=M_MAIN_OPTIONS_TOOLBAR_P3_C(0)	i{TOOLBAR_MTRX.BMP} w{Plan d'organigramme} et 
+=M_MAIN_OPTIONS_TOOLBAR_P3_C(0)	i{TOOLBAR_MTRX.BMP} w{Plan d'Organigramme} et 
 
-=M_MAIN_OPTIONS_TOOLBAR_P3_D(0)	i{TOOLBAR_CALC.BMP} w{Module de calcul}. 
+=M_MAIN_OPTIONS_TOOLBAR_P3_D(0)	i{TOOLBAR_CALC.BMP} w{Module de Calcul}. 
 
 =M_MAIN_OPTIONS_TOOLBAR_P4(0)	Les petits boutons des barres d'outils permettent aux utilisateurs de la souris d'exécuter plus rapidement des commandes. Si vous voulez savoir quelle commande se cache derrière une icône, pointez la souris sur celle-ci. L'explication apparaît (après quelques secondes). 
 
@@ -3337,7 +3337,7 @@
 
 =M_MAIN_OPTIONS_OPENWINONSTART_P1(0)	La boîte de dialogue w{Ouvrir la fenêtre au démarrage} 
 
-=M_MAIN_OPTIONS_OPENWINONSTART_P2(0)	Grâce à la commande m{Options - Ouvrir la fenêtre au démarrage} (non-disponible dans LOCKBASE w{Manager lite}), vous décidez lesquelles des quatre fenêtres (w{Designer système}->DSGN, w{Plan d'organigramme}->MTRX, w{Aperçu listes}->LST et w{Module de calcul}->CALC, les derniers seulement dans LOCKBASE w{Professional} et LOCKBASE w{Calculator}) doivent être ouvertes lors de la création ou l'ouverture d'un système de fermeture. 
+=M_MAIN_OPTIONS_OPENWINONSTART_P2(0)	Grâce à la commande m{Options - Ouvrir la fenêtre au démarrage} (non-disponible dans LOCKBASE w{Manager lite}), vous décidez lesquelles des quatre fenêtres (w{Designer Système}->DSGN, w{Plan d'Organigramme}->MTRX, w{Aperçu Listes}->LST et w{Module de Calcul}->CALC, les derniers seulement dans LOCKBASE w{Professional} et LOCKBASE w{Calculator}) doivent être ouvertes lors de la création ou l'ouverture d'un système de fermeture. 
 
 =M_MAIN_OPTIONS_OPENWINONSTART_P2_A(0)	Marquez, par un clic de souris ou au moyen de la barre d'k{Espace}, les fenêtres qui doivent s'ouvrir automatiquement. Un clic de la souris ou k{Espace} annule également le marquage, si la fenêtre ne doit pas être ouverte. 
 
@@ -3391,17 +3391,17 @@
 
 =M_MAIN_OPTIONS_USERADMIN_P8_J(0)	f{Désactiver}: Ce bouton permet de désactiver l'administration des utilisateurs. Lorsque l'administration des utilisateurs est désactivée, toute personne, qui a accès au PC, peut utiliser LOCKBASE sans restriction. Ceci peut s'avérer nécessaire, lorsque LOCKBASE est uniquement utilisé par une personne et lorsque l'accès est impossible à des personnes non autorisées. Les utilisateurs déjà créés restent présents et peuvent à tout moment être réactivés à l'aide de la commande m{Options - Administration des utilisateurs}. 
 
-=M_MAIN_OPTIONS_USERADMIN_P9(0)	Afin d'améliorer la vue d'ensemble, les droits d'utilisateurs de LOCKBASE sont classés par différentes catégories. Les droits disponibles respectivement dépendent cependant de la version installée de LOCKBASE. Lorsque votre version de LOCKBASE ne contient par exemple aucun module de calcul, le droit pour le f{Module de calcul} n'est pas disponible. Ci-dessous vous trouverez une description détaillée de la signification des différents droits des utilisateurs. 
+=M_MAIN_OPTIONS_USERADMIN_P9(0)	Afin d'améliorer la vue d'ensemble, les droits d'utilisateurs de LOCKBASE sont classés par différentes catégories. Les droits disponibles respectivement dépendent cependant de la version installée de LOCKBASE. Lorsque votre version de LOCKBASE ne contient par exemple aucun Module de Calcul, le droit pour le f{Module de Calcul} n'est pas disponible. Ci-dessous vous trouverez une description détaillée de la signification des différents droits des utilisateurs. 
 
 =M_MAIN_OPTIONS_USERADMIN_P10(0)	La catégorie !{Affichage} contient les autorisations d'accès aux différentes vues de LOCKBASE: 
 
-=M_MAIN_OPTIONS_USERADMIN_P10_A(0)	f{Aperçu listes}: L'utilisateur peut utiliser la w{Vue des listes} (voir chap. V, {'L'Aperçu listes'}->LST). 
+=M_MAIN_OPTIONS_USERADMIN_P10_A(0)	f{Aperçu Listes}: L'utilisateur peut utiliser la w{Vue des listes} (voir chap. V, {'L'Aperçu Listes'}->LST). 
 
-=M_MAIN_OPTIONS_USERADMIN_P10_B(0)	f{Plan d'organigramme}: L'utilisateur peut utiliser le w{Plan de fermeture} (voir chap. VI, {'Le Plan d'organigramme'}->MTRX). 
+=M_MAIN_OPTIONS_USERADMIN_P10_B(0)	f{Plan d'Organigramme}: L'utilisateur peut utiliser le w{Plan d'Organigramme} (voir chap. VI, {'Le Plan d'Organigramme'}->MTRX). 
 
-=M_MAIN_OPTIONS_USERADMIN_P10_C(0)	f{Module de calcul}: L'utilisateur peut utiliser le w{Module de calcul} (voir chap. VII, {'Le Module de calcul'}->CALC). 
+=M_MAIN_OPTIONS_USERADMIN_P10_C(0)	f{Module de Calcul}: L'utilisateur peut utiliser le w{Module de Calcul} (voir chap. VII, {'Le Module de Calcul'}->CALC). 
 
-=M_MAIN_OPTIONS_USERADMIN_P10_D(0)	f{Designer système}: L'utilisateur peut utiliser le w{Designer système} (voir chap. VIII, {'Le Designer système'}->CALC). 
+=M_MAIN_OPTIONS_USERADMIN_P10_D(0)	f{Designer Système}: L'utilisateur peut utiliser le w{Designer Système} (voir chap. VIII, {'Le Designer Système'}->CALC). 
 
 =M_MAIN_OPTIONS_USERADMIN_P11(0)	La catégorie !{Accès aux données} contient les autorisations pour la limitation de l'accès aux données: 
 
@@ -3413,7 +3413,7 @@
 
 =M_MAIN_OPTIONS_USERADMIN_P12_A(0)	f{Interface machine}: L'utilisateur peut utiliser w{l'Interface machine} (voir chap. III-1, {'Interface machine'}->MAIN_FILE_MACHINE). 
 
-=M_MAIN_OPTIONS_USERADMIN_P12_B(0)	f{Echange de données Internet (B2B)}: L'utilisateur a le droit d'utiliser le module B2B pour l'échange de données via Internet. 
+=M_MAIN_OPTIONS_USERADMIN_P12_B(0)	f{Echange de données Internet (B2B)}: L'utilisateur a le droit d'utiliser le Module B2B pour l'échange de données via Internet. 
 
 =M_MAIN_OPTIONS_USERADMIN_P12_C(0)	f{Charger et installer les mises à jour}: L'utilisateur a le droit de charger et d'installer des mises à jour LOCKBASE à partir d'Internet (voir chap. III-4, {'Informations à propos de LOCKBASE'}->MAIN_HELP_ABOUT). 
 
@@ -3427,7 +3427,7 @@
 
 =M_MAIN_OPTIONS_B2B(0)	Envoyer/recevoir les fichiers 
 
-=M_MAIN_OPTIONS_B2B_P1(0)	La commande m{Options - Envoyer/Recevoir les fichiers} ouvre un sous-menu avec les paramètres du module B2B de LOCKBASE (voir chap. III-1, {'Envoyer/Recevoir les fichiers'}->MAIN_FILE_B2B). 
+=M_MAIN_OPTIONS_B2B_P1(0)	La commande m{Options - Envoyer/Recevoir les fichiers} ouvre un sous-menu avec les paramètres du Module B2B de LOCKBASE (voir chap. III-1, {'Envoyer/Recevoir les fichiers'}->MAIN_FILE_B2B). 
 
 =M_MAIN_OPTIONS_B2B_P2(0)	Afin d'activer ou non l'échange de données via Internet, 
 
@@ -3519,7 +3519,7 @@
 
 =M_MAIN_WINDOW(0)	3. Maniement des fenêtres 
 
-=M_MAIN_WINDOW_P1(0)	Lors du travail avec un fichier de système de fermeture, il est souvent nécessaire d'ouvrir plusieurs fenêtres de documents ou de basculer en l'une et l'autre. Le registre du personnel ne peut, par exemple, seulement être traité depuis l'w{Aperçu listes}->LST, les fonctions de clé sont du w{Plan d'organigramme}->MTRX et le calcul d'un système de fermeture dans le w{Module de calcul}->CALC. 
+=M_MAIN_WINDOW_P1(0)	Lors du travail avec un fichier de système de fermeture, il est souvent nécessaire d'ouvrir plusieurs fenêtres de documents ou de basculer en l'une et l'autre. Le registre du personnel ne peut, par exemple, seulement être traité depuis l'w{Aperçu Listes}->LST, les fonctions de clé sont du w{Plan d'Organigramme}->MTRX et le calcul d'un système de fermeture dans le w{Module de Calcul}->CALC. 
 
 =M_MAIN_WINDOW_OPERATE(0)	Modifier, ouvrir et changer la fenêtre document 
 
@@ -3533,41 +3533,41 @@
 
 =M_MAIN_WINDOW_OPERATE_P2_C(0)	m{Fenêtre - Aligner les icônes}: Aligne les icônes en fenêtres de document réduites de manière égale. 
 
-=M_MAIN_WINDOW_OPERATE_P2_D(0)	m{Ouvrir listes}, m{Ouvrir Plan d'organigramme}, m{Ouvrir Module de calcul}, m{Ouvrir Designer}: Avec cette commande, vous ouvrez les différentes vues de LOCKBASE. Si celle-ci est déjà ouverte, vous basculez sur elle. 
+=M_MAIN_WINDOW_OPERATE_P2_D(0)	m{Ouvrir Listes}, m{Ouvrir Plan d'Organigramme}, m{Ouvrir Module de Calcul}, m{Ouvrir Designer Système}: Avec cette commande, vous ouvrez les différentes vues de LOCKBASE. Si celle-ci est déjà ouverte, vous basculez sur elle. 
 
 =M_MAIN_WINDOW_OPERATE_P3(0)	La partie inférieure contient le menu m{Fenêtre} les noms numérotés des fenêtres LOCKBASE, de manière à pouvoir basculer rapidement sans la souris vers des fenêtres réduites ou masquées, en sélectionnant simplement son numéro. 
 
-=M_MAIN_WINDOW_OPERATE_P4(0)	LOCKBASE offre plusieurs possibilités pour basculer entre les fenêtres w{Aperçu listes}->LST, w{Plan d'organigramme}->MTRX, w{Designer système}->DSGN et w{Module de calcul}->CALC. 
+=M_MAIN_WINDOW_OPERATE_P4(0)	LOCKBASE offre plusieurs possibilités pour basculer entre les fenêtres w{Aperçu Listes}->LST, w{Plan d'Organigramme}->MTRX, w{Designer Système}->DSGN et w{Module de Calcul}->CALC. 
 
-=M_MAIN_WINDOW_OPERATE_P5(0)	Pour basculer vers l'w{Aperçu listes}, procédez comme suit: 
+=M_MAIN_WINDOW_OPERATE_P5(0)	Pour basculer vers l'w{Aperçu Listes}, procédez comme suit: 
 
 =M_MAIN_WINDOW_OPERATE_P5_A(0)	Cliquez sur i{BTN_MAIN_LST.BMP} dans la barre d'outils ou 
 
-=M_MAIN_WINDOW_OPERATE_P5_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Aperçu listes}, ou 
+=M_MAIN_WINDOW_OPERATE_P5_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Aperçu Listes}, ou 
 
 =M_MAIN_WINDOW_OPERATE_P5_C(0)	appuyez sur la combinaison de touches k{Ctrl+L}. 
 
-=M_MAIN_WINDOW_OPERATE_P6(0)	Pour basculer vers le w{Plan d'organigramme}, procédez comme suit: 
+=M_MAIN_WINDOW_OPERATE_P6(0)	Pour basculer vers le w{Plan d'Organigramme}, procédez comme suit: 
 
 =M_MAIN_WINDOW_OPERATE_P6_A(0)	Cliquez sur i{BTN_MAIN_MTRX.BMP} dans la barre d'outils ou 
 
-=M_MAIN_WINDOW_OPERATE_P6_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Plan d'organigramme} ou 
+=M_MAIN_WINDOW_OPERATE_P6_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Plan d'Organigramme} ou 
 
 =M_MAIN_WINDOW_OPERATE_P6_C(0)	appuyez sur la combinaison de touches k{Ctrl+S}. 
 
-=M_MAIN_WINDOW_OPERATE_P7(0)	Pour basculer vers le w{Module de calcul}, procédez comme suit: 
+=M_MAIN_WINDOW_OPERATE_P7(0)	Pour basculer vers le w{Module de Calcul}, procédez comme suit: 
 
 =M_MAIN_WINDOW_OPERATE_P7_A(0)	Cliquez sur i{BTN_MAIN_CALC.BMP} dans la barre d'outils ou 
 
-=M_MAIN_WINDOW_OPERATE_P7_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Module de calcul} ou 
+=M_MAIN_WINDOW_OPERATE_P7_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Module de Calcul} ou 
 
 =M_MAIN_WINDOW_OPERATE_P7_C(0)	appuyez sur la combinaison de touches k{Ctrl+R}. 
 
-=M_MAIN_WINDOW_OPERATE_P8(0)	Pour basculer vers le w{Designer système}, procédez comme suit: 
+=M_MAIN_WINDOW_OPERATE_P8(0)	Pour basculer vers le w{Designer Système}, procédez comme suit: 
 
 =M_MAIN_WINDOW_OPERATE_P8_A(0)	Cliquez sur i{BTN_MAIN_DSGN.BMP} dans la barre d'outils ou 
 
-=M_MAIN_WINDOW_OPERATE_P8_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Designer système} ou 
+=M_MAIN_WINDOW_OPERATE_P8_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Designer Système} ou 
 
 =M_MAIN_WINDOW_OPERATE_P8_C(0)	appuyez sur la combinaison de touches k{Ctrl+D}. 
 
@@ -3579,7 +3579,7 @@
 
 =M_MAIN_WINDOW_CLOSE(0)	Fermer une fenêtre document 
 
-=M_MAIN_WINDOW_CLOSE_P1(0)	Lorsque vous avez terminé vos travaux sur le système de fermeture, vous pouvez fermer les fenêtres de documents appartenant au système actif (w{Designer système}->DSGN, w{Plan d'organigramme}->MTRX, w{Module de calcul}->CALC et w{Aperçu listes}->LST) grâce à la commande m{Fichier - Fermer}. Les autres systèmes de fermeture ouverts et la fenêtre de programme LOCKBASE restent ouverts. 
+=M_MAIN_WINDOW_CLOSE_P1(0)	Lorsque vous avez terminé vos travaux sur le système de fermeture, vous pouvez fermer les fenêtres de documents appartenant au système actif (w{Designer Système}->DSGN, w{Plan d'Organigramme}->MTRX, w{Module de Calcul}->CALC et w{Aperçu Listes}->LST) grâce à la commande m{Fichier - Fermer}. Les autres systèmes de fermeture ouverts et la fenêtre de programme LOCKBASE restent ouverts. 
 
 =M_MAIN_WINDOW_CLOSE_P2(0)	Si le système de fermeture est nouvellement créé ou modifié et non encore enregistré, une confirmation apparaît pour éviter de perdre des données. 
 
@@ -3597,7 +3597,7 @@
 
 =M_MAIN_HELP_CONTEXT(0)	Aide contextuelle 
 
-=M_MAIN_HELP_CONTEXT_P1(0)	Pour obtenir de l'aide concernant le sujet dans lequel vous vous trouvez (ex. vous travaillez dans l' w{Aperçu listes}, de "l'aide concernant Aperçu listes LOCKBASE"), vous pouvez directement appeler l' w{Aide} avec la souris et le clavier. 
+=M_MAIN_HELP_CONTEXT_P1(0)	Pour obtenir de l'aide concernant le sujet dans lequel vous vous trouvez (ex. vous travaillez dans l' w{Aperçu Listes}, de "l'aide concernant Aperçu Listes LOCKBASE"), vous pouvez directement appeler l' w{Aide} avec la souris et le clavier. 
 
 =M_MAIN_HELP_CONTEXT_P2(0)	i{MOUSE_PTR_HELP.BMP} En cliquant sur i{BTN_MAIN_HELP.BMP} dans la barre d'outils, le curseur de la souris se transforme en curseur d'aide tel que représenté à gauche. Cliquez celui-ci sur un bouton de la barre d'outil, sur une commande de menu ou sur tout autre objet. L'w{Aide} LOCKBASE démarre et affiche le texte d'aide concernant l'objet. 
 
@@ -3691,7 +3691,7 @@
 
 =M_DLG_DATA_FUNC_P2(0)	Sous "Fonction de clé" LOCKBASE entend une variure, comme une clé de passe ("clé de passe générale 900") prévue dans un système de fermeture. Mais il n'est pas décidé par cela, si et combien de clés individuelles, physiques ont été effectivement taillées et remises pour gérer la fonction de clé "900 CPG". Les différentes clés d'une fonction de clé sont désignées par "copie de clé", comme exemplaire d'un modèle (900-1, 900-2...). LOCKBASE gère les copies de clés comme une sous-catégorie des fonctions de clés auxquelles elles appartiennent. 
 
-=M_DLG_DATA_FUNC_P3(0)	Vous pouvez créer et éditer les fonctions de clés avec la boîte de dialogue w{Fonction de clé}. Vous pouvez l'ouvrir dans l'w{Aperçu listes}->LST avec un registre de fonction de clé actif ou depuis le w{Plan d'organigramme}->MTRX. 
+=M_DLG_DATA_FUNC_P3(0)	Vous pouvez créer et éditer les fonctions de clés avec la boîte de dialogue w{Fonction de clé}. Vous pouvez l'ouvrir dans l'w{Aperçu Listes}->LST avec un registre de fonction de clé actif ou depuis le w{Plan d'Organigramme}->MTRX. 
 
 =M_DLG_DATA_FUNC_P4(0)	Lors de la création ou de la modification de plusieurs registres de fonctions de clés ou lors de la modification de plusieurs s'affiche la boîte de dialogue précitée w{Fonction de clé}. Les champs de saisie: 
 
@@ -3705,7 +3705,7 @@
 
 =M_DLG_DATA_FUNC_P4_E(0)	f{Nombre de copies}: Entrez-y un chiffre, si vous voulez également créer des copies de clés lors de la création de la fonction de clé. Ceci n'est cependant pas indispensable pour le calcul du système de fermeture. Editant des fonctions de des clés vous pouvez utiliser les signes '+' et '-', pour augmenter ou réduire le nombre des copies clés de certaine valeur. Lorsque vous n'utilisez pas de signe, le nombre des copies est augmenté et/ou réduit correspondant la valeur indiquée. 
 
-=M_DLG_DATA_FUNC_P4_F(0)	f{Groupe de codes}, f{Combinaison}, f{Profil} (pas dans la version LOCKBASE w{Manager}/ w{Manager lite}): Ces champs contiennent le profil, le groupe de codes et la combinaison (les tailles) de la fonction de clé. Ces champs sont automatiquement renseignés par le w{Module de calcul}->CALC des versions w{Calculator} et w{Professional} de LOCKBASE, lorsque vous sélectionnez la commande m{Edition - Transfert...}->CALC_TRANSFER. 
+=M_DLG_DATA_FUNC_P4_F(0)	f{Groupe de codes}, f{Combinaison}, f{Profil} (pas dans la version LOCKBASE w{Manager}/ w{Manager lite}): Ces champs contiennent le profil, le groupe de codes et la combinaison (les tailles) de la fonction de clé. Ces champs sont automatiquement renseignés par le w{Module de Calcul}->CALC des versions w{Calculator} et w{Professional} de LOCKBASE, lorsque vous sélectionnez la commande m{Edition - Transfert...}->CALC_TRANSFER. 
 
 =M_DLG_DATA_FUNC_P4_G(0)	f{Défaut}: Ce bouton reprend le contenu actuel de la boîte de dialogue comme entrée par défaut pour la saisie ultérieure de registres (voir chap. V-1, {'Créer des registres de données par défaut'}->LST_EDIT_ADD_DEF). 
 
@@ -3761,7 +3761,7 @@
 
 =M_DLG_DATA_CYL_P1(0)	La boîte de dialogue w{Cylindre} 
 
-=M_DLG_DATA_CYL_P2(0)	Vous pouvez créer et éditer les registres de cylindres avec la boîte de dialogue w{Cylindre}. Vous pouvez l'ouvrir dans l'w{Aperçu listes}->LST avec un registre de cylindre actif ou depuis le w{Plan d'organigramme}->MTRX. 
+=M_DLG_DATA_CYL_P2(0)	Vous pouvez créer et éditer les registres de cylindres avec la boîte de dialogue w{Cylindre}. Vous pouvez l'ouvrir dans l'w{Aperçu Listes}->LST avec un registre de cylindre actif ou depuis le w{Plan d'Organigramme}->MTRX. 
 
 =M_DLG_DATA_CYL_P3(0)	La boîte de dialogue cylindre possède les champs de saisie suivants: 
 
@@ -3789,11 +3789,11 @@
 
 =M_DLG_DATA_CYL_P3_L(0)	f{@ No courant}: Vous ajoutez le signe @ (le numéro courant) dans tout champ de données texte à l'aide de ce bouton. LOCKBASE remplace ce signe par la numérotation lors de la création des registres. 
 
-=M_DLG_DATA_CYL_P3_M(0)	f{Groupe de code}, f{Profil}, f{Rotor} et f{Stator} (pas dans la version LOCKBASE w{Manager}/ w{Manager lite}): Entrez-y le profil, le groupe de code ainsi que le montage du rotor et du stator du cylindre. Ces champs sont automatiquement renseignés par le w{Module de calcul}->CALC des versions w{Calculator} et w{Professional} de LOCKBASE, lorsque vous sélectionnez m{Edition - Transfert...}->CALC_TRANSFER. 
+=M_DLG_DATA_CYL_P3_M(0)	f{Groupe de code}, f{Profil}, f{Rotor} et f{Stator} (pas dans la version LOCKBASE w{Manager}/ w{Manager lite}): Entrez-y le profil, le groupe de code ainsi que le montage du rotor et du stator du cylindre. Ces champs sont automatiquement renseignés par le w{Module de Calcul}->CALC des versions w{Calculator} et w{Professional} de LOCKBASE, lorsque vous sélectionnez m{Edition - Transfert...}->CALC_TRANSFER. 
 
 =M_DLG_DATA_CYL_P4(0)	Conseils: 
 
-=M_DLG_DATA_CYL_P4_A(0)	Les cylindres appartenant à une fermeture identique ('esclaves'), s'affichent en italique dans le w{Plan d'organigramme} et leurs connexions à des clés supérieures et à des ouvertures centrales en gris foncé. Les connexions 'd'esclaves' ne peuvent pas être modifiées directement, mais uniquement par le biais de leurs cylindres 'maître'. Avec la commande m{Options - Afficher plan de fonctions seulement} vous pouvez ignorer la sortie à l'écran de cylindres à fermeture identique ('Esclaves'). L'activation de ce réglage permet l'affichage uniquement de cylindres à fermeture différente ('maître'). 
+=M_DLG_DATA_CYL_P4_A(0)	Les cylindres appartenant à une fermeture identique ('esclaves'), s'affichent en italique dans le w{Plan d'Organigramme} et leurs connexions à des clés supérieures et à des ouvertures centrales en gris foncé. Les connexions 'd'esclaves' ne peuvent pas être modifiées directement, mais uniquement par le biais de leurs cylindres 'maître'. Avec la commande m{Options - Afficher plan de fonctions seulement} vous pouvez ignorer la sortie à l'écran de cylindres à fermeture identique ('Esclaves'). L'activation de ce réglage permet l'affichage uniquement de cylindres à fermeture différente ('maître'). 
 
 =M_DLG_DATA_CYL_P4_B(0)	Il est uniquement possible d'ajouter des cylindres à une fermeture égale, qui ne possèdent pas de clés individuelles. Si vous voulez ajouter un cylindre doté d'une clé individuelle à une fermeture égale, il faut d'abord supprimer la clé individuelle. 
 
@@ -3805,7 +3805,7 @@
 
 =M_DLG_DATA_DOOR_P1(0)	La boîte de dialogue w{Porte} 
 
-=M_DLG_DATA_DOOR_P2(0)	Vous pouvez créer et éditer le registre de portes avec la boîte de dialogue w{Porte}. Vous pouvez l'ouvrir dans l'w{Aperçu listes}->LST avec des registres de portes actifs. 
+=M_DLG_DATA_DOOR_P2(0)	Vous pouvez créer et éditer le registre de portes avec la boîte de dialogue w{Porte}. Vous pouvez l'ouvrir dans l'w{Aperçu Listes}->LST avec des registres de portes actifs. 
 
 =M_DLG_DATA_DOOR_P3(0)	La boîte de dialogue possède les champs de saisie suivants: 
 
@@ -3831,9 +3831,9 @@
 
 =M_DLG_DATA_CONNECT_P2(0)	Dans un système de fermeture on ne compte pas seulement les registres des quatre bases de données, mais surtout également les connexions entre les différents registres. 
 
-=M_DLG_DATA_CONNECT_P3(0)	Pour éditer les connexions (supprimer et créer), on peut utiliser la boîte de dialogue w{Connecter...}. Elles sont connectées avec le registre sélectionné dans l'w{Aperçu listes}->LST ou dans le w{Plan d'organigramme}->MTRX. 
+=M_DLG_DATA_CONNECT_P3(0)	Pour éditer les connexions (supprimer et créer), on peut utiliser la boîte de dialogue w{Connecter...}. Elles sont connectées avec le registre sélectionné dans l'w{Aperçu Listes}->LST ou dans le w{Plan d'Organigramme}->MTRX. 
 
-=M_DLG_DATA_CONNECT_P4(0)	Vous pouvez sélectionner plusieurs clés ou cylindres dans le w{Plan d'organigramme}->MTRX, pour les connecter ensemble avec les registres de la base de données correspondante (voir chap. VI-3, {'Connecter les bases de données'}->MTRX_CONNECT). 
+=M_DLG_DATA_CONNECT_P4(0)	Vous pouvez sélectionner plusieurs clés ou cylindres dans le w{Plan d'Organigramme}->MTRX, pour les connecter ensemble avec les registres de la base de données correspondante (voir chap. VI-3, {'Connecter les bases de données'}->MTRX_CONNECT). 
 
 =M_DLG_DATA_CONNECT_P5(0)	Vous ouvrez la boîte de dialogue ainsi: 
 
@@ -3845,13 +3845,13 @@
 
 =M_DLG_DATA_CONNECT_P6(0)	La boîte de dialogue possède les champs de saisie suivants: 
 
-=M_DLG_DATA_CONNECT_P6_A(0)	f{Connecter}: Le registre sélectionné est encore une fois identifié dans la base de données active dans ce champ. Si vous avez sélectionné plusieurs fonctions de clés ou cylindres dans le w{Plan d'organigramme}->MTRX, lesquelles ne possèdent pas une fermeture identique, l'entrée "<Sélection multiple>" apparaît. 
+=M_DLG_DATA_CONNECT_P6_A(0)	f{Connecter}: Le registre sélectionné est encore une fois identifié dans la base de données active dans ce champ. Si vous avez sélectionné plusieurs fonctions de clés ou cylindres dans le w{Plan d'Organigramme}->MTRX, lesquelles ne possèdent pas une fermeture identique, l'entrée "<Sélection multiple>" apparaît. 
 
 =M_DLG_DATA_CONNECT_P6_B(0)	f{Connecté}: Cette zone de liste contient tous les registres de la base de données voisine, avec lesquels le registre sélectionné est connecté. 
 
 =M_DLG_DATA_CONNECT_P6_C(0)	f{Non-connecté}: Cette zone de liste contient tous les registres de la base de données voisine, avec lesquels le registre sélectionné n'est pas connecté actuellement. 
 
-=M_DLG_DATA_CONNECT_P6_D(0)	f{Connecter avec}: Vous sélectionnez dans ce champ du w{Plan d'organigramme}->MTRX, si le registre cylindres ou fonctions de clé doit être celui qui doit être connecté. Tous les registres de la base de données sélectionnée apparaissent dans les deux listes de la fenêtre de dialogue - selon si les registres sélectionnés sont connectés ou non avec la base de données correspondante. Ce champ de saisie n'existe pas dans l'w{Aperçu listes}->LST. 
+=M_DLG_DATA_CONNECT_P6_D(0)	f{Connecter avec}: Vous sélectionnez dans ce champ du w{Plan d'Organigramme}->MTRX, si le registre cylindres ou fonctions de clé doit être celui qui doit être connecté. Tous les registres de la base de données sélectionnée apparaissent dans les deux listes de la fenêtre de dialogue - selon si les registres sélectionnés sont connectés ou non avec la base de données correspondante. Ce champ de saisie n'existe pas dans l'w{Aperçu Listes}->LST. 
 
 =M_DLG_DATA_CONNECT_P6_E(0)	f{Format lignes...}: Avec ces boutons de commandes, vous ouvrez la boîte de dialogue w{Format lignes clés}, pour modifier la largeur d'affichage des différents champs des listes de registres (voir chap. IV-2, {'Format des lignes et classement'}->DLG_USAGE_LINE). 
 
@@ -3867,17 +3867,17 @@
 
 =M_DLG_DATA_CONNECT_P9(0)	Conseils: 
 
-=M_DLG_DATA_CONNECT_P9_A(0)	Si le système de fermeture a été analysé ou créé avec le w{Designer système}, vous ne pouvez que connecter les registres de fonctions ou de cylindres si un sous-groupe est affiché (voir chap. VIII, {'Designer système'}->DSGN). Dans un nœud, la boîte connexions ne peut que servir à visualiser les connexions. 
+=M_DLG_DATA_CONNECT_P9_A(0)	Si le système de fermeture a été analysé ou créé avec le w{Designer Système}, vous ne pouvez que connecter les registres de fonctions ou de cylindres si un sous-groupe est affiché (voir chap. VIII, {'Designer Système'}->DSGN). Dans un nœud, la boîte connexions ne peut que servir à visualiser les connexions. 
 
-=M_DLG_DATA_CONNECT_P9_B(0)	Si vous avez activé le registre des personnes dans l'w{Aperçu listes}->LST, mais si la liste des registres non-connectés est vide, cela veut dire soit que pas de copies de clés ont été créées, soit que toutes les clés ont été remises. 
+=M_DLG_DATA_CONNECT_P9_B(0)	Si vous avez activé le registre des personnes dans l'w{Aperçu Listes}->LST, mais si la liste des registres non-connectés est vide, cela veut dire soit que pas de copies de clés ont été créées, soit que toutes les clés ont été remises. 
 
 =M_DLG_DATA_CONNECT_P9_C(0)	Les connexions entre les personnes et les clés ne peuvent qu'être administrées depuis le registre personnes. La boîte de dialogue w{Copie de clé}->DLG_DATA_KEY apparaît. 
 
-=M_DLG_DATA_CONNECT_P9_D(0)	Vous pouvez sélectionner plusieurs clés ou cylindres dans le w{Plan d'organigramme}, pour les connecter ensemble avec les registres de la base de données correspondante (voir chap. VI-3, {'Connecter les bases de données'}->MTRX_CONNECT). 
+=M_DLG_DATA_CONNECT_P9_D(0)	Vous pouvez sélectionner plusieurs clés ou cylindres dans le w{Plan d'Organigramme}, pour les connecter ensemble avec les registres de la base de données correspondante (voir chap. VI-3, {'Connecter les bases de données'}->MTRX_CONNECT). 
 
 =M_DLG_USAGE(0)	2. Maniement des listes de données 
 
-=M_DLG_USAGE_P1(0)	Chaque registre de données contient plusieurs champs, ex les données relatives à une personne comprennent les champs f{Nom}, f{Prénom}, f{Rue} etc. Dans l'w{Aperçu listes}->LST, dans le w{Plan d'organigramme}->MTRX, dans le w{Gestionnaire d'impression}->PRN et dans certaines boîtes de dialogue, LOCKBASE affiche les données en listes de manière à ce que les champs appartenant à un registre soient affichés en une ligne. 
+=M_DLG_USAGE_P1(0)	Chaque registre de données contient plusieurs champs, ex les données relatives à une personne comprennent les champs f{Nom}, f{Prénom}, f{Rue} etc. Dans l'w{Aperçu Listes}->LST, dans le w{Plan d'Organigramme}->MTRX, dans le w{Gestionnaire d'impression}->PRN et dans certaines boîtes de dialogue, LOCKBASE affiche les données en listes de manière à ce que les champs appartenant à un registre soient affichés en une ligne. 
 
 =M_DLG_USAGE_P2(0)	Cette section traite comment vous 
 
@@ -3897,7 +3897,7 @@
 
 =M_DLG_USAGE_P4(0)	Conseil: 
 
-=M_DLG_USAGE_P4_A(0)	Vous devez d'abord activer la base de données dans l'w{Aperçu listes}, dont vous voulez paramétrer l'affichage. 
+=M_DLG_USAGE_P4_A(0)	Vous devez d'abord activer la base de données dans l'w{Aperçu Listes}, dont vous voulez paramétrer l'affichage. 
 
 =M_DLG_USAGE_LINE(0)	Format des lignes et classement 
 
@@ -3929,7 +3929,7 @@
 
 =M_DLG_USAGE_FONT_P1(0)	La boîte de dialogue w{Police} 
 
-=M_DLG_USAGE_FONT_P2(0)	Dans le menu m{Options} de toutes les vues de données LOCKBASE, vous trouverez la commande m{Police}. Vous trouverez également une ou plusieurs commandes de police dans toutes les fenêtres w{Imprimer} document exemple lors de l'impression d'un w{Plan d'organigramme} vous trouverez f{Police Titre}, f{Police Infos système}, f{Police Description} et f{Police Données}. 
+=M_DLG_USAGE_FONT_P2(0)	Dans le menu m{Options} de toutes les vues de données LOCKBASE, vous trouverez la commande m{Police}. Vous trouverez également une ou plusieurs commandes de police dans toutes les fenêtres w{Imprimer} document exemple lors de l'impression d'un w{Plan d'Organigramme} vous trouverez f{Police Titre}, f{Police Infos système}, f{Police Description} et f{Police Données}. 
 
 =M_DLG_USAGE_FONT_P3(0)	Avec chaque bouton de commande f{Police}, vous ouvrez la boîte de dialogue w{Police} dans laquelle vous pouvez modifier le type, le style et la taille de la police employée pour afficher ou imprimer des données. 
 
@@ -3977,7 +3977,7 @@
 
 =M_DLG_USAGE_HEADER_P6_C(0)	Relâchez le bouton de la souris. Le titre sera déplacé vers l'emplacement voulu et la présentation de la liste s'adaptera au nouvel ordre des champs. 
 
-=M_DLG_USAGE_HEADER_P7(0)	Dans l'w{Aperçu listes}->LST, dans le w{Plan d'organigramme}->MTRX et dans le w{Module de calcul}->CALC vous pouvez ouvrir directement la boîte de dialogue w{Format des lignes et classement}->DLG_USAGE_LINE de la liste correspondante avec un double-clic sur le titre des listes. Pour cela, procédez comme suit: 
+=M_DLG_USAGE_HEADER_P7(0)	Dans l'w{Aperçu Listes}->LST, dans le w{Plan d'Organigramme}->MTRX et dans le w{Module de Calcul}->CALC vous pouvez ouvrir directement la boîte de dialogue w{Format des lignes et classement}->DLG_USAGE_LINE de la liste correspondante avec un double-clic sur le titre des listes. Pour cela, procédez comme suit: 
 
 =M_DLG_USAGE_HEADER_P7_A(0)	Double-cliquez sur la zone à droite à côté du titre du dernier champ de données. 
 
@@ -3985,7 +3985,7 @@
 
 =M_DLG_USAGE_SELECT(0)	Marquage des registres 
 
-=M_DLG_USAGE_SELECT_P1(0)	Vous pouvez sélectionner plusieurs registres dans l'w{Aperçu listes}->LST et dans le w{Plan d'organigramme}->MTRX de la manière suivante pour les éditer, les déplacer, les connecter avec d'autres registres ou pour les supprimer. 
+=M_DLG_USAGE_SELECT_P1(0)	Vous pouvez sélectionner plusieurs registres dans l'w{Aperçu Listes}->LST et dans le w{Plan d'Organigramme}->MTRX de la manière suivante pour les éditer, les déplacer, les connecter avec d'autres registres ou pour les supprimer. 
 
 =M_DLG_USAGE_SELECT_P2(0)	Pour sélectionner des registres consécutifs avec la souris, procédez comme suit: 
 
@@ -4013,7 +4013,7 @@
 
 =M_DLG_USAGE_SELECT_P5(0)	Pour sélectionner des registres non-consécutifs avec le clavier, procédez comme suit: 
 
-=M_DLG_USAGE_SELECT_P5_A(0)	Appuyez sur la combinaison de touches k{Maj+F8} (dans le w{Plan d'organigramme} k{Maj+F8} pour les cylindres et k{Ctrl+Maj+F8} pour les clés). 
+=M_DLG_USAGE_SELECT_P5_A(0)	Appuyez sur la combinaison de touches k{Maj+F8} (dans le w{Plan d'Organigramme} k{Maj+F8} pour les cylindres et k{Ctrl+Maj+F8} pour les clés). 
 
 =M_DLG_USAGE_SELECT_P5_B(0)	Déplacez le curseur de la liste avec les k{Flèches} sur les registres que vous voulez sélectionner et appuyez sur la barre k{Espace}. Le registre sur lequel se trouve le curseur de liste est marqué. 
 
@@ -4037,7 +4037,7 @@
 
 =M_DLG_USAGE_MOVE_P3_A(0)	Vous devez utiliser la souris pour déplacer des registres. Les registres ne peuvent pas être déplacés au clavier. 
 
-=M_DLG_USAGE_MOVE_P3_B(0)	Les registres ne peuvent qu'être déplacés dans la présentation non-classée. Sélectionnez la commande m{Options - Format lignes} de l'w{Aperçu listes}->LST ou m{Options - Format lignes} / m{Options - Format colonnes} dans le w{Plan d'organigramme}->MTRX et assurez-vous qu'aucun champ ne détermine le classement de la liste. 
+=M_DLG_USAGE_MOVE_P3_B(0)	Les registres ne peuvent qu'être déplacés dans la présentation non-classée. Sélectionnez la commande m{Options - Format lignes} de l'w{Aperçu Listes}->LST ou m{Options - Format lignes} / m{Options - Format colonnes} dans le w{Plan d'Organigramme}->MTRX et assurez-vous qu'aucun champ ne détermine le classement de la liste. 
 
 =M_DLG_USAGE_SORT(0)	Trier la présentation non-classée 
 
@@ -4045,7 +4045,7 @@
 
 =M_DLG_USAGE_SORT_P2(0)	A part du tri sur les réglages dans la boîte de dialogue w{Format ligne} (voir chap. IV-2, {'Format ligne et classement'}->DLG_USAGE_LINE) il y a aussi une possibilité de tri de la présentation non-classée. A la différence du classement par champ de données celui-ci ne peut pas être rendu rétrograde cependant, mais modifie de façon durable la présentation non-classée. Vous pouvez trier tous les registres d'un type de donnée ou limiter le classement à une sélection de registres. 
 
-=M_DLG_USAGE_SORT_P3(0)	Pour ouvrir la boîte de dialogue, basculez dans l'w{Aperçu Listes}->LST ou dans le w{Plan d'organigramme}->MTRX et 
+=M_DLG_USAGE_SORT_P3(0)	Pour ouvrir la boîte de dialogue, basculez dans l'w{Aperçu Listes}->LST ou dans le w{Plan d'Organigramme}->MTRX et 
 
 =M_DLG_USAGE_SORT_P3_A(0)	choisissez m{Edition - Trier} 
 
@@ -4085,7 +4085,7 @@
 
 =M_DLG_USAGE_SEARCH_P6(0)	La recherche étendue 
 
-=M_DLG_USAGE_SEARCH_P7(0)	L'w{Aperçu Listes}->LST et le w{Plan d'organigramme}->MTRX possèdent une fonction de recherche étendue, que vous pouvez accéder comme suit: 
+=M_DLG_USAGE_SEARCH_P7(0)	L'w{Aperçu Listes}->LST et le w{Plan d'Organigramme}->MTRX possèdent une fonction de recherche étendue, que vous pouvez accéder comme suit: 
 
 =M_DLG_USAGE_SEARCH_P7_A(0)	cliquez sur i{BTN_DLG_SEARCH.BMP} dans la barre d'outils ou 
 
@@ -4093,13 +4093,13 @@
 
 =M_DLG_USAGE_SEARCH_P8(0)	La boîte de dialogue offre en plus des éléments de contrôle de la recherche à positionner les champs de saisie suivants: 
 
-=M_DLG_USAGE_SEARCH_P8_A(0)	f{Mode de données}: Dans le w{Plan d'organigramme}->MTRX sélectionnez ici la base de données, dans laquelle vous voulez rechercher. Dans l'w{Aperçu Listes}->LST il n'est pas nécessaire, ici la base de données active sera toujours recherchée. 
+=M_DLG_USAGE_SEARCH_P8_A(0)	f{Mode de données}: Dans le w{Plan d'Organigramme}->MTRX sélectionnez ici la base de données, dans laquelle vous voulez rechercher. Dans l'w{Aperçu Listes}->LST il n'est pas nécessaire, ici la base de données active sera toujours recherchée. 
 
 =M_DLG_USAGE_SEARCH_P8_B(0)	f{Action}: Vous pouvez ici définir comment on doit procéder avec le résultat de la recherche. En choisissant 'Sélectionner', les registres trouvés seront choisis dans la liste. Cette procédure correspond à la recherche à positionner. Si vous choisissez 'Filtrer', le critère de recherche sera utilisé comme filtre, c.-à-d. uniquement les registres seront affichés, qui correspond au critère de recherche. Pour afficher qu'une sélection des registres existant n'est que visible, le bouton 'Rechercher' reste appuyé dans la barre d'outils respectivement l'entrée de menu reste activée. Cliquant encore une fois sur le symbole respectivement sur une nouvelle sélection d'entrée de menu, le filtre peut être désactivé. De plus dans l'w{Aperçu Listes}->LST le filtre sera désactivé automatiquement par basculer la liste active. 
 
 =M_DLG_USAGE_CLIPBOARD(0)	Copier et insérer des registres par le presse-papier 
 
-=M_DLG_USAGE_CLIPBOARD_P1(0)	Dans l'w{Aperçu Listes}->LST et dans le w{Plan d'organigramme}->MTRX il est possible de copier et insérer des registres utilisant le presse-papier. De cette façon, vous pouvez copier des registres au dedans d'un fichier ou aussi d'un fichier dans un autre. À l'aide du presse-papier il est aussi possible d'importer des registres d'un fichier de texte externe ou d'une feuille de tableau à LOCKBASE. 
+=M_DLG_USAGE_CLIPBOARD_P1(0)	Dans l'w{Aperçu Listes}->LST et dans le w{Plan d'Organigramme}->MTRX il est possible de copier et insérer des registres utilisant le presse-papier. De cette façon, vous pouvez copier des registres au dedans d'un fichier ou aussi d'un fichier dans un autre. À l'aide du presse-papier il est aussi possible d'importer des registres d'un fichier de texte externe ou d'une feuille de tableau à LOCKBASE. 
 
 =M_DLG_USAGE_CLIPBOARD_P2(0)	Pour copier des registres dans le presse-papier, marquez d'abord les registres que vous voulez copier. Pour cela, vous devez activer la liste de données correspondante dans l'w{Aperçu Listes} (voir chap. V, {Aperçu Listes}->LST). Ensuite 
 
@@ -4129,9 +4129,9 @@
 
 =M_DLG_GROUPS(0)	3. Navigation au sein de la structure de groupes 
 
-=M_DLG_GROUPS_P1(0)	Lorsque votre version de LOCKBASE est fournie avec un w{Designer système}->DSGN, vous pouvez créer des systèmes de fermeture structurés hiérarchiquement ou analyser la structure de groupes des systèmes existants. 
+=M_DLG_GROUPS_P1(0)	Lorsque votre version de LOCKBASE est fournie avec un w{Designer Système}->DSGN, vous pouvez créer des systèmes de fermeture structurés hiérarchiquement ou analyser la structure de groupes des systèmes existants. 
 
-=M_DLG_GROUPS_P2(0)	Dans les systèmes de fermeture avec structure de groupes (voir chap. VIII-1, {'Analyser des systèmes de fermeture'}->DSGN_ANALYSE), les désignations de groupes apparaissent dans la liste des groupes des barres d'outils de l'w{Aperçu listes}->LST et du w{Plan d'organigramme}->MTRX. Si vous voulez ajouter, connecter ou supprimer une fonction de clé ou un registre de cylindre, vous devez sélectionner un sous-groupe. 
+=M_DLG_GROUPS_P2(0)	Dans les systèmes de fermeture avec structure de groupes (voir chap. VIII-1, {'Analyser des systèmes de fermeture'}->DSGN_ANALYSE), les désignations de groupes apparaissent dans la liste des groupes des barres d'outils de l'w{Aperçu Listes}->LST et du w{Plan d'Organigramme}->MTRX. Si vous voulez ajouter, connecter ou supprimer une fonction de clé ou un registre de cylindre, vous devez sélectionner un sous-groupe. 
 
 =M_DLG_GROUPS_P3(0)	Procédez comme suit pour activer un groupe: 
 
@@ -4149,23 +4149,23 @@
 
 =M_DLG_GROUPS_P6_A(0)	Il n'est pas possible d'ajouter, supprimer ou connecter des registres dans le système dans son ensemble dans un système de fermeture analysé et hiérarchisé, car sinon la structure de groupes pourrait être modifiée. Vous devez sélectionner d'abord un sous-groupe avant de pouvoir ajouter, supprimer ou connecter des registres. 
 
-=M_LST(0)	V. L'Aperçu listes 
+=M_LST(0)	V. L'Aperçu Listes 
 
-=M_LST_P1(0)	La fenêtre w{Aperçu listes} avec les registres personnes (a), fonctions de clés (b), cylindres (c) et portes (d). Les connexions sont indiquées par les points (e), représentant le registre marqué de la base de données active aux autres registres. 
+=M_LST_P1(0)	La fenêtre w{Aperçu Listes} avec les registres personnes (a), fonctions de clés (b), cylindres (c) et portes (d). Les connexions sont indiquées par les points (e), représentant le registre marqué de la base de données active aux autres registres. 
 
-=M_LST_P2(0)	Pour basculer vers l'w{Aperçu listes}, procédez comme suit: 
+=M_LST_P2(0)	Pour basculer vers l'w{Aperçu Listes}, procédez comme suit: 
 
 =M_LST_P2_A(0)	Cliquez sur i{BTN_MAIN_LST.BMP} dans la barre d'outils ou 
 
-=M_LST_P2_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Aperçu listes}, ou 
+=M_LST_P2_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Aperçu Listes}, ou 
 
 =M_LST_P2_C(0)	appuyez sur la combinaison de touches k{Ctrl+L}. 
 
-=M_LST_P3(0)	La fenêtre w{Aperçu listes} est la représentation d'un système de fermeture, dans laquelle il est possible de visualiser simultanément à l'écran les registres personnes, fonctions de clés, cylindres et portes. Vous pouvez éditer tous les registres dans la fenêtre w{Aperçu listes}. 
+=M_LST_P3(0)	La fenêtre w{Aperçu Listes} est la représentation d'un système de fermeture, dans laquelle il est possible de visualiser simultanément à l'écran les registres personnes, fonctions de clés, cylindres et portes. Vous pouvez éditer tous les registres dans la fenêtre w{Aperçu Listes}. 
 
-=M_LST_P4(0)	Grâce au module de w{Plan de local} vous pouvez acquérir les contours de bâtiments ou de services et afficher les enregistrements de portes précédemment créés dans ces contours. Ceci permet d'administrer de manière claire l'accès de personnes, la fonction des clés ou le reste de cylindres (voir chap. V-4, {'Le Module de plan de local'}->LST_GROUNDPLAN). 
+=M_LST_P4(0)	Grâce au module de w{Plan de Local} vous pouvez acquérir les contours de bâtiments ou de services et afficher les enregistrements de portes précédemment créés dans ces contours. Ceci permet d'administrer de manière claire l'accès de personnes, la fonction des clés ou le reste de cylindres (voir chap. V-4, {'Le Module de Plan de Local'}->LST_GROUNDPLAN). 
 
-=M_LST_P5(0)	Maniement de la fenêtre Aperçu listes 
+=M_LST_P5(0)	Maniement de la fenêtre Aperçu Listes 
 
 =M_LST_P6(0)	Un seul des quatre registres ne peut être actif à la fois. Vous pouvez reconnaître le registre actif à son arrière- plan blanc, alors que l'arrière-plan des registres inactifs est représenté par un fond gris clair. Vous devez activer le registre correspondant avant de pouvoir l'ajouter, l'éditer, le supprimer ou le connecter. 
 
@@ -4187,7 +4187,7 @@
 
 =M_LST_P10(0)	Vous pouvez modifier le formatage au sein d'une base de données grâce à la commande m{Options - Format lignes}->DLG_USAGE_LINE. 
 
-=M_LST_P11(0)	Grâce à la commande m{Fenêtre - Afficher les plans de locaux} vous pouvez basculer entre la représentation des portes sous forme d'un w{Plan de local} ou par liste. Une coche devant l'élément de menu est visible, lorsque la représentation sous forme de w{Plan de local} est activée. Le bouton i{BTN_LST_GROUNDPLAN.BMP} dans la barre d'outils de l'w{Aperçu listes} possède la même fonction. 
+=M_LST_P11(0)	Grâce à la commande m{Fenêtre - Afficher le Plan de Local} vous pouvez basculer entre la représentation des portes sous forme d'un w{Plan de Local} ou par liste. Une coche devant l'élément de menu est visible, lorsque la représentation sous forme de w{Plan de Local} est activée. Le bouton i{BTN_LST_GROUNDPLAN.BMP} dans la barre d'outils de l'w{Aperçu Listes} possède la même fonction. 
 
 =M_LST_EDIT(0)	1. Saisir et modifier les registres 
 
@@ -4255,7 +4255,7 @@
 
 =M_LST_EDIT_EDIT(0)	Editer des registres 
 
-=M_LST_EDIT_EDIT_P1(0)	Vous pouvez éditer les registres de personnes, de fonctions de clé et de cylindres dans la fenêtre w{Aperçu listes}. Activez d'abord la base de données souhaitée et sélectionnez un ou plusieurs registres, puis 
+=M_LST_EDIT_EDIT_P1(0)	Vous pouvez éditer les registres de personnes, de fonctions de clé et de cylindres dans la fenêtre w{Aperçu Listes}. Activez d'abord la base de données souhaitée et sélectionnez un ou plusieurs registres, puis 
 
 =M_LST_EDIT_EDIT_P1_A(0)	Cliquez sur i{BTN_LST_EDIT.BMP} dans la barre d'outils ou 
 
@@ -4273,7 +4273,7 @@
 
 =M_LST_EDIT_DEL(0)	Supprimer des registres 
 
-=M_LST_EDIT_DEL_P1(0)	Vous pouvez éditer les registres des quatre bases de données dans la fenêtre w{Aperçu listes}. Sélectionnez le ou les registres de la base de données active que vous voulez supprimer. 
+=M_LST_EDIT_DEL_P1(0)	Vous pouvez éditer les registres des quatre bases de données dans la fenêtre w{Aperçu Listes}. Sélectionnez le ou les registres de la base de données active que vous voulez supprimer. 
 
 =M_LST_EDIT_DEL_P1_A(0)	Cliquez ensuite sur i{BTN_LST_DEL.BMP} dans la barre d'outils ou 
 
@@ -4303,7 +4303,7 @@
 
 =M_LST_EDIT_OVERDUE_KEYS_P5(0)	Un champ de liste affiche toutes les clés ayant atteintes ou dépassées leurs date de retour. Le bouton f{Format...} permet de modifier l'affichage de cette liste (v. chap. IV-2, {'Format des lignes et classement'}->DLG_USAGE_LINE). 
 
-=M_LST_EDIT_OVERDUE_KEYS_P6(0)	Si vous le souhaitez, LOCKBASE peut afficher les dates de retour dépassées à chaque ouverture de l' w{Aperçu listes}. 
+=M_LST_EDIT_OVERDUE_KEYS_P6(0)	Si vous le souhaitez, LOCKBASE peut afficher les dates de retour dépassées à chaque ouverture de l' w{Aperçu Listes}. 
 
 =M_LST_EDIT_OVERDUE_KEYS_P7(0)	Afin d'afficher automatiquement les dates de retour dépassées 
 
@@ -4343,7 +4343,7 @@
 
 =M_LST_CONNECT_SET(0)	Créer ou défaire les connexions entre des registres 
 
-=M_LST_CONNECT_SET_P1(0)	Dans l'w{Aperçu listes}, vous pouvez créer ou défaire des connexions entre les quatre bases de données (en partie seulement dans w{Manager lite}). 
+=M_LST_CONNECT_SET_P1(0)	Dans l'w{Aperçu Listes}, vous pouvez créer ou défaire des connexions entre les quatre bases de données (en partie seulement dans w{Manager lite}). 
 
 =M_LST_CONNECT_SET_P2(0)	Activez d'abord la base de données, à partir de laquelle vous voulez éditer (créer ou supprimer) la connexion entre un registre et un autre de la base de données voisine. Sélectionnez ensuite le registre concerné. Pour cela, procédez comme suit: 
 
@@ -4359,7 +4359,7 @@
 
 =M_LST_CONNECT_SET_P5(0)	Conseils: 
 
-=M_LST_CONNECT_SET_P5_A(0)	Si vous avez activé le registre des personnes dans l'w{Aperçu listes}, mais si la liste des registres non-connectés est vide, cela veut dire soit que pas de copies de clés ont été créées, soit que toutes les clés ont été remises. 
+=M_LST_CONNECT_SET_P5_A(0)	Si vous avez activé le registre des personnes dans l'w{Aperçu Listes}, mais si la liste des registres non-connectés est vide, cela veut dire soit que pas de copies de clés ont été créées, soit que toutes les clés ont été remises. 
 
 =M_LST_CONNECT_SET_P5_B(0)	Les connexions entre les personnes et les clés ne peuvent qu'être administrées depuis le registre personnes. 
 
@@ -4369,7 +4369,7 @@
 
 =M_LST_CONNECT_SHOW(0)	Afficher les registres connectés 
 
-=M_LST_CONNECT_SHOW_P1(0)	Pour constater quels registres sont connectés avec le registre sélectionné de la base de données active, vous pouvez activer l'affichage des connexions. Les registres connectés entre-eux sont représentés dans le w{Plan d'organigramme}->MTRX et dans l'w{Aperçu listes} par un point rouge. 
+=M_LST_CONNECT_SHOW_P1(0)	Pour constater quels registres sont connectés avec le registre sélectionné de la base de données active, vous pouvez activer l'affichage des connexions. Les registres connectés entre-eux sont représentés dans le w{Plan d'Organigramme}->MTRX et dans l'w{Aperçu Listes} par un point rouge. 
 
 =M_LST_CONNECT_SHOW_P1_A(0)	Cliquez sur i{BTN_LST_SHOWDOTS.BMP} dans la barre d'outils ou 
 
@@ -4387,27 +4387,27 @@
 
 =M_LST_CONNECT_SHOW_P3_C(0)	Avec k{Maj}+[k{Flèche Gauche} ou k{Droite}], d'un clic de souris ou grâce aux deux commandes respectives du menu m{Fenêtre}, vous pouvez basculer entre une ou l'autre base de données, pour feuilleter au sein de ses registres, par exemple pour voir les connexions. 
 
-=M_LST_GROUNDPLAN(0)	3. Le Module de plan de local 
+=M_LST_GROUNDPLAN(0)	3. Le Module de Plan de Local 
 
-=M_LST_GROUNDPLAN_P1(0)	Le fenêtre d'w{Aperçu listes} dans la vue de w{Plan de local} 
+=M_LST_GROUNDPLAN_P1(0)	Le fenêtre d'w{Aperçu Listes} dans la vue de w{Plan de Local} 
 
-=M_LST_GROUNDPLAN_P2(0)	Le module de w{Plan de local} permet d'afficher des esquisses des bâtiments dans lesquels votre système de fermeture est installé. Vous pouvez entrer des portes déjà créées dans ces esquisses et afficher l'accès de personnes, la fonction des clés ou s'il reste des cylindres, et ceci de manière très claire. 
+=M_LST_GROUNDPLAN_P2(0)	Le module de w{Plan de Local} permet d'afficher des esquisses des bâtiments dans lesquels votre système de fermeture est installé. Vous pouvez entrer des portes déjà créées dans ces esquisses et afficher l'accès de personnes, la fonction des clés ou s'il reste des cylindres, et ceci de manière très claire. 
 
-=M_LST_GROUNDPLAN_P3(0)	Afin de basculer entre la représentation sous forme de liste ou de w{Plan de local} 
+=M_LST_GROUNDPLAN_P3(0)	Afin de basculer entre la représentation sous forme de liste ou de w{Plan de Local} 
 
 =M_LST_GROUNDPLAN_P3_A(0)	Cliquez sur i{BTN_LST_GROUNDPLAN.BMP} dans la barre d'outils ou 
 
-=M_LST_GROUNDPLAN_P3_B(0)	sélectionnez la commande m{Fenêtre - Afficher les plans de locaux}. 
+=M_LST_GROUNDPLAN_P3_B(0)	sélectionnez la commande m{Fenêtre - Afficher le Plan de Local}. 
 
-=M_LST_GROUNDPLAN_P4(0)	Dans le w{Plan de local} dans la zone de contrôle de la liste des portes vous trouverez deux éléments de contrôle pour le réglage de la représentation du w{Plan de local}. 
+=M_LST_GROUNDPLAN_P4(0)	Dans le w{Plan de Local} dans la zone de contrôle de la liste des portes vous trouverez deux éléments de contrôle pour le réglage de la représentation du w{Plan de local}. 
 
 =M_LST_GROUNDPLAN_P5(0)	La zone de contrôle de la liste des portes de la vue de w{Plan de local} 
 
 =M_LST_GROUNDPLAN_P6(0)	A l'aide de la liste de sélection, vous pouvez choisir un plan de local pour l'afficher. La barre de réglage vous permet de régler le facteur de zoom de la vue. 
 
-=M_LST_GROUNDPLAN_P7(0)	Vous pouvez actionner la vue du w{Plan de local}l avec la souris ou avec le clavier. Pour l'utilisation avec le clavier, les touches de raccourci suivantes sont valables: 
+=M_LST_GROUNDPLAN_P7(0)	Vous pouvez actionner la vue du w{Plan de Local}l avec la souris ou avec le clavier. Pour l'utilisation avec le clavier, les touches de raccourci suivantes sont valables: 
 
-=M_LST_GROUNDPLAN_P7_A(0)	Avec k{Maj+Flèche Gauche} ou k{Maj+Flèche Droite}, vous vous déplacez au sein des éléments de contrôle du module de w{Plan de local}. 
+=M_LST_GROUNDPLAN_P7_A(0)	Avec k{Maj+Flèche Gauche} ou k{Maj+Flèche Droite}, vous vous déplacez au sein des éléments de contrôle du module de w{Plan de Local}. 
 
 =M_LST_GROUNDPLAN_P7_B(0)	Avec k{Ctrl+Flèche Haut} et k{Ctrl+Flèche Bas} vous vous déplacez d'une ligne. 
 
@@ -4417,23 +4417,23 @@
 
 =M_LST_GROUNDPLAN_P7_E(0)	Avec k{Ctrl+Orig} et k{Ctrl+Fin} vous vous déplacez horizontalement d'une page. 
 
-=M_LST_GROUNDPLAN_P8(0)	Le pointage, la sélection et le marquage d'enregistrements de portes dans le plan de local ont lieu comme dans les autres listes (voir chap. IV-2, {'Marquer enregistrements'}->DLG_USAGE_SELECT). 
+=M_LST_GROUNDPLAN_P8(0)	Le pointage, la sélection et le marquage d'enregistrements de portes dans le Plan de Local ont lieu comme dans les autres listes (voir chap. IV-2, {'Marquer enregistrements'}->DLG_USAGE_SELECT). 
 
-=M_LST_GROUNDPLAN_EDIT(0)	Ajouter / Editer des plans de locaux 
+=M_LST_GROUNDPLAN_EDIT(0)	Ajouter / Editer Plan de Local 
 
-=M_LST_GROUNDPLAN_EDIT_P1(0)	Avant de pouvoir afficher des portes dans le w{Plan de local}, vous devez acquérir une esquisse de plan dans le module de w{Plan de local}. 
+=M_LST_GROUNDPLAN_EDIT_P1(0)	Avant de pouvoir afficher des portes dans le w{Plan de Local}, vous devez acquérir une esquisse de plan dans le module de w{Plan de Local}. 
 
 =M_LST_GROUNDPLAN_EDIT_P2(0)	Pour créer un nouveau plan de local 
 
-=M_LST_GROUNDPLAN_EDIT_P2_A(0)	sélectionnez la commande m{Edition - Plans de locaux - Coller}. 
+=M_LST_GROUNDPLAN_EDIT_P2_A(0)	sélectionnez la commande m{Edition - Plan de Local - Coller}. 
 
 =M_LST_GROUNDPLAN_EDIT_P3(0)	Pour éditer un plan de local existant 
 
-=M_LST_GROUNDPLAN_EDIT_P3_A(0)	sélectionnez la commande m{Edition - Plans de locaux - Editer}. 
+=M_LST_GROUNDPLAN_EDIT_P3_A(0)	sélectionnez la commande m{Edition - Plan de Local - Editer}. 
 
-=M_LST_GROUNDPLAN_EDIT_P4(0)	La boîte de dialogue w{Plan de local} s'ouvre. Vous pouvez y saisir le nom et le fichier d'esquisse pour un nouveau plan de local ou pour en modifier un existant. 
+=M_LST_GROUNDPLAN_EDIT_P4(0)	La boîte de dialogue w{Plan de Local} s'ouvre. Vous pouvez y saisir le nom et le fichier d'esquisse pour un nouveau plan de local ou pour en modifier un existant. 
 
-=M_LST_GROUNDPLAN_EDIT_P5(0)	La boîte de dialogue w{Plan de local} 
+=M_LST_GROUNDPLAN_EDIT_P5(0)	La boîte de dialogue w{Plan de Local} 
 
 =M_LST_GROUNDPLAN_EDIT_P6(0)	La boîte de dialogue possède les éléments de contrôle et les champs de saisie suivants: 
 
@@ -4449,23 +4449,23 @@
 
 =M_LST_GROUNDPLAN_EDIT_P7_A(0)	Pour obtenir les fichiers d'esquisses de vos bâtiments, contactez l'architecte de votre objet. Tous les programmes de DAO du commerce sont en mesure de sortie des esquisses dans un format de fichier pris en charge. Les formats graphiques suivants sont pris en charge : BMP, JPG ou JPEG, PNG, TIF ou TIFF, TGA, PCT, WMF et EMF. 
 
-=M_LST_GROUNDPLAN_EDIT_P7_B(0)	Les fichiers graphiques indiqués ne sont pas insérés dans le fichier du système de fermeture, mais uniquement reliés à lui. Ainsi, si vous devez envoyer ou archiver des fichiers LOCKBASE avec des plans de locaux, vous devez joindre le fichier graphique correspondant, sans quoi le destinataire des fichiers sera dans l'incapacité de consulter le plan du local. 
+=M_LST_GROUNDPLAN_EDIT_P7_B(0)	Les fichiers graphiques indiqués ne sont pas insérés dans le fichier du système de fermeture, mais uniquement reliés à lui. Ainsi, si vous devez envoyer ou archiver des fichiers LOCKBASE avec des plans de locaux, vous devez joindre le fichier graphique correspondant, sans quoi le destinataire des fichiers sera dans l'incapacité de consulter le plan de local. 
 
-=M_LST_GROUNDPLAN_DEL(0)	Supprimer des plans de locaux 
+=M_LST_GROUNDPLAN_DEL(0)	Supprimer plan de local 
 
 =M_LST_GROUNDPLAN_DEL_P1(0)	Pour supprimer le plan de local affiché 
 
-=M_LST_GROUNDPLAN_DEL_P1_A(0)	sélectionnez la commande m{Edition - Plans de locaux - Supprimer}. 
+=M_LST_GROUNDPLAN_DEL_P1_A(0)	sélectionnez la commande m{Edition - Plan de Local - Supprimer}. 
 
 =M_LST_GROUNDPLAN_DEL_P2(0)	Un message de confirmation évite de supprimer par erreur. 
 
 =M_LST_GROUNDPLAN_DEL_P3(0)	Conseil: 
 
-=M_LST_GROUNDPLAN_DEL_P3_A(0)	Les portes, qui se trouvent dans le w{Plan de local}, ne sont pas supprimées. C'est uniquement l'agencement des portes qui est perdue, c'est-à-dire la position de chacune des portes dans l'esquisse. Les portes d'un plan de local peuvent être ajoutées après la suppression de ce dernier à un autre plan. 
+=M_LST_GROUNDPLAN_DEL_P3_A(0)	Les portes, qui se trouvent dans le w{Plan de Local}, ne sont pas supprimées. C'est uniquement l'agencement des portes qui est perdue, c'est-à-dire la position de chacune des portes dans l'esquisse. Les portes d'un plan de local peuvent être ajoutées après la suppression de ce dernier à un autre plan. 
 
 =M_LST_GROUNDPLAN_ADDDOORS(0)	Ajouter des portes au plan 
 
-=M_LST_GROUNDPLAN_ADDDOORS_P1(0)	Afin que des portes puissent être ajoutées à un nouveau plan de local, la liste des portes doit être active et la représentation du w{Plan de local} doit être activée. Ensuite 
+=M_LST_GROUNDPLAN_ADDDOORS_P1(0)	Afin que des portes puissent être ajoutées à un nouveau plan de local, la liste des portes doit être active et la représentation du w{Plan de Local} doit être activée. Ensuite 
 
 =M_LST_GROUNDPLAN_ADDDOORS_P1_A(0)	Cliquez sur i{BTN_LST_ADD.BMP} dans la barre d'outils ou 
 
@@ -4479,19 +4479,19 @@
 
 =M_LST_GROUNDPLAN_ADDDOORS_P4(0)	La boîte de dialogue possède les champs de saisie et de contrôle suivants: 
 
-=M_LST_GROUNDPLAN_ADDDOORS_P4_A(0)	f{Portes disponibles}: La liste affiche toutes les portes disponibles pour reprise dans le w{Plan de local}. Marquez toutes les portes qui doivent être insérées dans le w{Plan de local}, puis appuyez sur f{OK}. 
+=M_LST_GROUNDPLAN_ADDDOORS_P4_A(0)	f{Portes disponibles}: La liste affiche toutes les portes disponibles pour reprise dans le w{Plan de Local}. Marquez toutes les portes qui doivent être insérées dans le w{Plan de Local}, puis appuyez sur f{OK}. 
 
 =M_LST_GROUNDPLAN_ADDDOORS_P4_B(0)	f{Format...}: Ce bouton ouvre le dialogue w{Format lignes}, pour modifier l'apparence de la liste des portes disponibles (voir chap. IV-2, {'Format des lignes et classement'}->DLG_USAGE_LINE). 
 
-=M_LST_GROUNDPLAN_ADDDOORS_P5(0)	Les portes sélectionnées apparaissent en cascade dans le coin supérieur gauche du w{Plan de local} et peuvent être décalées vers les positions voulues. 
+=M_LST_GROUNDPLAN_ADDDOORS_P5(0)	Les portes sélectionnées apparaissent en cascade dans le coin supérieur gauche du w{Plan de Local} et peuvent être décalées vers les positions voulues. 
 
-=M_LST_GROUNDPLAN_ADDDOORS_P6(0)	Afin de décaler une ou plusieurs portes dans le w{Plan de local} avec la souris 
+=M_LST_GROUNDPLAN_ADDDOORS_P6(0)	Afin de décaler une ou plusieurs portes dans le w{Plan de Local} avec la souris 
 
 =M_LST_GROUNDPLAN_ADDDOORS_P6_A(0)	marquez les enregistrements correspondants (voir chap. IV-2, {'Marquer enregistrements'}->DLG_USAGE_SELECT), et 
 
 =M_LST_GROUNDPLAN_ADDDOORS_P6_B(0)	glissez les enregistrements vers la position voulue à l'aide de la souris. 
 
-=M_LST_GROUNDPLAN_ADDDOORS_P7(0)	Pour décaler les portes dans le w{Plan de local} à l'aide du clavier 
+=M_LST_GROUNDPLAN_ADDDOORS_P7(0)	Pour décaler les portes dans le w{Plan de Local} à l'aide du clavier 
 
 =M_LST_GROUNDPLAN_ADDDOORS_P7_A(0)	marquez les enregistrements correspondants (voir chap. IV-2, {'Marquer enregistrements'}->DLG_USAGE_SELECT), et 
 
@@ -4499,7 +4499,7 @@
 
 =M_LST_GROUNDPLAN_REMDOORS(0)	Retirer des portes du plan 
 
-=M_LST_GROUNDPLAN_REMDOORS_P1(0)	Afin que des portes puissent être retirées d'un w{Plan de local}, la liste des portes doit être active et la représentation du plan de local doit être activée. Ensuite marquez les enregistrements correspondants (voir chap. IV-2, {'Marquer enregistrements'}->DLG_USAGE_SELECT), et 
+=M_LST_GROUNDPLAN_REMDOORS_P1(0)	Afin que des portes puissent être retirées d'un w{Plan de Local}, la liste des portes doit être active et la représentation du Plan de Local doit être activée. Ensuite marquez les enregistrements correspondants (voir chap. IV-2, {'Marquer enregistrements'}->DLG_USAGE_SELECT), et 
 
 =M_LST_GROUNDPLAN_REMDOORS_P1_A(0)	Cliquez sur i{BTN_LST_DEL.BMP} dans la barre d'outils ou 
 
@@ -4507,29 +4507,29 @@
 
 =M_LST_GROUNDPLAN_REMDOORS_P1_C(0)	appuyez sur la touche k{Suppr}. 
 
-=M_LST_GROUNDPLAN_REMDOORS_P2(0)	Une demande de confirmation vous évite une suppression accidentelle de portes du w{Plan de local}. 
+=M_LST_GROUNDPLAN_REMDOORS_P2(0)	Une demande de confirmation vous évite une suppression accidentelle de portes du w{Plan de Local}. 
 
 =M_LST_GROUNDPLAN_REMDOORS_P3(0)	Conseil: 
 
 =M_LST_GROUNDPLAN_REMDOORS_P3_A(0)	Les portes retirées ne sont pas supprimées. Elles sont juste retirées du plan de local affiché et peuvent être ensuite ajoutées à un autre plan. 
 
-=M_MTRX(0)	VI. Le Plan d'organigramme 
+=M_MTRX(0)	VI. Le Plan d'Organigramme 
 
-=M_MTRX_P1(0)	La fenêtre w{Plan d'organigramme} avec les infos systèmes de la page de garde (a), la liste des colonnes (b), la liste des lignes (c) le tableau avec les variures (d) et l'ouverture centrale (e). 
+=M_MTRX_P1(0)	La fenêtre w{Plan d'Organigramme} avec les infos systèmes de la page de garde (a), la liste des colonnes (b), la liste des lignes (c) le tableau avec les variures (d) et l'ouverture centrale (e). 
 
-=M_MTRX_P2(0)	Pour basculer vers le w{Plan d'organigramme}, procédez comme suit: 
+=M_MTRX_P2(0)	Pour basculer vers le w{Plan d'Organigramme}, procédez comme suit: 
 
 =M_MTRX_P2_A(0)	Cliquez sur i{BTN_MAIN_MTRX.BMP} dans la barre d'outils ou 
 
-=M_MTRX_P2_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Plan d'organigramme}, ou 
+=M_MTRX_P2_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Plan d'Organigramme}, ou 
 
 =M_MTRX_P2_C(0)	appuyez sur la combinaison de touches k{Ctrl+S}. 
 
-=M_MTRX_P3(0)	La fenêtre w{Plan d'organigramme} est la représentation d'un système de fermeture, dans laquelle il est possible de visualiser simultanément à l'écran sous forme de tableau les registres des fonctions de clés et des cylindres ainsi que leurs connexions. Vous pouvez éditer les registres des deux bases de données et leurs connexions. 
+=M_MTRX_P3(0)	La fenêtre w{Plan d'Organigramme} est la représentation d'un système de fermeture, dans laquelle il est possible de visualiser simultanément à l'écran sous forme de tableau les registres des fonctions de clés et des cylindres ainsi que leurs connexions. Vous pouvez éditer les registres des deux bases de données et leurs connexions. 
 
-=M_MTRX_P4(0)	Le w{Plan d'organigramme} est constitué de 4 fenêtres en mode d'affiche normal ou 6 fenêtres en mode d'affiche Euro: 
+=M_MTRX_P4(0)	Le w{Plan d'Organigramme} est constitué de 4 fenêtres en mode d'affiche normal ou 6 fenêtres en mode d'affiche Euro: 
 
-=M_MTRX_P4_A(0)	En haut à gauche du w{Plan d'organigramme} vous trouverez les infos système de la w{Page de garde}. Vous pouvez modifier la w{Page de garde} en double-cliquant sur les informations système. 
+=M_MTRX_P4_A(0)	En haut à gauche du w{Plan d'Organigramme} vous trouverez les infos système de la w{Page de garde}. Vous pouvez modifier la w{Page de garde} en double-cliquant sur les informations système. 
 
 =M_MTRX_P4_B(0)	En haut à droite vous trouverez les listes des colonnes avec les registres. Le format Euro présente une liste avec une colonne pour les clés supérieures (à gauche) et une pour les ouvertures centrales (à droite). L'affichage normal ne possède qu'une liste à une colonne qui affiche généralement les fonctions de clés. Vous pouvez modifier tous les registres en double-cliquant sur celui-ci. 
 
@@ -4537,21 +4537,21 @@
 
 =M_MTRX_P4_D(0)	En bas à droite vous trouverez les matrices avec les variures. Le format Euro présente une matrice pour les variures des clés supérieures (représentées à gauche par X) et une pour les variures de l'ouverture centrale (représentées à droite par I). L'affichage normal ne possède qu'une matrice de variures, ces variures sont représentées par un point. Un 'E' symbolise dans les deux matrices une fermeture individuelle, c'est-à-dire la liaison entre un cylindre et une clé individuelle. Vous pouvez fixer/supprimer les variures d'un double-clic et avec la barre d'k{Espace}. 
 
-=M_MTRX_USAGE(0)	1. Maniement de la fenêtre du Plan d'organigramme 
+=M_MTRX_USAGE(0)	1. Maniement de la fenêtre du Plan d'Organigramme 
 
-=M_MTRX_USAGE_P1(0)	Dans l'affichage normal (et non dans le plan d'organigramme Euro) les fonctions de clé sont affichées par colonnes et listées dans l'en-tête de la colonne, alors que les cylindres sont présentés les uns en dessous des autres en lignes vers le bord inférieur. Vous pouvez échanger ce classement à l'aide de la commande m{Option - Disposition...}. 
+=M_MTRX_USAGE_P1(0)	Dans l'affichage normal (et non dans le Plan d'Organigramme Euro) les fonctions de clé sont affichées par colonnes et listées dans l'en-tête de la colonne, alors que les cylindres sont présentés les uns en dessous des autres en lignes vers le bord inférieur. Vous pouvez échanger ce classement à l'aide de la commande m{Option - Disposition...}. 
 
-=M_MTRX_USAGE_P2(0)	Par défaut, deux registres sont sélectionnés dans le w{Plan d'organigramme}: Un cylindre et une fonction de clé. Vous pouvez sélectionner une autre colonne à l'aide des touches k{Gauche} et k{Droite}, ou une autre ligne avec les touches k{Haut} et k{Bas}. De plus vous pouvez déplacer deux sélections en même temps en cliquant sur un point de croisement d'une ligne avec une colonne. La barre d'k{Espace} ou un double-clic sur un point de croisement active ou désactive la connexion entre un cylindre et une fonction de clé. 
+=M_MTRX_USAGE_P2(0)	Par défaut, deux registres sont sélectionnés dans le w{Plan d'Organigramme}: Un cylindre et une fonction de clé. Vous pouvez sélectionner une autre colonne à l'aide des touches k{Gauche} et k{Droite}, ou une autre ligne avec les touches k{Haut} et k{Bas}. De plus vous pouvez déplacer deux sélections en même temps en cliquant sur un point de croisement d'une ligne avec une colonne. La barre d'k{Espace} ou un double-clic sur un point de croisement active ou désactive la connexion entre un cylindre et une fonction de clé. 
 
-=M_MTRX_USAGE_P3(0)	La structure de la fenêtre du w{Plan d'organigramme} peut être modifiée en déplaçant les lignes de séparation avec la souris. Les commandes m{Options - Format colonnes...} et m{Options - Format lignes...} vous servent à modifier la largeur d'affichage des champs (voir chap. IV-2, {'Format des lignes'}->DLG_USAGE_LINE). 
+=M_MTRX_USAGE_P3(0)	La structure de la fenêtre du w{Plan d'Organigramme} peut être modifiée en déplaçant les lignes de séparation avec la souris. Les commandes m{Options - Format colonnes...} et m{Options - Format lignes...} vous servent à modifier la largeur d'affichage des champs (voir chap. IV-2, {'Format des lignes'}->DLG_USAGE_LINE). 
 
 =M_MTRX_USAGE_P4(0)	La hauteur des lignes et la largeur des colonnes dépendent de la police choisie. Vous pouvez sélectionner la police à l'aide de la commande m{Options - Police données...} (voir chap. IV-2, {'Police'}->DLG_USAGE_FONT). 
 
 =M_MTRX_USAGE_P5(0)	Grâce à la commande m{Options - Afficher plan de fonctions seulement}, vous pouvez contrôler l'affichage des cylindres à fermeture identique (voir chap. IV-1, {'Enregistrements de cylindres'}->DLG_DATA_CYL). Activez cette option pour masquer des cylindres à fermeture identique et pour afficher uniquement des cylindres à fermetures différentes. 
 
-=M_MTRX_USAGE_P6(0)	La commande m{Options - Paramétrer Plan d'organigramme...} ouvre la boîte de dialogue w{Paramétrer Plan d'organigramme}, dans laquelle vous pouvez effectuer des paramétrages différants pour le plan d'organigramme. 
+=M_MTRX_USAGE_P6(0)	La commande m{Options - Paramétrer Plan d'Organigramme...} ouvre la boîte de dialogue w{Paramétrer Plan d'Organigramme}, dans laquelle vous pouvez effectuer des paramétrages différants pour le Plan d'Organigramme. 
 
-=M_MTRX_USAGE_P7(0)	La boîte de dialogue w{Paramétrer Plan d'organigramme} 
+=M_MTRX_USAGE_P7(0)	La boîte de dialogue w{Paramétrer Plan d'Organigramme} 
 
 =M_MTRX_USAGE_P8(0)	La boîte de dialogue offre les champs de saisie suivants: 
 
@@ -4571,25 +4571,25 @@
 
 =M_MTRX_USAGE_P10_A(0)	Pour utiliser le point rouge comme symbole de connexion, vous pouvez taper les caractères 'DOT'. 
 
-=M_MTRX_USAGE_EUROMATRIX(0)	Plan d'organigramme Euro 
+=M_MTRX_USAGE_EUROMATRIX(0)	Plan d'Organigramme Euro 
 
-=M_MTRX_USAGE_EUROMATRIX_P1(0)	Le w{Plan d'organigramme Euro} représente deux matrices dans une seule vue. A gauche on trouve une matrice des clés supérieures (clés de passes et clés de groupe) en abscisse et les cylindres en ordonnée. A droite la matrice représente ouverture centrale verticale par rapport aux clés individuelles des cylindres à l'horizontale. 
+=M_MTRX_USAGE_EUROMATRIX_P1(0)	Le w{Plan d'Organigramme Euro} représente deux matrices dans une seule vue. A gauche on trouve une matrice des clés supérieures (clés de passes et clés de groupe) en abscisse et les cylindres en ordonnée. A droite la matrice représente ouverture centrale verticale par rapport aux clés individuelles des cylindres à l'horizontale. 
 
 =M_MTRX_USAGE_EUROMATRIX_P2(0)	Les connexions des clés individuelles (cylindres - clés individuelles) ne sont pas représentées sous forme de matrice. Si un cylindre possède une clé individuelle, son nom et le nombre de clés est indiqué sous forme de champ de données dans la ligne du registre du cylindre. 
 
-=M_MTRX_USAGE_EUROMATRIX_P3(0)	Le format Euro permet un affichage beaucoup plus compact et lisible du plan d'organigramme, en particulier lors de grandes installations dotées de nombreuses clés individuelles. 
+=M_MTRX_USAGE_EUROMATRIX_P3(0)	Le format Euro permet un affichage beaucoup plus compact et lisible du Plan d'Organigramme, en particulier lors de grandes installations dotées de nombreuses clés individuelles. 
 
-=M_MTRX_USAGE_EUROMATRIX_P4(0)	Le maniement du plan d'organigramme Euro fonction en grande partie exactement comme dans l'affichage normal (voir chap. VI-1, {'Maniement de la fenêtre du plan d'organigramme'}->MTRX_USAGE). L'inversion des contenus des lignes est des colonnes n'est cependant pas possible dans le format Euro. 
+=M_MTRX_USAGE_EUROMATRIX_P4(0)	Le maniement du Plan d'Organigramme Euro fonction en grande partie exactement comme dans l'affichage normal (voir chap. VI-1, {'Maniement de la fenêtre du Plan d'Organigramme'}->MTRX_USAGE). L'inversion des contenus des lignes est des colonnes n'est cependant pas possible dans le format Euro. 
 
 =M_MTRX_USAGE_EUROMATRIX_P5(0)	Conseils: 
 
-=M_MTRX_USAGE_EUROMATRIX_P5_A(0)	Pour que les cylindres de la liste de cylindres centrale (ouverture centrale) s'affichent à droite du plan d'organigramme Euro, il faut les marquer comme ouverture centrale dans la boîte de dialogue w{Cylindre} (voir chap. IV-1, {'Registres de cylindres'}->DLG_DATA_CYL). 
+=M_MTRX_USAGE_EUROMATRIX_P5_A(0)	Pour que les cylindres de la liste de cylindres centrale (ouverture centrale) s'affichent à droite du Plan d'Organigramme Euro, il faut les marquer comme ouverture centrale dans la boîte de dialogue w{Cylindre} (voir chap. IV-1, {'Registres de cylindres'}->DLG_DATA_CYL). 
 
 =M_MTRX_USAGE_EUROMATRIX_P5_B(0)	Une connexion à une ouverture centrale peut uniquement être créée si une clé individuelle a été créée pour la variure correspondante (voir chap. IV-1, {'Registres de cylindres'}->DLG_DATA_CYL). 
 
-=M_MTRX_USAGE_MOVE(0)	Déplacement au sein du Plan d'organigramme 
+=M_MTRX_USAGE_MOVE(0)	Déplacement au sein du Plan d'Organigramme 
 
-=M_MTRX_USAGE_MOVE_P1(0)	Utilisez les touches suivantes pour vous déplacer rapidement au sein du w{Plan d'organigramme}. 
+=M_MTRX_USAGE_MOVE_P1(0)	Utilisez les touches suivantes pour vous déplacer rapidement au sein du w{Plan d'Organigramme}. 
 
 =M_MTRX_USAGE_MOVE_P1_A(0)	k{Flèches}: Une ligne ou une colonne dans le sens de la flèche 
 
@@ -4713,7 +4713,7 @@
 
 =M_MTRX_EDIT_DEL(0)	Supprimer des registres 
 
-=M_MTRX_EDIT_DEL_P1(0)	Vous pouvez supprimer des registres de fonction de clé et de cylindre dans le w{Plan d'organigramme}. Sélectionnez le ou les registres que vous voulez supprimer. 
+=M_MTRX_EDIT_DEL_P1(0)	Vous pouvez supprimer des registres de fonction de clé et de cylindre dans le w{Plan d'Organigramme}. Sélectionnez le ou les registres que vous voulez supprimer. 
 
 =M_MTRX_EDIT_DEL_P2(0)	Pour supprimer des registres dans une liste de colonnes, 
 
@@ -4775,7 +4775,7 @@
 
 =M_MTRX_CONNECT(0)	3. Connecter des registres 
 
-=M_MTRX_CONNECT_P1(0)	Dans le w{Plan d'organigramme}, vous pouvez établir ou supprimer des connexions entre des fonctions de clé et des cylindres de la manière suivante: 
+=M_MTRX_CONNECT_P1(0)	Dans le w{Plan d'Organigramme}, vous pouvez établir ou supprimer des connexions entre des fonctions de clé et des cylindres de la manière suivante: 
 
 =M_MTRX_CONNECT_P1_A(0)	double-cliquez avec la souris sur un des points de croisement entre une colonne et une ligne, ou 
 
@@ -4791,29 +4791,29 @@
 
 =M_MTRX_CONNECT_P4(0)	La boîte de dialogue w{Connecter} s'ouvre (voir chap. IV-1, {'Connections'}->DLG_DATA_CONNECT) . Vous pouvez y connecter ou déconnecter plusieurs registres en une fois. 
 
-=M_MTRX_CONNECT_P5(0)	Les connexions entre des registres de clés et des registres de cylindres sont représentées dans l'affichage normal du w{Plan d'organigramme} par un point rouge. Dans le format Euro (voir chap. VI-1, {'Plan d'organigramme Euro'}->MTRX_USAGE_EUROMATRIX), les connexions entre des clés supérieures et des cylindres sont indiquées par un 'X' rouge et les connexions entre des ouvertures centrales et des clés individuelles par un 'I' rouge. Les connexions de clés individuelles (connexions entre des cylindres et leurs clés individuelles sont reconnaissables par un 'E' rouge. 
+=M_MTRX_CONNECT_P5(0)	Les connexions entre des registres de clés et des registres de cylindres sont représentées dans l'affichage normal du w{Plan d'Organigramme} par un point rouge. Dans le format Euro (voir chap. VI-1, {'Plan d'Organigramme Euro'}->MTRX_USAGE_EUROMATRIX), les connexions entre des clés supérieures et des cylindres sont indiquées par un 'X' rouge et les connexions entre des ouvertures centrales et des clés individuelles par un 'I' rouge. Les connexions de clés individuelles (connexions entre des cylindres et leurs clés individuelles sont reconnaissables par un 'E' rouge. 
 
-=M_CALC(0)	VII. Le Module de calcul 
+=M_CALC(0)	VII. Le Module de Calcul 
 
-=M_CALC_P1(0)	La fenêtre w{Module de calcul} avec les champs de saisies (a), la représentation w{Structure de groupes} (b), la liste de fonctions de clés (c) et la liste des cylindres (d). Dans l'affichage de la w{Structure de groupes}, les groupes supérieurs (= nœuds, ils contiennent des sous-groupes) sont représentés par des ovales, alors que les sous-groupes sont représentés par des rectangles. 
+=M_CALC_P1(0)	La fenêtre w{Module de Calcul} avec les champs de saisies (a), la représentation w{Structure de groupes} (b), la liste de fonctions de clés (c) et la liste des cylindres (d). Dans l'affichage de la w{Structure de groupes}, les groupes supérieurs (= nœuds, ils contiennent des sous-groupes) sont représentés par des ovales, alors que les sous-groupes sont représentés par des rectangles. 
 
-=M_CALC_P2(0)	Pour basculer vers le w{Module de calcul}, procédez comme suit: 
+=M_CALC_P2(0)	Pour basculer vers le w{Module de Calcul}, procédez comme suit: 
 
 =M_CALC_P2_A(0)	Cliquez sur i{BTN_MAIN_CALC.BMP} dans la barre d'outils ou 
 
-=M_CALC_P2_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Module de calcul}, ou 
+=M_CALC_P2_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Module de Calcul}, ou 
 
 =M_CALC_P2_C(0)	appuyez sur la combinaison de touches k{Ctrl+R}. 
 
-=M_CALC_P3(0)	La fenêtre w{Module de calcul} sert à calculer des systèmes de fermeture. La condition préalable pour cela est que les fonctions de clés et les registres de cylindres aient été saisis et que les registres aient été connectés à la fonction de clé souhaitée (voir chap. V, {'L'Aperçu listes'}->LST et chap. VI, {'Le Plan d'organigramme'}->MTRX). Le w{Module de calcul} est seulement contenu dans les packs logiciels LOCKBASE w{Calculator} et w{Professional}. 
+=M_CALC_P3(0)	La fenêtre w{Module de Calcul} sert à calculer des systèmes de fermeture. La condition préalable pour cela est que les fonctions de clés et les registres de cylindres aient été saisis et que les registres aient été connectés à la fonction de clé souhaitée (voir chap. V, {'L'Aperçu Listes'}->LST et chap. VI, {'Le Plan d'Organigramme'}->MTRX). Le w{Module de Calcul} est seulement contenu dans les packs logiciels LOCKBASE w{Calculator} et w{Professional}. 
 
-=M_CALC_P4(0)	Le w{Module de calcul} est constitué de quatre zones: 
+=M_CALC_P4(0)	Le w{Module de Calcul} est constitué de quatre zones: 
 
 =M_CALC_P4_A(0)	En haut on trouve les champs de saisie pour le produit et le groupe de code (v. ci-dessous). 
 
 =M_CALC_P4_B(0)	En bas à gauche de la zone fenêtre, se trouve la structure de groupes du système de fermeture, lorsque celui-ci a été analysé et lorsqu'il possède une structure hiérarchique (voir chap. VIII-1, {'Analyser les systèmes de fermeture'}->DSGN_ANALYSE). 
 
-=M_CALC_P4_C(0)	Dans la zone de fenêtre inférieure droite, le w{Module de calcul} affiche une liste des fonctions de clés et leurs combinaisons, lorsque le système de fermeture a déjà été calculé. Avant le calcul, cette liste de fonctions de clés ne contient que les codes des clés de passe que vous avez fixés dans la boîte de dialogue w{Editer variation des combinaisons}->CALC_KBA pour les nœuds et les sous-groupes, lorsque ces éléments disposent d'une clé de passe. La combinaison correspondante s'affiche à côté de la fonction de clé après le calcul complet. 
+=M_CALC_P4_C(0)	Dans la zone de fenêtre inférieure droite, le w{Module de Calcul} affiche une liste des fonctions de clés et leurs combinaisons, lorsque le système de fermeture a déjà été calculé. Avant le calcul, cette liste de fonctions de clés ne contient que les codes des clés de passe que vous avez fixés dans la boîte de dialogue w{Editer variation des combinaisons}->CALC_KBA pour les nœuds et les sous-groupes, lorsque ces éléments disposent d'une clé de passe. La combinaison correspondante s'affiche à côté de la fonction de clé après le calcul complet. 
 
 =M_CALC_P4_D(0)	En bas à droite de la zone de fenêtre on trouve la liste des cylindres. Celle-là permet de faire des préréglages pour le calcul du particuliers cylindres et affiche leur résultat après le calcul. 
 
@@ -4825,7 +4825,7 @@
 
 =M_CALC_P5_C(0)	Un signe "!{*}" apparaît lorsque les variures ont été calculées. 
 
-=M_CALC_P6(0)	La structure de la fenêtre w{Module de calcul} peut être modifiée en déplaçant les lignes de séparation entre l'affichage de la w{Structure de groupes} et la liste des fonctions de clés et la liste des cylindres avec la souris. 
+=M_CALC_P6(0)	La structure de la fenêtre w{Module de Calcul} peut être modifiée en déplaçant les lignes de séparation entre l'affichage de la w{Structure de groupes} et la liste des fonctions de clés et la liste des cylindres avec la souris. 
 
 =M_CALC_P7(0)	Vous pouvez passer entre ces quatre zones d'un clic de souris ou avec la touche k{Tab}. Avec k{Tab} la sélection saute de plus entre toutes les zones de saisies du champ de commande. 
 
@@ -4841,9 +4841,9 @@
 
 =M_CALC_STEPS_P1(0)	Le calcul d'un système de fermeture a lieu en plusieurs étapes. 
 
-=M_CALC_STEPS_P1_A(0)	Entrez d'abord toutes les fonctions de clés, tous les cylindres et toutes les variures dans l'w{Aperçu listes}->LST, dans le w{Plan d'organigramme}->MTRX ou dans le w{Designer système}->DSGN. 
+=M_CALC_STEPS_P1_A(0)	Entrez d'abord toutes les fonctions de clés, tous les cylindres et toutes les variures dans l'w{Aperçu Listes}->LST, dans le w{Plan d'Organigramme}->MTRX ou dans le w{Designer Système}->DSGN. 
 
-=M_CALC_STEPS_P1_B(0)	Sélectionnez la fabrication du cylindre dans la fenêtre w{Module de calcul} de la liste de f{Produit} le cylindre, avec dans lequel le système de fermeture doit être monté. Si vous avez également acquis l' w{Administration de groupes de codes}, sélectionnez un produit dans l'w{Administration de groupes de codes} (voir chap. VII-2, {'Administration de groupes de codes'}->CALC_CGA). 
+=M_CALC_STEPS_P1_B(0)	Sélectionnez la fabrication du cylindre dans la fenêtre w{Module de Calcul} de la liste de f{Produit} le cylindre, avec dans lequel le système de fermeture doit être monté. Si vous avez également acquis l' w{Administration de groupes de codes}, sélectionnez un produit dans l'w{Administration de groupes de codes} (voir chap. VII-2, {'Administration de groupes de codes'}->CALC_CGA). 
 
 =M_CALC_STEPS_P1_C(0)	Entrez un groupe de codes valide pour le produit sélectionné dans le champ f{Groupe de codes}. Le groupe de codes est valable, comme le produit, pour la totalité du système de fermeture. Si vous avez également acquis l'w{Administration de groupes de codes}, sélectionnez le groupe de code dans l' w{Administration de groupes de codes} (voir chap. VII-2, {'Administration de groupes de codes'}->CALC_CGA). 
 
@@ -4859,7 +4859,7 @@
 
 =M_CALC_STEPS_P2_B(0)	Le système de fermeture ne possède pas de structure de groupe. 
 
-=M_CALC_STEPS_P2_C(0)	Vous travaillez avec une version de LOCKBASE ne possédant pas le calcul des groupes ou le w{Designer système}->DSGN. 
+=M_CALC_STEPS_P2_C(0)	Vous travaillez avec une version de LOCKBASE ne possédant pas le calcul des groupes ou le w{Designer Système}->DSGN. 
 
 =M_CALC_STEPS_P2_D(0)	Vous avez {fusionné les groupes}->DSGN_ANALYSE_MERGE. 
 
@@ -4883,7 +4883,7 @@
 
 =M_CALC_STEPS_P6_C(0)	L'avantage d'analyser la structure de groupe d'un système de fermeture réside dans le fait que les variations des combinaisons peuvent être réparties selon la taille des groupes respectifs. Les erreurs ou les variations des combinaisons trop larges ou trop restreintes sont rapidement identifiées. 
 
-=M_CALC_STEPS_P6_D(0)	Le w{Module de calcul} LOCKBASE exclue automatiquement certaines combinaisons selon leur usage. En font partie par exemple plus de deux profondeurs de taille voisines ou trois tailles égales en tout (pour les produits à cinq pistons), les suites de tailles en escalier ou descendantes ou des combinaisons non taillables à cause de tailles voisines trop fraisées. 
+=M_CALC_STEPS_P6_D(0)	Le w{Module de Calcul} LOCKBASE exclue automatiquement certaines combinaisons selon leur usage. En font partie par exemple plus de deux profondeurs de taille voisines ou trois tailles égales en tout (pour les produits à cinq pistons), les suites de tailles en escalier ou descendantes ou des combinaisons non taillables à cause de tailles voisines trop fraisées. 
 
 =M_CALC_CGA(0)	2. Administration de groupes de codes 
 
@@ -4945,7 +4945,7 @@
 
 =M_CALC_CGA_FIELDS_P4_C(0)	f{Reprendre/Libérer}: Appuyez sur ce bouton pour utiliser le groupe de codes sélectionné pour le système de fermeture actuel ou pour annuler une utilisation existante. 
 
-=M_CALC_CGA_FIELDS_P4_D(0)	f{Fermer}: Appuyez sur ce bouton pour quitter l'w{Administration des groupes de codes} et pour retourner au w{Module de calcul} LOCKBASE. 
+=M_CALC_CGA_FIELDS_P4_D(0)	f{Fermer}: Appuyez sur ce bouton pour quitter l'w{Administration des groupes de codes} et pour retourner au w{Module de Calcul} LOCKBASE. 
 
 =M_CALC_CGA_FIELDS_P4_E(0)	f{Utilisation}: Dans cette liste vous trouverez une liste des systèmes utilisant le groupe de codes sélectionné dans la fenêtre principale. En règle générale, chaque groupe de codes est seulement utilisé par un seul système. Si vous deviez être obligé d'utiliser un groupe de codes plusieurs fois, vous pouvez entreprendre, par exemple, une séparation géographique dans la liste f{Utilisation}. 
 
@@ -4979,7 +4979,7 @@
 
 =M_CALC_KBA_P1(0)	La boîte de dialogue w{Editer variation des combinaisons} 
 
-=M_CALC_KBA_P2(0)	Les profils, la variation des combinaisons et le code de clé de passe sont fixés dans la boîte de dialogue w{Editer variation des combinaisons}. La w{variation des combinaisons} est un tableau, dont les colonnes représentent les positions de taille et dont les lignes représentent les profondeurs de taille d'un produit de cylindre. Après avoir sélectionné le produit et le groupe de codes (voir chap. VII-7, {'Produits de cylindres et groupes de codes'}->CALC_BRANDS), dans le w{Module de calcul}->CALC ou dans l' w{Administration des groupes de codes}->CALC_CGA, vous pouvez éditer la variation des combinaisons. 
+=M_CALC_KBA_P2(0)	Les profils, la variation des combinaisons et le code de clé de passe sont fixés dans la boîte de dialogue w{Editer variation des combinaisons}. La w{variation des combinaisons} est un tableau, dont les colonnes représentent les positions de taille et dont les lignes représentent les profondeurs de taille d'un produit de cylindre. Après avoir sélectionné le produit et le groupe de codes (voir chap. VII-7, {'Produits de cylindres et groupes de codes'}->CALC_BRANDS), dans le w{Module de Calcul}->CALC ou dans l' w{Administration des groupes de codes}->CALC_CGA, vous pouvez éditer la variation des combinaisons. 
 
 =M_CALC_KBA_P2_A(0)	Double-cliquez sur un élément de l'affichage de la w{Structure de groupes}, ou 
 
@@ -5055,7 +5055,7 @@
 
 =M_CALC_KBA_P16_A(0)	Dans un système de fermeture analysé et hiérarchisé, vous devez déterminer séparément la variation des combinaisons en commençant à la source de l'arborescence pour chaque nœud et chaque sous-groupe. La variation des combinaisons d'un élément supérieur doit contenir les variations des combinaisons des sous-éléments, alors que les sous-éléments ne doivent pas se chevaucher. Seulement ensuite vous disposerez de la commande m{Edition - Calculer} (voir chap. VII-4, {'Lancer ou arrêter le calcul'}->CALC_CALC). 
 
-=M_CALC_KBA_P16_B(0)	Les indications statistiques de la boîte de dialogue w{Editer variation des combinaisons} vous aident à répartir la variation des combinaisons sur les groupes d'un système de fermeture hiérarchisé. De plus vous pouvez consulter les codes de clés de passe déjà attribués dans la fenêtre w{Module de calcul}. 
+=M_CALC_KBA_P16_B(0)	Les indications statistiques de la boîte de dialogue w{Editer variation des combinaisons} vous aident à répartir la variation des combinaisons sur les groupes d'un système de fermeture hiérarchisé. De plus vous pouvez consulter les codes de clés de passe déjà attribués dans la fenêtre w{Module de Calcul}. 
 
 =M_CALC_KBA_P16_C(0)	Faites attention à maintenir la variation des combinaisons la plus petite possible. LOCKBASE calculera plus vite et vous économiserez des ressources pour des systèmes de fermeture futurs. 
 
@@ -5079,7 +5079,7 @@
 
 =M_CALC_CALC_P2_B(0)	parce que le bouton de la barre d'outil est enfoncé et 
 
-=M_CALC_CALC_P2_C(0)	parce que les variures calculées sont intégrées dans la liste en bas à droite de la fenêtre w{Module de calcul}. 
+=M_CALC_CALC_P2_C(0)	parce que les variures calculées sont intégrées dans la liste en bas à droite de la fenêtre w{Module de Calcul}. 
 
 =M_CALC_CALC_P3(0)	Vous pouvez arrêter le calcul en 
 
@@ -5095,7 +5095,7 @@
 
 =M_CALC_CALC_P7(0)	Conseils: 
 
-=M_CALC_CALC_P7_A(0)	Le LOCKBASE w{Module de calcul} exclue automatiquement certaines combinaisons selon leur usage. En font partie par exemple trois profondeurs de taille voisines ou quatre tailles égales en tout (pour les produits à cinq pistons), les suites de tailles en escalier ou descendantes ou des combinaisons non taillables à cause de chevauchements. 
+=M_CALC_CALC_P7_A(0)	Le LOCKBASE w{Module de Calcul} exclue automatiquement certaines combinaisons selon leur usage. En font partie par exemple trois profondeurs de taille voisines ou quatre tailles égales en tout (pour les produits à cinq pistons), les suites de tailles en escalier ou descendantes ou des combinaisons non taillables à cause de chevauchements. 
 
 =M_CALC_CALC_P7_B(0)	Vous pouvez poursuivre votre travail sur votre PC lorsque LOCKBASE calcule votre système de fermeture. 
 
@@ -5131,7 +5131,7 @@
 
 =M_CALC_EDITCODE_P5_C(0)	f{Pas calculer}: Cochez cette case, pour exclure temporairement la fermeture du calcul. 
 
-=M_CALC_EDITCODE_P6(0)	Vous pouvez utiliser un point d'interrogation pour chaque position de taille et pour chaque profil, vous pouvez également en utiliser un pour plusieurs ou aucune position. Pour les cylindres vous pouvez déterminer seulement le profil. Le w{Module de calcul} reprend les données entrées par vous et essaie de calculer les données manquantes. 
+=M_CALC_EDITCODE_P6(0)	Vous pouvez utiliser un point d'interrogation pour chaque position de taille et pour chaque profil, vous pouvez également en utiliser un pour plusieurs ou aucune position. Pour les cylindres vous pouvez déterminer seulement le profil. Le w{Module de Calcul} reprend les données entrées par vous et essaie de calculer les données manquantes. 
 
 =M_CALC_EDITCODE_P7(0)	Lorsque vous voulez éditer plusieurs registres, vous pouvez utiliser l'astérisque ('*') pour laisser des positions de tailles ou les profils inchangés. Pour cela, marquez les fermetures que vous voulez éditer, ouvrez la boîte de dialogue w{Editer combinaison} et saisissez l'astérisque pour chaque position, quelle doit rester inchangée. Marquez les positions, que LOCKBASE doit calculer avec un point d'interrogation. Vous pouvez aussi combiner un défaut explicite à certaines positions avec l'astérisque à des autres positions. 
 
@@ -5143,15 +5143,15 @@
 
 =M_CALC_EDITCODE_P8_C(0)	Tant que des fonctions de clés sont exclues du calcul, le calcul ne peut pas être terminé complètement. Pour pouvoir effectuer par ex. un transfert (voir chap. VII-6, {'Transfert'}->CALC_TRANSFER) du calcul, d'abord toutes les fermetures bloquées doivent être encore libérées et calculées. 
 
-=M_CALC_TRANSFER(0)	6. Transfert des données calculées entre le Module de calcul et la base de données 
+=M_CALC_TRANSFER(0)	6. Transfert des données calculées entre le Module de Calcul et la base de données 
 
 =M_CALC_TRANSFER_P1(0)	La boîte de dialogue w{Transmettre calcul} 
 
 =M_CALC_TRANSFER_P2(0)	Grâce à cette commande vous reprendre un calcul 
 
-=M_CALC_TRANSFER_P2_A(0)	des champs de saisie des registres de fonctions de clés et de cylindres dans le w{Module de calcul} ou 
+=M_CALC_TRANSFER_P2_A(0)	des champs de saisie des registres de fonctions de clés et de cylindres dans le w{Module de Calcul} ou 
 
-=M_CALC_TRANSFER_P2_B(0)	du w{Module de calcul} dans les champs de saisie des registres de fonctions de clés et de cylindres. 
+=M_CALC_TRANSFER_P2_B(0)	du w{Module de Calcul} dans les champs de saisie des registres de fonctions de clés et de cylindres. 
 
 =M_CALC_TRANSFER_P3(0)	Pour reprendre des calculs, 
 
@@ -5161,25 +5161,25 @@
 
 =M_CALC_TRANSFER_P4(0)	La boîte de dialogue w{Transmettre calcul} apparaît. Elle est constituée des boutons suivants: 
 
-=M_CALC_TRANSFER_P4_A(0)	f{Importer}: Cliquez sur ce bouton et sélectionnez f{OK}, pour reprendre les données des registres de fonctions de clé dans le w{Module de calcul}. Vous avez ainsi la possibilité de faire calculer des extensions manuelles à un système de fermeture par LOCKBASE. 
+=M_CALC_TRANSFER_P4_A(0)	f{Importer}: Cliquez sur ce bouton et sélectionnez f{OK}, pour reprendre les données des registres de fonctions de clé dans le w{Module de Calcul}. Vous avez ainsi la possibilité de faire calculer des extensions manuelles à un système de fermeture par LOCKBASE. 
 
 =M_CALC_TRANSFER_P4_B(0)	f{Rapport de modification}: Cliquez sur ce bouton et après-ça sur f{OK}, pour déterminer LOCKBASE à faire un rapport sur les clés et cylindres changés par le calcul avant acceptation du calcul. Chaque clé et cylindre va être listés et il va être indiqué si des combinaisons respectivement des pistons, des profils ou les deux doivent être changés. Avec ce rapport vous pouvez décider si vous acceptez le calcul ou si vous voulez le modifier encore une fois. 
 
-=M_CALC_TRANSFER_P4_C(0)	f{Exporter}: Cliquez sur ce bouton et sélectionnez f{OK}, pour reprendre les résultats des calculs du w{Module de calcul} dans les champs techniques des registres de fonctions de clé et de cylindres. 
+=M_CALC_TRANSFER_P4_C(0)	f{Exporter}: Cliquez sur ce bouton et sélectionnez f{OK}, pour reprendre les résultats des calculs du w{Module de Calcul} dans les champs techniques des registres de fonctions de clé et de cylindres. 
 
 =M_CALC_TRANSFER_P5(0)	La fenêtre en bas dans la boîte de dialogue affiche des messages. Si la reprise d'informations est terminée, vous pouvez quitter cette boîte de dialogue grâce à f{OK}. 
 
 =M_CALC_TRANSFER_IMPORT(0)	Etapes pour l'importation de systèmes de fermeture 
 
-=M_CALC_TRANSFER_IMPORT_P1(0)	Dans ce qui suit vous apprendrez comment il faut procéder pour importer des systèmes de fermeture calculés manuellement dans le w{Module de calcul}: 
+=M_CALC_TRANSFER_IMPORT_P1(0)	Dans ce qui suit vous apprendrez comment il faut procéder pour importer des systèmes de fermeture calculés manuellement dans le w{Module de Calcul}: 
 
-=M_CALC_TRANSFER_IMPORT_P1_A(0)	Entrez préalablement les combinaisons de fermeture et les profils dans les registres de fonctions de clé et établissez la connexion entre les fonctions de clé et les cylindres dans le w{Plan d'organigramme}->MTRX_CONNECT ou dans l'w{Aperçu listes}->LST_CONNECT. 
+=M_CALC_TRANSFER_IMPORT_P1_A(0)	Entrez préalablement les combinaisons de fermeture et les profils dans les registres de fonctions de clé et établissez la connexion entre les fonctions de clé et les cylindres dans le w{Plan d'Organigramme}->MTRX_CONNECT ou dans l'w{Aperçu Listes}->LST_CONNECT. 
 
-=M_CALC_TRANSFER_IMPORT_P1_B(0)	Basculez ensuite dans le w{Module de calcul} et entrez le produit dans le champ f{Produit} et le groupe de codes dans le champ f{Groupe de codes}. Si vous avez également acquis l' w{Administration de groupes de codes}, sélectionnez le groupe de code correspondant (voir chap. VII-2, {'Administration de groupes de codes'}->CALC_CGA). 
+=M_CALC_TRANSFER_IMPORT_P1_B(0)	Basculez ensuite dans le w{Module de Calcul} et entrez le produit dans le champ f{Produit} et le groupe de codes dans le champ f{Groupe de codes}. Si vous avez également acquis l' w{Administration de groupes de codes}, sélectionnez le groupe de code correspondant (voir chap. VII-2, {'Administration de groupes de codes'}->CALC_CGA). 
 
-=M_CALC_TRANSFER_IMPORT_P1_C(0)	Importez les données dans le w{Module de calcul} avec la commande m{Edition - Transfert...}. LOCKBASE reconstruit la variation des combinaisons du système. Lorsque vous possédez un w{Designer système}, vous pouvez effectuer une Analyse pour déterminer si une structure de groupe est présente (voir chap. VIII-1, {'Analyser des systèmes de fermeture '}->DSGN_ANALYSE). 
+=M_CALC_TRANSFER_IMPORT_P1_C(0)	Importez les données dans le w{Module de Calcul} avec la commande m{Edition - Transfert...}. LOCKBASE reconstruit la variation des combinaisons du système. Lorsque vous possédez un w{Designer Système}, vous pouvez effectuer une Analyse pour déterminer si une structure de groupe est présente (voir chap. VIII-1, {'Analyser des systèmes de fermeture '}->DSGN_ANALYSE). 
 
-=M_CALC_TRANSFER_IMPORT_P1_D(0)	Laissez ensuite le w{Module de calcul} calculer le système de fermeture (voir chap. VII-1, {'Etapes pour le calcul d'un système de fermeture '}->CALC_STEPS). LOCKBASE vérifie le calcul et vous informe d'éventuels défauts de fermeture. 
+=M_CALC_TRANSFER_IMPORT_P1_D(0)	Laissez ensuite le w{Module de Calcul} calculer le système de fermeture (voir chap. VII-1, {'Etapes pour le calcul d'un système de fermeture '}->CALC_STEPS). LOCKBASE vérifie le calcul et vous informe d'éventuels défauts de fermeture. 
 
 =M_CALC_BRANDS(0)	7. Produits de cylindres et groupes de codes 
 
@@ -5749,19 +5749,19 @@
 
 =M_CALC_BRANDS_YALE_F(0)	Exemple: '2AABBA vvvvv01011 xyz' 
 
-=M_DSGN(0)	VIII. Le Designer système 
+=M_DSGN(0)	VIII. Le Designer Système 
 
-=M_DSGN_P1(0)	La fenêtre w{Designer système}. Affichage de la w{Structure de groupes} (a), zone f{Statistiques} (b), zone f{Sous-groupes} (c), zone f{Données de groupes} (d) 
+=M_DSGN_P1(0)	La fenêtre w{Designer Système}. Affichage de la w{Structure de groupes} (a), zone f{Statistiques} (b), zone f{Sous-groupes} (c), zone f{Données de groupes} (d) 
 
-=M_DSGN_P2(0)	Pour basculer vers le w{Designer système}, procédez comme suit: 
+=M_DSGN_P2(0)	Pour basculer vers le w{Designer Système}, procédez comme suit: 
 
 =M_DSGN_P2_A(0)	Cliquez sur i{BTN_MAIN_DSGN.BMP} dans la barre d'outils ou 
 
-=M_DSGN_P2_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Designer système}, ou 
+=M_DSGN_P2_B(0)	sélectionnez la commande m{Fenêtre - Ouvrir Designer Système}, ou 
 
 =M_DSGN_P2_C(0)	appuyez sur la combinaison de touches k{Ctrl+D}. 
 
-=M_DSGN_P3(0)	Le w{Designer système} est un outil dans lequel vous pouvez 
+=M_DSGN_P3(0)	Le w{Designer Système} est un outil dans lequel vous pouvez 
 
 =M_DSGN_P3_A(0)	planifier des systèmes de fermeture avec une structure hiérarchisée, 
 
@@ -5773,7 +5773,7 @@
 
 =M_DSGN_P5(0)	Maniement des fenêtres 
 
-=M_DSGN_P6(0)	La fenêtre du w{Designer système} contient 4 zones: 
+=M_DSGN_P6(0)	La fenêtre du w{Designer Système} contient 4 zones: 
 
 =M_DSGN_P6_A(0)	A gauche de la zone fenêtre, se trouve la w{Structure de groupes} du système de fermeture, lorsque celui-ci a été analysé et lorsqu'il possède une structure hiérarchique. 
 
@@ -5783,7 +5783,7 @@
 
 =M_DSGN_P6_D(0)	En bas à droite vous trouverez la zone f{Données groupes}. Vous pouvez y modifier les données du groupe actuellement marqué dans la fenêtre de la w{Structure de groupes}. 
 
-=M_DSGN_P7(0)	Vous déplacez la case de sélection avec la souris, la touche k{Tab} d'une zone à une zone dans la fenêtre w{Designer système}. Vous pouvez aussi utiliser les raccourcis clavier des champs de saisie ou des zones. 
+=M_DSGN_P7(0)	Vous déplacez la case de sélection avec la souris, la touche k{Tab} d'une zone à une zone dans la fenêtre w{Designer Système}. Vous pouvez aussi utiliser les raccourcis clavier des champs de saisie ou des zones. 
 
 =M_DSGN_P8(0)	Conseils: 
 
@@ -5793,13 +5793,13 @@
 
 =M_DSGN_ANALYSE(0)	1. Analyser des systèmes de fermeture 
 
-=M_DSGN_ANALYSE_P1(0)	Pour analyser un système de fermeture avec le w{Designer système}, 
+=M_DSGN_ANALYSE_P1(0)	Pour analyser un système de fermeture avec le w{Designer Système}, 
 
 =M_DSGN_ANALYSE_P1_A(0)	sélectionnez le bouton f{Analyse} dans la zone f{Sous-groupes}. 
 
 =M_DSGN_ANALYSE_P2(0)	Une analyse peut prendre un certain temps, surtout avec les systèmes de fermeture plus importants. LOCKBASE détermine si le système de fermeture possède une structure hiérarchique: Quelles fonctions de clé et cylindres forment - selon la fonctionnalité de fermeture - des groupes, et quels groupes contiennent des sous-groupes? 
 
-=M_DSGN_ANALYSE_P3(0)	Lorsque le système de fermeture a déjà été analysé ou s'il a été créé avec le w{Designer système}, le bouton f{Analyse} n'est plus disponible. Pour le calcul il est avantageux, mais pas indispensable, d'analyser un système de fermeture. L'analyse peut être annulée par la commande f{Fusionner}. 
+=M_DSGN_ANALYSE_P3(0)	Lorsque le système de fermeture a déjà été analysé ou s'il a été créé avec le w{Designer Système}, le bouton f{Analyse} n'est plus disponible. Pour le calcul il est avantageux, mais pas indispensable, d'analyser un système de fermeture. L'analyse peut être annulée par la commande f{Fusionner}. 
 
 =M_DSGN_ANALYSE_GROUPTREE(0)	Affichage de la structure de groupe 
 
@@ -5813,7 +5813,7 @@
 
 =M_DSGN_ANALYSE_GROUPTREE_P1_D(0)	Combien de clés de passe partiels y a t'il dans chaque élément? 
 
-=M_DSGN_ANALYSE_GROUPTREE_P2(0)	Après l'analyse, ou lorsque le système de fermeture a été créé avec le w{Designer système}, la structure du système de fermeture est affichée dans l'affichage de la w{Structure de groupes}, mais aussi dans la fenêtre w{Module de calcul}. Le bouton f{Analyse} n'est alors plus disponible. 
+=M_DSGN_ANALYSE_GROUPTREE_P2(0)	Après l'analyse, ou lorsque le système de fermeture a été créé avec le w{Designer Système}, la structure du système de fermeture est affichée dans l'affichage de la w{Structure de groupes}, mais aussi dans la fenêtre w{Module de Calcul}. Le bouton f{Analyse} n'est alors plus disponible. 
 
 =M_DSGN_ANALYSE_GROUPTREE_P3(0)	La w{Structure de groupes} du système de fermeture 
 
@@ -5873,11 +5873,11 @@
 
 =M_DSGN_ANALYSE_MERGE_P5_A(0)	L'analyse ou la fusion ne crée ou de supprime pas de connexions entre des fonctions de clés et des cylindres. 
 
-=M_DSGN_SETUP(0)	2. Créer des systèmes de fermeture avec le Designer système 
+=M_DSGN_SETUP(0)	2. Créer des systèmes de fermeture avec le Designer Système 
 
-=M_DSGN_SETUP_P1(0)	Outre pour l'analyse de systèmes de fermeture déjà saisis, vous pouvez utiliser le w{Designer système} pour saisir un système de fermeture à structure hiérarchique ou créer une installation de fermeture. 
+=M_DSGN_SETUP_P1(0)	Outre pour l'analyse de systèmes de fermeture déjà saisis, vous pouvez utiliser le w{Designer Système} pour saisir un système de fermeture à structure hiérarchique ou créer une installation de fermeture. 
 
-=M_DSGN_SETUP_P2(0)	Après l'exécution de la commande m{Fichier - Nouveau}, la fenêtre w{Structure de groupes} du w{Designer système} obtient un rectangle contenant un numéro système. Convenez avec votre client de quelle structure hiérarchique il veut disposer pour son système de fermeture. Lors de la saisie d'un nouveau système de fermeture avec le w{Designer système}, vous n'êtes pas contraint par une suite d'étapes spécifiques. 
+=M_DSGN_SETUP_P2(0)	Après l'exécution de la commande m{Fichier - Nouveau}, la fenêtre w{Structure de groupes} du w{Designer Système} obtient un rectangle contenant un numéro système. Convenez avec votre client de quelle structure hiérarchique il veut disposer pour son système de fermeture. Lors de la saisie d'un nouveau système de fermeture avec le w{Designer Système}, vous n'êtes pas contraint par une suite d'étapes spécifiques. 
 
 =M_DSGN_SETUP_ADD(0)	Saisir des groupes 
 
@@ -5887,9 +5887,9 @@
 
 =M_DSGN_SETUP_ADD_P3(0)	La boîte de dialogue w{Ajouter groupe} ou w{Insérer groupe} ou w{Ajouter données} apparaît. Elles possèdent les mêmes zones de saisie: 
 
-=M_DSGN_SETUP_ADD_P3_A(0)	f{Clé de passe}: Avec cette case à cocher vous créez une clé de passe, qui est automatiquement connecté avec tous les cylindres du groupe, mais aussi avec ceux que vous allez ajouter plus tard au groupe avec le w{Designer système}. 
+=M_DSGN_SETUP_ADD_P3_A(0)	f{Clé de passe}: Avec cette case à cocher vous créez une clé de passe, qui est automatiquement connecté avec tous les cylindres du groupe, mais aussi avec ceux que vous allez ajouter plus tard au groupe avec le w{Designer Système}. 
 
-=M_DSGN_SETUP_ADD_P3_B(0)	f{Ouvert. centrale}: Avec cette case à cocher vous créez une ouverture centrale, qui est automatiquement connectée avec toutes les fonctions de clé du groupe, mais aussi avec celles que vous allez ajouter plus tard au groupe avec le w{Designer système}. 
+=M_DSGN_SETUP_ADD_P3_B(0)	f{Ouvert. centrale}: Avec cette case à cocher vous créez une ouverture centrale, qui est automatiquement connectée avec toutes les fonctions de clé du groupe, mais aussi avec celles que vous allez ajouter plus tard au groupe avec le w{Designer Système}. 
 
 =M_DSGN_SETUP_ADD_P3_C(0)	f{Clés de groupes}: Dans cette zone, vous ajoutez des clés de passe partiels au groupe, si vous renseignez une fourchette de numérotation dans les champs f{De} et f{à}. Les clés de passe partiels sont automatiquement connectées avec d'éventuelles ouvertures centrales système ou de groupe. Aucune clé de passe partiel n'est créée si le champ f{à} est inférieur au champ f{De}. 
 
@@ -5929,7 +5929,7 @@
 
 =M_DSGN_SETUP_MULTIPLY_P6(0)	Pour créer un système de fermeture, procédez comme suit: 
 
-=M_DSGN_SETUP_MULTIPLY_P6_A(0)	Créez un nouveau et vide système de fermeture et basculez dans le w{Designer système}->DSGN. 
+=M_DSGN_SETUP_MULTIPLY_P6_A(0)	Créez un nouveau et vide système de fermeture et basculez dans le w{Designer Système}->DSGN. 
 
 =M_DSGN_SETUP_MULTIPLY_P6_B(0)	Appuyez dans la zone f{Sous-groupes} sur le bouton f{Ajouter...} et créez un sous-groupe, dans lequel seulement un cylindre central se trouve (voir chap. VIII-2, {'Saisir des groupes'}->DSGN_SETUP_ADD). Ce groupe représente un bâtiment. Pour le cylindre central (voir chap. VIII-2, {'Cylindre central'}->DSGN_SETUP_CENTRALLOCK) tapez dans le champs f{Numéro} '[G]Z'. 
 
@@ -5943,13 +5943,13 @@
 
 =M_DSGN_SETUP_MULTIPLY_P7(0)	Conseils: 
 
-=M_DSGN_SETUP_MULTIPLY_P7_A(0)	Vous pouvez aussi multiplier des groupes, qui n'ont pas été créés ou spécifiés avec le w{Designer système}, mais avec le w{Plan d'organigramme}->MTRX ou dans l'w{Aperçu Listes}->LST. De cette façon, des modèles plus complexes peuvent aussi être établis et multiplié. 
+=M_DSGN_SETUP_MULTIPLY_P7_A(0)	Vous pouvez aussi multiplier des groupes, qui n'ont pas été créés ou spécifiés avec le w{Designer Système}, mais avec le w{Plan d'Organigramme}->MTRX ou dans l'w{Aperçu Listes}->LST. De cette façon, des modèles plus complexes peuvent aussi être établis et multiplié. 
 
 =M_DSGN_SETUP_MULTIPLY_P7_B(0)	La fonction de multiplication peut également être employée pour créer de plus petits, réitérés modèles dans un groupe. Pour faire tellement d'abord créez un sous-groupe représentant le modèle, puis multipliez-l'et fusionnez finalement en arrière les sous-groupes créés dans le groupe original (voir chap. VIII-1, {'Fusionner groupes'}->DSGN_ANALYSE_MERGE). 
 
 =M_DSGN_SETUP_EDIT(0)	Editer des données de groupes 
 
-=M_DSGN_SETUP_EDIT_P1(0)	Dans cette zone de la fenêtre w{Designer système} vous pouvez ajouter des données, à l'élément marqué dans l'affichage de la w{Structure de groupes}, les éditer ou supprimer l'élément entier. 
+=M_DSGN_SETUP_EDIT_P1(0)	Dans cette zone de la fenêtre w{Designer Système} vous pouvez ajouter des données, à l'élément marqué dans l'affichage de la w{Structure de groupes}, les éditer ou supprimer l'élément entier. 
 
 =M_DSGN_SETUP_EDIT_P1_A(0)	f{Nom}: Vous pouvez modifier le nom du groupe dans ce champ. Lors de la création du groupe, LOCKBASE attribue automatiquement un nom identifiant la position du groupe dans la hiérarchie. 
 
@@ -5963,7 +5963,7 @@
 
 =M_DSGN_SETUP_EDIT_P1_F(0)	f{Ajouter données...}: Avec ce bouton, vous pouvez ajouter des fonctions de clés, des cylindres, des clés de passe partiels et des portes dans un sous-groupe de système de fermeture. Ce bouton n'est disponible dans un système analysé et hiérarchisé que lorsqu'un groupe - et non un nœud - est sélectionné. La boîte de dialogue w{Ajouter données}->DSGN_SETUP_ADD s'ouvre. Les fonctions de clé, les cylindres et les clés de passe partiels sont automatiquement connectés avec d'éventuelles ouvertures centrales de système ou de groupe et avec des clés de passe générales ou de groupe. 
 
-=M_DSGN_SETUP_EDIT_P1_G(0)	f{Supprimer}: Avec ce bouton, vous supprimez tous les registres de fonction de clé, de cylindres et de portes appartenant au groupe marqué dans l'affichage de la w{Structure de groupes}. Si vous supprimez un nœud, les éventuelles ouvertures centrales ou clé de passe seront supprimées, mais non des données du sous-groupe. Différemment du w{Plan d'organigramme}->MTRX ou de l'w{Aperçu listes}->LST vous ne devez pas supprimer les connexions entre les registres avant la suppression. Vous ne pouvez pas supprimer la base système. 
+=M_DSGN_SETUP_EDIT_P1_G(0)	f{Supprimer}: Avec ce bouton, vous supprimez tous les registres de fonction de clé, de cylindres et de portes appartenant au groupe marqué dans l'affichage de la w{Structure de groupes}. Si vous supprimez un nœud, les éventuelles ouvertures centrales ou clé de passe seront supprimées, mais non des données du sous-groupe. Différemment du w{Plan d'Organigramme}->MTRX ou de l'w{Aperçu Listes}->LST vous ne devez pas supprimer les connexions entre les registres avant la suppression. Vous ne pouvez pas supprimer la base système. 
 
 =M_DSGN_SETUP_EDIT_P1_H(0)	f{Connexions...}: Ce bouton sert à connecter une clé de groupe avec plusieurs cylindres du groupe. Ce bouton de commande n'est disponible que si une entrée est présente la liste des f{Clés de groupes} et si un sous-groupe est marqué dans l'affichage de la w{Structure de groupes}. Ensuite vous pouvez ouvrir la boîte de dialogue w{Connecter...}->DLG_DATA_CONNECT. 
 
@@ -5971,7 +5971,7 @@
 
 =M_DSGN_SETUP_MASTERKEY_P1(0)	La boîte de dialogue w{Clé de passe} 
 
-=M_DSGN_SETUP_MASTERKEY_P2(0)	La boîte de dialogue w{Clé de passe} apparaît lorsque vous créez ou éditez une clé de passe avec le w{Designer système} ou lors de la création d'un sous-groupe. 
+=M_DSGN_SETUP_MASTERKEY_P2(0)	La boîte de dialogue w{Clé de passe} apparaît lorsque vous créez ou éditez une clé de passe avec le w{Designer Système} ou lors de la création d'un sous-groupe. 
 
 =M_DSGN_SETUP_MASTERKEY_P3(0)	Les champs de saisie: 
 
@@ -5985,7 +5985,7 @@
 
 =M_DSGN_SETUP_CENTRALLOCK_P1(0)	La boîte de dialogue w{Ouverture centrale} 
 
-=M_DSGN_SETUP_CENTRALLOCK_P2(0)	La boîte de dialogue w{Ouverture centrale} apparaît lorsque vous créez ou éditez un cylindre central avec le w{Designer système} ou lors de la création d'un sous-groupe. 
+=M_DSGN_SETUP_CENTRALLOCK_P2(0)	La boîte de dialogue w{Ouverture centrale} apparaît lorsque vous créez ou éditez un cylindre central avec le w{Designer Système} ou lors de la création d'un sous-groupe. 
 
 =M_DSGN_SETUP_CENTRALLOCK_P3(0)	Les champs de saisie: 
 
@@ -5997,7 +5997,7 @@
 
 =M_DSGN_SETUP_PATTERN_P2(0)	La boîte de dialogue w{Clés de groupes par défaut} apparaît lorsque vous ajoutez ou insérez un groupe ou vous ajoutez des données à un groupe de clés, de cylindres, de clés individuelles ou de portes. 
 
-=M_DSGN_SETUP_PATTERN_P3(0)	La boîte de dialogue w{Clés de groupes par défaut} n'accueille que les données qui doivent être identiques à celles des registres à créer. Les champs des registres à créer, qui doivent contenir des indications différentes dans le groupe, doivent rester vides dans les boîtes de dialogue w{...par défaut}. Vous pouvez éditer les registres dans le w{Plan d'organigramme}->MTRX ou l'w{Aperçu listes}->LST plus tard. 
+=M_DSGN_SETUP_PATTERN_P3(0)	La boîte de dialogue w{Clés de groupes par défaut} n'accueille que les données qui doivent être identiques à celles des registres à créer. Les champs des registres à créer, qui doivent contenir des indications différentes dans le groupe, doivent rester vides dans les boîtes de dialogue w{...par défaut}. Vous pouvez éditer les registres dans le w{Plan d'Organigramme}->MTRX ou l'w{Aperçu Listes}->LST plus tard. 
 
 =M_DSGN_SETUP_PATTERN_P4(0)	Indications par défaut pour les clés individuelles et pour les clés de groupes 
 
@@ -6233,7 +6233,7 @@
 
 =M_PRN_FORMAT_OPTIONS_P3(0)	Les formulaires suivants contiennent une fichier w{Réglages}. Une documentation des réglages possibles, vous trouverez dans les paragraphes indiqués. 
 
-=M_PRN_FORMAT_OPTIONS_P3_A(0)	Plan d'organigramme (voir chap. IX-4, {'Plan d'organigramme'}->PRN_DOC_MTRX) 
+=M_PRN_FORMAT_OPTIONS_P3_A(0)	Plan d'Organigramme (voir chap. IX-4, {'Plan d'Organigramme'}->PRN_DOC_MTRX) 
 
 =M_PRN_FORMAT_OPTIONS_P3_B(0)	Liste de tailles de clés (voir chap. IX-4, {'Liste de tailles de clés'}->PRN_DOC_BITTINGLIST) 
 
@@ -6283,19 +6283,19 @@
 
 =M_PRN_DOC_COVERSHEET_P2_A(0)	Si vous sélectionnez 'Tous' dans le champ f{Fourchette de sortie} de la boîte de dialogue w{Formatage d'imprimés}->PRN_SELECT et si dans la w{Page de garde} plusieurs extensions étaient déjà effectuées, vous recevez un affichage des listes de l'Historique du système. Sinon les données de l'expansion sélectionnée seront affichées en mode d'affichage des registres (voir chap. III-1, {'Page de garde'}->MAIN_FILE_COVERSHEET). 
 
-=M_PRN_DOC_MTRX(0)	Plan d'organigramme 
+=M_PRN_DOC_MTRX(0)	Plan d'Organigramme 
 
-=M_PRN_DOC_MTRX_P1(0)	Le plan d'organigramme est une forme de présentation d'un système de fermeture bien étendue en Europe. Sous forme de tableau des portes respectivement des cylindres et des clés seront visualisés opposés. Les connexions sont représentés par un point ou par X sur les points de croisement entre les colonnes et les lignes. 
+=M_PRN_DOC_MTRX_P1(0)	Le Plan d'Organigramme est une forme de présentation d'un système de fermeture bien étendue en Europe. Sous forme de tableau des portes respectivement des cylindres et des clés seront visualisés opposés. Les connexions sont représentés par un point ou par X sur les points de croisement entre les colonnes et les lignes. 
 
-=M_PRN_DOC_MTRX_P2(0)	Le document w{Plan d'organigramme} offre les réglages supplémentaires suivants: 
+=M_PRN_DOC_MTRX_P2(0)	Le document w{Plan d'Organigramme} offre les réglages supplémentaires suivants: 
 
-=M_PRN_DOC_MTRX_P2_A(0)	f{Mise en page}: Avec cette liste de sélection vous définissez, si les registres des cylindres ou les registres des fonctions de clés doivent être imprimés en haut, cela veut dire par colonnes, ou si le plan d'organigramme doit être imprimé en format d'affichage Euro. Dans le format Euro les clés individuelles des cylindres ne seront pas affichées dans la liste des clés, mais elles apparaissent à colonne dans la liste des cylindres (sur le format Euro voir chap. VI-1, {'Plan d'organigramme Euro'}->MTRX_USAGE_EUROMATRIX). 
+=M_PRN_DOC_MTRX_P2_A(0)	f{Mise en page}: Avec cette liste de sélection vous définissez, si les registres des cylindres ou les registres des fonctions de clés doivent être imprimés en haut, cela veut dire par colonnes, ou si le Plan d'Organigramme doit être imprimé en format d'affichage Euro. Dans le format Euro les clés individuelles des cylindres ne seront pas affichées dans la liste des clés, mais elles apparaissent à colonne dans la liste des cylindres (sur le format Euro voir chap. VI-1, {'Plan d'Organigramme Euro'}->MTRX_USAGE_EUROMATRIX). 
 
-=M_PRN_DOC_MTRX_P2_B(0)	f{Échelle (%)}: Vous pouvez entrer ici un facteur d'échelle en pourcentage pour les imprimés. L'échelle sera apportée à la police choisie, par laquelle aussi la hauteur de ligne et la largeur de colonne seront agrandis respectivement réduits correspondant. La valeur du standard s'élève à 100%, cela veut dire qu'aucune échelle ne sera effectuée. L'échelle est utile, pour rapidement adapter la disposition du Plan d'organigramme, si p.ex. quelques valeurs excédent leur largeur du champ. 
+=M_PRN_DOC_MTRX_P2_B(0)	f{Échelle (%)}: Vous pouvez entrer ici un facteur d'échelle en pourcentage pour les imprimés. L'échelle sera apportée à la police choisie, par laquelle aussi la hauteur de ligne et la largeur de colonne seront agrandis respectivement réduits correspondant. La valeur du standard s'élève à 100%, cela veut dire qu'aucune échelle ne sera effectuée. L'échelle est utile, pour rapidement adapter la disposition du Plan d'Organigramme, si p.ex. quelques valeurs excédent leur largeur du champ. 
 
-=M_PRN_DOC_MTRX_P2_C(0)	f{Format paysage}: Activez ce paramètre, si vous voulez imprimer le plan d'organigramme en format paysage. 
+=M_PRN_DOC_MTRX_P2_C(0)	f{Format paysage}: Activez ce paramètre, si vous voulez imprimer le Plan d'Organigramme en format paysage. 
 
-=M_PRN_DOC_MTRX_P2_D(0)	f{Sortir variures planifiées}: Vous pouvez décider ici, si les variures seulement planifiées doivent également être imprimées lors de l'impression du plan d'organigramme. Les clés planifiées sont des fonctions de clés, pour lesquelles aucune copie n'a encore été créée (dialogue w{Fonction de clé}, f{Nombre de copies de clés} égal zéro, voir chap. IV-1, {'Registres de fonctions de clés'}->DLG_DATA_FUNC). Les cylindres planifiés sont des cylindres avec une quantité de zéro (dialogue w{Cylindre}, f{Quantité} égal zéro, voir chap. IV-1, {'Registres de cylindres'}->DLG_DATA_CYL). 
+=M_PRN_DOC_MTRX_P2_D(0)	f{Sortir variures planifiées}: Vous pouvez décider ici, si les variures seulement planifiées doivent également être imprimées lors de l'impression du Plan d'Organigramme. Les clés planifiées sont des fonctions de clés, pour lesquelles aucune copie n'a encore été créée (dialogue w{Fonction de clé}, f{Nombre de copies de clés} égal zéro, voir chap. IV-1, {'Registres de fonctions de clés'}->DLG_DATA_FUNC). Les cylindres planifiés sont des cylindres avec une quantité de zéro (dialogue w{Cylindre}, f{Quantité} égal zéro, voir chap. IV-1, {'Registres de cylindres'}->DLG_DATA_CYL). 
 
 =M_PRN_DOC_MTRX_P2_E(0)	f{Imprimer plan de fonction uniquement}: Cochez cette case si vous voulez masquer la sortie de cylindres à fermeture égale (voir chap. IV-1, {'Enregistrements de cylindres'}->DLG_DATA_CYL). Seuls les cylindres à fermeture différente seront imprimés. 
 
@@ -6325,7 +6325,7 @@
 
 =M_PRN_DOC_BITTINGLIST_P2(0)	Le document w{Liste de tailles de clés} offre les réglages supplémentaires suivants: 
 
-=M_PRN_DOC_BITTINGLIST_P2_A(0)	f{Sortir variures planifiées}: Vous pouvez décider ici, si les variures seulement planifiées doivent également être imprimées lors de l'impression du plan d'organigramme. Les clés planifiées sont des fonctions de clés, pour lesquelles aucune copie n'a encore été créée (dialogue w{Fonction de clé}, f{Nombre de copies de clés} égal zéro, voir chap. IV-1, {'Registres de fonctions de clés'}->DLG_DATA_FUNC). 
+=M_PRN_DOC_BITTINGLIST_P2_A(0)	f{Sortir variures planifiées}: Vous pouvez décider ici, si les variures seulement planifiées doivent également être imprimées lors de l'impression du Plan d'Organigramme. Les clés planifiées sont des fonctions de clés, pour lesquelles aucune copie n'a encore été créée (dialogue w{Fonction de clé}, f{Nombre de copies de clés} égal zéro, voir chap. IV-1, {'Registres de fonctions de clés'}->DLG_DATA_FUNC). 
 
 =M_PRN_DOC_BITTINGLIST_P2_B(0)	f{Afficher No de série des clés toujours}: Par ceci, vous fixez que les numéros courants des clés, qui ne sont indiqués d'habitude que lors de l'impression d'une sélection, sont aussi affichés lors de l'impression d'un Plan de montage des cylindres complet. 
 
@@ -6341,7 +6341,7 @@
 
 =M_PRN_DOC_PINNINGLIST_P2_C(0)	f{Rassembler identiques}: Si cette case est cochée, les cylindres à fermeture identique seront rassemblés dans le plan de montage. Les différences de type ou de longueur des cylindres ne sont cependant plus visibles dans le plan de montage. Si elle n'est pas cochée, chaque cylindre sera sorti individuellement. 
 
-=M_PRN_DOC_PINNINGLIST_P2_D(0)	f{Sortir variures planifiées}: Vous pouvez décider ici, si les variures seulement planifiées doivent également être imprimées lors de l'impression du plan d'organigramme. Les cylindres planifiés sont des cylindres avec une quantité de zéro (dialogue w{Cylindre}, f{Quantité} égal zéro, voir chap. IV-1, {'Registres de cylindres'}->DLG_DATA_CYL). 
+=M_PRN_DOC_PINNINGLIST_P2_D(0)	f{Sortir variures planifiées}: Vous pouvez décider ici, si les variures seulement planifiées doivent également être imprimées lors de l'impression du Plan d'Organigramme. Les cylindres planifiés sont des cylindres avec une quantité de zéro (dialogue w{Cylindre}, f{Quantité} égal zéro, voir chap. IV-1, {'Registres de cylindres'}->DLG_DATA_CYL). 
 
 =M_PRN_DOC_COMBIPINNINGLIST(0)	Liste de montage combinée 
 
@@ -6351,7 +6351,7 @@
 
 =M_PRN_DOC_COMBIPINNINGLIST_P2_A(0)	f{Pistons accumulatifs}: Ci cette case est cochée, les pistons de rotor sont sortis de manière cumulative (c.-à-d. la somme cumulée des pistons de rotor ou les profondeurs de taille des clés compatibles est affichée). Si elle n'est pas cochée, la première ligne contiendra les pistons de rotor et les lignes suivantes les paillettes à remplir. 
 
-=M_PRN_DOC_COMBIPINNINGLIST_P2_B(0)	f{Sortir variures planifiées}: Vous pouvez décider ici, si les variures seulement planifiées doivent également être imprimées lors de l'impression du plan d'organigramme. Les cylindres planifiés sont des cylindres avec une quantité de zéro (dialogue w{Cylindre}, f{Quantité} égal zéro, voir chap. IV-1, {'Registres de cylindres'}->DLG_DATA_CYL). 
+=M_PRN_DOC_COMBIPINNINGLIST_P2_B(0)	f{Sortir variures planifiées}: Vous pouvez décider ici, si les variures seulement planifiées doivent également être imprimées lors de l'impression du Plan d'Organigramme. Les cylindres planifiés sont des cylindres avec une quantité de zéro (dialogue w{Cylindre}, f{Quantité} égal zéro, voir chap. IV-1, {'Registres de cylindres'}->DLG_DATA_CYL). 
 
 =M_PRN_DOC_ASSEMBLY(0)	Liste de composants 
 
@@ -6487,11 +6487,11 @@
 
 =M_GLOSS_TOOLBAR_P1_A(0)	i{TOOLBAR_MAIN.BMP} fenêtre w{Principale}, 
 
-=M_GLOSS_TOOLBAR_P1_B(0)	i{TOOLBAR_LST.BMP} w{Aperçu listes}, 
+=M_GLOSS_TOOLBAR_P1_B(0)	i{TOOLBAR_LST.BMP} w{Aperçu Listes}, 
 
-=M_GLOSS_TOOLBAR_P1_C(0)	i{TOOLBAR_MTRX.BMP} w{Plan d'organigramme} et 
+=M_GLOSS_TOOLBAR_P1_C(0)	i{TOOLBAR_MTRX.BMP} w{Plan d'Organigramme} et 
 
-=M_GLOSS_TOOLBAR_P1_D(0)	i{TOOLBAR_CALC.BMP} w{Module de calcul}. 
+=M_GLOSS_TOOLBAR_P1_D(0)	i{TOOLBAR_CALC.BMP} w{Module de Calcul}. 
 
 =M_GLOSS_TOOLBAR_P2(0)	Les petits boutons des barres d'outils permettent aux utilisateurs de la souris d'exécuter plus rapidement des commandes. Si vous voulez savoir quelle commande se cache derrière une icône, pointez la souris sur celle-ci, appuyez sur le bouton de la souris et maintenez le bouton enfoncé. L'explication apparaît alors dans la barre d'état (tout en bas de la fenêtre LOCKBASE). Si vous ne voulez pas effectuer cette commande, retirez le pointeur de l'icône et seulement après, relâchez le bouton de la souris. 
 
@@ -6597,7 +6597,7 @@
 
 =M_GLOSS_WRONGFIT(0)	Défaut de fermeture 
 
-=M_GLOSS_WRONGFIT_P1(0)	On parle de défaut de fermeture, lorsqu'une fonction de clé ferme un cylindre à cause d'une erreur lors du calcul ou du montage du cylindre, qu'elle ne doit pas fermer selon le Plan d'organigramme. Le w{Module de calcul} LOCKBASE exclue avec certitude les défauts de fermeture. 
+=M_GLOSS_WRONGFIT_P1(0)	On parle de défaut de fermeture, lorsqu'une fonction de clé ferme un cylindre à cause d'une erreur lors du calcul ou du montage du cylindre, qu'elle ne doit pas fermer selon le Plan d'Organigramme. Le w{Module de Calcul} LOCKBASE exclue avec certitude les défauts de fermeture. 
 
 =M_GLOSS_UNSORTED(0)	Désordre 
 
@@ -6671,7 +6671,7 @@
 
 =M_GLOSS_NODE(0)	Nœud 
 
-=M_GLOSS_NODE_P1(0)	Les groupes supérieurs dans un système de fermeture analysé sont des nœuds. Ils peuvent contenir des clés de passe, des ouvertures de centrales et d'autres sous-groupes. Les nœuds sont affichés de manière ovale dans la structure de groupe dans l'affichage des données du w{Designer système} et du w{Module de calcul}, alors que les sous-groupes sont représentés par des rectangles. 
+=M_GLOSS_NODE_P1(0)	Les groupes supérieurs dans un système de fermeture analysé sont des nœuds. Ils peuvent contenir des clés de passe, des ouvertures de centrales et d'autres sous-groupes. Les nœuds sont affichés de manière ovale dans la structure de groupe dans l'affichage des données du w{Designer Système} et du w{Module de Calcul}, alors que les sous-groupes sont représentés par des rectangles. 
 
 =M_GLOSS_FILENAME(0)	Nom de fichier 
 
@@ -6717,7 +6717,7 @@
 
 =M_GLOSS_GROUPSTRUCTURE_P3(0)	Les groupes sont soit partagés par leurs clés de groupe les uns des autres ou par le fait qu'ils possèdent une clé de passe ou une ouverture centrale propre. Il peut y avoir des clés de groupe au sein d'un même groupe, mais pas entre différents groupes. 
 
-=M_GLOSS_GROUPSTRUCTURE_P4(0)	Si un système de fermeture a été analysé sur sa structure de groupe, vous ne pouvez plus qu'éditer les sous-groupes représentés dans le w{Plan d'organigramme} et dans l'w{Aperçu listes} par des rectangles - pour ainsi dire les feuilles de l'arbre. 
+=M_GLOSS_GROUPSTRUCTURE_P4(0)	Si un système de fermeture a été analysé sur sa structure de groupe, vous ne pouvez plus qu'éditer les sous-groupes représentés dans le w{Plan d'Organigramme} et dans l'w{Aperçu Listes} par des rectangles - pour ainsi dire les feuilles de l'arbre. 
 
 =M_GLOSS_DRAG(0)	Tirer 
 
