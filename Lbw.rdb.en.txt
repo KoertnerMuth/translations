@@ -500,7 +500,7 @@
 =LBW_CALENDAR_1011(0)	None\nDaily\nWeekly\nMonthly\nYearly
 =LBW_CALENDAR_1015(0)	Unlimited\nEnd Date\nFixed Number
 =LBW_CALENDAR_R0(0)		Days\nWeeks\nMonths\nYears
-=LBW_CALENDAR_R1(0)		Errors occured during import of calendar file:\n\n%1\n\nThis file cannot be used.
+=LBW_CALENDAR_R1(0)		Errors occurred during import of calendar file:\n\n%1\n\nThis file cannot be used.
 =LBW_CALENDAR_R2(0)		Unknown identifier '%1'
 =LBW_CALENDAR_R3(0)		Calendar file
 =LBW_CALENDAR_R4(0)		Error loading file '%1'
@@ -1452,10 +1452,10 @@
 =IDP_DOC_FILENOTFOUND(1)	File %s not found!
 =IDS_DOC_IMPORT(1)	Converting of data in progress: %s (%d%%) ...\nTakeover of existing calculation: %s (%d%%) ...\n
 =IDP_DOC_IMPORTWRONGTYPE(1)	Error during file open\nThe selected file does not contain the expected data.\nThis file seems to be of an older 'Superlock' file format. LOCKBASE reads files created by 'Elcon Superlock Universal 6.11'.
-=IDP_DOC_IMPORTERROR(2)	Errors occured during data conversion!\nUnable to open file %s.\nUnable to read from file %s.\nInvalid data found in file %s.\nUnable to add data set.\n%s
+=IDP_DOC_IMPORTERROR(2)	Errors occurred during data conversion!\nUnable to open file %s.\nUnable to read from file %s.\nInvalid data found in file %s.\nUnable to add data set.\n%s
 =IDP_DOC_ASKMOVE(1)	Please confirm to move %lu %s
 =IDS_DOC_MGLUPDATE1(1)	Key '%s', issued to '%s' not found\nCylinder '%s', built into '%s' not found\nPreparing Update ...\nProcessing Update (%u%%)\nUnable to process update: The old file cannot be opened.\n
-=IDS_DOC_MGLUPDATE2(1)	Errors occured during the update process. Choose 'OK' to accept the update anyway or choose  'Cancel' to recover the systems former state.
+=IDS_DOC_MGLUPDATE2(1)	Errors occurred during the update process. Choose 'OK' to accept the update anyway or choose  'Cancel' to recover the systems former state.
 =IDS_DOC_MGLUPDATE3(1)	The update was successfully processed. The systems former state will be saved to file '%s.lb1'.\nThe systems former state was recovered. The update will be deleted.
 =IDS_DOC_MGLUPDATE4(1)	Key '%s', issued to '%s' not found\nCylinder '%s', built into '%s' not found\nPreparing update ...\nProceeding update (%u%%)\nThe serial number of the old file is invalid. An update cannot be processed.
 =IDS_DOC_EVVASAT_TXT(1)	EVVA-System:\nYes\nNo\nDelivery address:\nInvoice address:\nManufacturer: \nChange Key of \n
@@ -1580,7 +1580,7 @@
 =IDP_LISTS_CREATE_DOORS(1)	Please confirm to create door data sets from the door designation data of the cylinders.\n%lu doors were created.\nNo doors created - all doors already are exist.
 =IDP_LISTS_NOKEYRETURN(1)	There are no overdue key returns.
 =IDS_LISTS_PROCVIEW_KEYRETURN(1)	Searching for overdue key returns: %d%%
-=IDP_LISTS_GROUNDPLAN_ERR(1)	The following error occured:\nThe name is missing or was already given to another floor plan.\nThe given file was not found.\nThe given file is no grafics file or is of an unsupported type.\n
+=IDP_LISTS_GROUNDPLAN_ERR(1)	The following error occurred:\nThe name is missing or was already given to another floor plan.\nThe given file was not found.\nThe given file is no grafics file or is of an unsupported type.\n
 =IDP_LISTS_GROUNDPLAN_DEL(1)	Are you sure to delete this plan?
 =IDP_LISTS_GROUNDPLAN_REMITEMS(1)	Are you sure to remove %lu doors from this plan?
 =IDP_LISTS_GROUNDPLAN_LOAD(2)	Error while loading floor plan '%s':\nThe plan's name is invalid.\nNo floor plan source file was given. Please enter the name of the floor plan's grafics file.\nThe grafics file linked to the plan is not at the place expected. Please enter the files location again.\nThe file linked to the plan is not a grafics file or is of a not supported type. Please select another file.
@@ -1589,9 +1589,9 @@
 =IDP_DOC_ASK_TO_SAVE(1)	%s was edited.\nDo you want to save the changes?
 =IDP_DOC_CGA_TO_SAVE(1)	Please notice, that changes made in the Code Group Administration have to be corrected manually, if this master key system is not saved.
 =IDS_DOC_EVVASAT_UNRESOLVED(1)	Error in  file '%s', line %ld , field %ld:\nThe system matrix was not resolved. For more information concerning resolving the matrix refer to the Evva-Satellit users manual.
-=IDP_DOC_IMPORTERROR1(1)	Errors occured during data conversion!\nFile %s, Record %ld, Field %ld contains invalid or unexpected data.\nFile %s, Record %ld contains invalid or unexpected data.
-=IDP_DOC_IMPORTERROR_GENERAL(1)	Errors occured during data import!\nUnable to create directory %s.\nFile %s not found. This program has to be located in the LOCKBASE directory.\nZip file does not contain expected files.
-=IDP_DOC_KWDERROR(1)	Errors occured during data import!\nFile %s is not a KWD-file.\nThe type of this KWD-file is not supported.\rLOCKBASE currently only supports the KWD type 'Schließanlage mechanisch komplett mit Schließungen'.
+=IDP_DOC_IMPORTERROR1(1)	Errors occurred during data conversion!\nFile %s, Record %ld, Field %ld contains invalid or unexpected data.\nFile %s, Record %ld contains invalid or unexpected data.
+=IDP_DOC_IMPORTERROR_GENERAL(1)	Errors occurred during data import!\nUnable to create directory %s.\nFile %s not found. This program has to be located in the LOCKBASE directory.\nZip file does not contain expected files.
+=IDP_DOC_KWDERROR(1)	Errors occurred during data import!\nFile %s is not a KWD-file.\nThe type of this KWD-file is not supported.\rLOCKBASE currently only supports the KWD type 'Schließanlage mechanisch komplett mit Schließungen'.
 =IDS_DOC_KWD(1)	Data conversion in progress: File %s, Line %ld ...\nCreating key copies %d%% ...\nCreating change keys %d%% ...\nCreating connections %d%%...\n
 =IDS_DOC_IMPORT_GENERAL(1)	Extracting files ...\nChecking files ...\nData conversion in progress: %s (%d%%) ...
 =IDP_DOC_EXCHG_PORTIER(0) Missing required tag\nInvalid contents\nInvalid logic, data consistency error
@@ -1624,8 +1624,8 @@
 =IDP_CYLF_ADDCHGKEYS(1)	Do you want to create change keys for the selected cylinders?
 =IDP_CYLF_REMCHGKEYS(1)	Do you want to delete all change keys of the selected cylinders?
 =IDS_B2B_EXCHANGE_TXT(1)	Starting Data Transfer ...\nSending '%s'\nReceiving '%s'\nError: '%s'\nData Transfer aborted.\nData Transfer finished.
-=IDP_B2B_EXCHANGE_ERR(1)	An error occured during the data transfer process:\nThe connection to the internet could not be established.\nThe connection to the B2B server could not be established.\nError while reading from a file ('%s').\nError while writing to a file.\nInvalid confirmation mail receipient - check email address or disable email confirmation\n\n\n\n\nUnknown error (%s).
-=IDP_B2B_SETUP(1)	An error occured during the setup of LOCKBASE B2B:\nThe file '%s' cannot be created or written.\nUnknown error.
+=IDP_B2B_EXCHANGE_ERR(1)	An error occurred during the data transfer process:\nThe connection to the internet could not be established.\nThe connection to the B2B server could not be established.\nError while reading from a file ('%s').\nError while writing to a file.\nInvalid confirmation mail receipient - check email address or disable email confirmation\n\n\n\n\nUnknown error (%s).
+=IDP_B2B_SETUP(1)	An error occurred during the setup of LOCKBASE B2B:\nThe file '%s' cannot be created or written.\nUnknown error.
 =IDP_B2B_SENDERR(1)	Unable to prepare file for sending.
 =IDP_B2B_EXCHANGEERR(1)	Unable to start the data transfer process.
 =IDP_B2B_RECVERR(1)	Unable to open the mail box.
@@ -1699,7 +1699,7 @@
 =IDS_PRTFX_SINGLELIST(1)	&Display items at planning state
 =IDS_PRTFX_TECHCHOICE(1)	&Technology*All*Mechanic*Mechatronic*Electronic
 =IDP_CYLTYPEDB_SCANERR(1)	Error while reading cylinder type file '%s', line %d, column %d. The reading process was aborted.
-=IDP_C2B_ERROR(1)	An error occured during creation of the ordering software (C2B).\nThe software cannot be created in the LOCKBASE folder.\nThe file '%s' is missing or damaged.\nCan't create or write to '%s'.\nA file, which can serve as a document template, was not found ('LbwC2B.lbt').\nThe B2B module is not ready.
+=IDP_C2B_ERROR(1)	An error occurred during creation of the ordering software (C2B).\nThe software cannot be created in the LOCKBASE folder.\nThe file '%s' is missing or damaged.\nCan't create or write to '%s'.\nA file, which can serve as a document template, was not found ('LbwC2B.lbt').\nThe B2B module is not ready.
 =IDP_C2B_SUCCESS(1)	The ordering software (C2B) was created successfully.\n\rThe file '%s' was used as document template.\r\rHowever, it is recommended to create an own document template for the ordering software and store it under the name 'LbwC2B.lbt' in the LOCKBASE folder.
 =IDP_CYL_INVEXTRA(1)	The special equipment '%s' is invalid.
 =IDP_CYL_USERDEFTYPE(1)	The given cylinder type is unknown.\rShould this type be used anyway?
@@ -1794,7 +1794,7 @@
 =STP_INSTALL_R7(0)	The licence number of update and existing installation are different. Choose a different installation target.
 =STP_INSTALL_R8(0)	The installation was aborted.
 =STP_INSTALL_R9(0)	The required file '%s' does not exist or was damaged.\nThe installation cannot be continued.
-=STP_INSTALL_R10(0)	An internal error occured.\nPlease contact Körtner & Muth GmbH in Hamburg, Germany for support.
+=STP_INSTALL_R10(0)	An internal error occurred.\nPlease contact Körtner & Muth GmbH in Hamburg, Germany for support.
 =STP_INSTALL_R11(0)	<New Installation>
 =STP_INSTALL_R12(0)	Please select the target directory:
 
@@ -1905,17 +1905,17 @@
 =IDP_B2B_SETUP_FACTORYCARD(0)	Error loading factory card for this installation. Possibly there is no internet connection. Setup failed.
 =IDP_B2B_SEND_SAVE_LETTER(1)	Should this text be saved as a template for future letters to this receipient?
 =IDP_B2B_SEND_LETTER_SAVED(1)	The letter was saved as template.
-=IDP_B2B_SEND_ERR(1)	The file '%s' was successfully prepared for sending.\nAn error occured while preparing file '%s' for sending:\nThe receipient is unknown.\nThe file was not found.\nThe file cannot be read.\nThe output file cannot be created.\nUnknown error.
+=IDP_B2B_SEND_ERR(1)	The file '%s' was successfully prepared for sending.\nAn error occurred while preparing file '%s' for sending:\nThe receipient is unknown.\nThe file was not found.\nThe file cannot be read.\nThe output file cannot be created.\nUnknown error.
 =IDP_B2B_SEND_NOTEXT(1)	It is recommended to prepare a letter to the receipient, but at least a subject should be given.\n\nAre you sure you want to send the file anyway?
 =IDP_B2B_SEND_NOFILE(1)	No file to send.
 =IDS_B2B_SEND_SENDING(1)	Preparing to send out
 =IDP_B2B_SEND_NOEMAIL(1)	The email address is incorrect or missing.\n\nIf you don't want an email acknowledgement, please deactivate the respective check box.
 =IDS_B2B_SEND_EXCH(1)	Sending data
-=IDP_B2B_SEND_EXCH_ERR(1)	The file '%s' was transmitted successfully.\nAn error occured while sending file '%s':\n'%s'\nThe connection to the internet could not be established.\nThe connection to the B2B server could not be established.\nUnknown error.
+=IDP_B2B_SEND_EXCH_ERR(1)	The file '%s' was transmitted successfully.\nAn error occurred while sending file '%s':\n'%s'\nThe connection to the internet could not be established.\nThe connection to the B2B server could not be established.\nUnknown error.
 =IDP_B2B_SEND_WARN_OWNER(1)	The selected receipient is not the owner of this file.\n\nAre you sure to send this file to the selected receipient?
 =IDS_B2B_RECV_OPENING(1)	Opening envelope
-=IDP_B2B_RECV_OPENERR(1)	An error occured while opening file '%s':\nUnable to decrypt file.\nFile not found.\nUnable to read file.\nPossibly the file transmission was incomplete.\nThe file was created by a newer version of LOCKBASE and cannot be opened by this version. To receive an update please contact your LOCKBASE supplier.\nUnknown error.
-=IDP_B2B_RECV_UNPACKERR(2)	File successfully extracted.\nAn error occured while extracting file '%s':\nFile not yet opened.\nFile not found.\nUnable to read file.\nUnable to write destination file.\nThe file is not a LOCKBASE document.\nThis system file was created by a newer version of LOCKBASE and cannot be opened by this version. To receive an update please contact your LOCKBASE supplier.\nPeer-to-Peer partner limit reached - can't unpack file. You need a factory licence or you have to delete one of the existing partners.\nUnknown error.
+=IDP_B2B_RECV_OPENERR(1)	An error occurred while opening file '%s':\nUnable to decrypt file.\nFile not found.\nUnable to read file.\nPossibly the file transmission was incomplete.\nThe file was created by a newer version of LOCKBASE and cannot be opened by this version. To receive an update please contact your LOCKBASE supplier.\nUnknown error.
+=IDP_B2B_RECV_UNPACKERR(2)	File successfully extracted.\nAn error occurred while extracting file '%s':\nFile not yet opened.\nFile not found.\nUnable to read file.\nUnable to write destination file.\nThe file is not a LOCKBASE document.\nThis system file was created by a newer version of LOCKBASE and cannot be opened by this version. To receive an update please contact your LOCKBASE supplier.\nPeer-to-Peer partner limit reached - can't unpack file. You need a factory licence or you have to delete one of the existing partners.\nUnknown error.
 =IDP_B2B_RECV_CLOSE(1)	Not all received files have already been extracted yet. Are you sure you want to leave Incoming mail?
 =IDP_B2B_RECV_REVOKEDKEY(1)	Caution: A revoked public key was used to encrypt this file.
 
@@ -1961,7 +1961,7 @@
 =IDP_CGA_ERRLOGIN(1)	Access to the Code Group Administration failed:\rThe module is currently blocked by other network users.
 =IDP_APPLIC_DDEONLY(1)	The Code Group Administration cannot connect to LOCKBASE.\nThe programm will terminate.
 =IDP_APPLIC_NOFAB(1)	The brand specification file '%s' cannot be opened or contains invalid data. The Code Group Administration cannot run.
-=IDP_APPLIC_DBERR(1)	An error occured during opening the Code Group Administration:\nThe file '%s' was not found.\nThe file '%s' contains invalid data.\nThe file '%s' cannot be created.\nThe file '%s' already exists.\nThe file '%s' is already open.\nThe Code Group Administration is locked by another network user.\nThe file '%s' was created by a former LOCKBASE version.\nThe file '%s' was created by a newer LOCKBASE version.
+=IDP_APPLIC_DBERR(1)	An error occurred during opening the Code Group Administration:\nThe file '%s' was not found.\nThe file '%s' contains invalid data.\nThe file '%s' cannot be created.\nThe file '%s' already exists.\nThe file '%s' is already open.\nThe Code Group Administration is locked by another network user.\nThe file '%s' was created by a former LOCKBASE version.\nThe file '%s' was created by a newer LOCKBASE version.
 =IDS_CGA_LOCK(1)	Lock / Unlock a code group (F7)
 =IDS_CGA_EDIT(1)	Add / Edit a profile name (F8)
 =IDS_CGA_UP(1)	Move one level upwards (Ctrl+PgUp)
@@ -2218,7 +2218,7 @@
 =IDP_CNF_HTML(1)	Do you want to create and publish the HTML documentation for the cylinder type database?
 =IDS_LOC_LANGUAGE(1)	German\nEnglish\nFrench\nItalian\nSpanish
 =IDP_ERR_DB(1)	Fatal: Unable to open or create the database file '%s' .\n\nPlease terminate the program by 'Close'.
-=IDP_ERR_HTML(1)	An error occured during compilation of the HTML documentation:\n\n%s\n\nThe documentation was not created.
+=IDP_ERR_HTML(1)	An error occurred during compilation of the HTML documentation:\n\n%s\n\nThe documentation was not created.
 =IDP_ERR_VIRTUAL(1)	One ore more of the listed basic systems are invalid.\n\nThe basic systems must exist already and their names have to be entered exactly (case sensitive) and completely. Multiple name are to separate by commas.
 =IDP_ERR_EXTDATA(1)	The external data source '%s' doesn't exists or could not be read!
 =IDS_LOC_NONE(1)	<none>
