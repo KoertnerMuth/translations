@@ -544,10 +544,10 @@
 =LBW_LOCATION(0)			Location
 =LBW_LOCATION_T0(0)			&Name:
 =LBW_LOCATION_T1(0)			&Description:
-=LBW_LOCATION_T2(0)			Select the grafics file, which contains the floor plan (file type BMP, JPG, PNG, TIF, EPS, TGA, PCT, WMF or EMF).
-=LBW_LOCATION_T3(0)			&Grafics File:
+=LBW_LOCATION_T2(0)			Select the graphics file, which contains the floor plan (file type BMP, JPG, PNG, TIF, EPS, TGA, PCT, WMF or EMF).
+=LBW_LOCATION_T3(0)			&Graphics File:
 =LBW_LOCATION_T4(0)			&File...
-=LBW_LOCATION_R0(0)			Supported Grafics Files
+=LBW_LOCATION_R0(0)			Supported Graphics Files
 
 =IDD_SETUP_CISA						Cisa C83/SP/NA/AT/AP3
 =IDD_SETUP_CISA_STATICTXT1			Cisa SP/NA/AT/AP3
@@ -747,9 +747,9 @@
 =IDD_DOC_CONSISTENCY_CHECK9(1)	Cyl&inders with same Number Keyed Alike
 
 =IDD_LISTS_GROUNDPLAN(1)	Floor Plan
-=IDD_LISTS_GROUNDPLAN_STATICTXT1(1)	Enter a name for the plan and select the grafics file, which contains the floor plan (file type BMP, JPG, PNG, TIF, EPS, TGA, PCT, WMF or EMF).
+=IDD_LISTS_GROUNDPLAN_STATICTXT1(1)	Enter a name for the plan and select the graphics file, which contains the floor plan (file type BMP, JPG, PNG, TIF, EPS, TGA, PCT, WMF or EMF).
 =IDD_LISTS_GROUNDPLAN_STATICTXT2(1)	&Name:
-=IDD_LISTS_GROUNDPLAN_STATICTXT3(1)	&Grafics File:
+=IDD_LISTS_GROUNDPLAN_STATICTXT3(1)	&Graphics File:
 =IDD_LISTS_GROUNDPLAN_RADIO1(1)	&Insert Plan
 =IDD_LISTS_GROUNDPLAN_RADIO2(1)	&Append Plan
 =IDD_LISTS_GROUNDPLAN_OK(1)	OK
@@ -1580,10 +1580,10 @@
 =IDP_LISTS_CREATE_DOORS(1)	Please confirm to create door data sets from the door designation data of the cylinders.\n%lu doors were created.\nNo doors created - all doors already are exist.
 =IDP_LISTS_NOKEYRETURN(1)	There are no overdue key returns.
 =IDS_LISTS_PROCVIEW_KEYRETURN(1)	Searching for overdue key returns: %d%%
-=IDP_LISTS_GROUNDPLAN_ERR(1)	The following error occurred:\nThe name is missing or was already given to another floor plan.\nThe given file was not found.\nThe given file is no grafics file or is of an unsupported type.\n
+=IDP_LISTS_GROUNDPLAN_ERR(1)	The following error occurred:\nThe name is missing or was already given to another floor plan.\nThe given file was not found.\nThe given file is no graphics file or is of an unsupported type.\n
 =IDP_LISTS_GROUNDPLAN_DEL(1)	Are you sure to delete this plan?
 =IDP_LISTS_GROUNDPLAN_REMITEMS(1)	Are you sure to remove %lu doors from this plan?
-=IDP_LISTS_GROUNDPLAN_LOAD(2)	Error while loading floor plan '%s':\nThe plan's name is invalid.\nNo floor plan source file was given. Please enter the name of the floor plan's grafics file.\nThe grafics file linked to the plan is not at the place expected. Please enter the files location again.\nThe file linked to the plan is not a grafics file or is of a not supported type. Please select another file.
+=IDP_LISTS_GROUNDPLAN_LOAD(2)	Error while loading floor plan '%s':\nThe plan's name is invalid.\nNo floor plan source file was given. Please enter the name of the floor plan's graphics file.\nThe graphics file linked to the plan is not at the place expected. Please enter the files location again.\nThe file linked to the plan is not a graphics file or is of a not supported type. Please select another file.
 =IDP_BRANDSET_IMPORTERROR(1)	Problems during initialization of brand module %s:\nCan't open file '%s' .\nFile '%s' contains invalid data.\nCan't write to file '%s'.
 =IDP_BRANDSET_IMPORTOK(1)	Data of brand module %s were successfully updated.
 =IDP_DOC_ASK_TO_SAVE(1)	%s was edited.\nDo you want to save the changes?
@@ -1636,9 +1636,9 @@
 =IDP_B2B_EXPIRED(1)	The master key systems created by the LOCKBASE-B2B-Matrix have to lead to an order within 6 months. If this happens not, the files can't be changed anymore.\r\rYou can remove this lock by sending the file as an order to the manufacturer.
 =IDP_B2B_WARNEXPIRE(1)	Please notice, that the master key systems created by this program have to lead to an order within 6 months. If this happens not, the files later can't be changed anymore!
 =IDP_B2B_CYLTYPEDB(1)	An update for the cylinder type library was found.\r\rManufacturer:\t%s\r\rThe update will be installed now.
-=IDP_B2B_PUBKEYAUTH(2)	The registration request for the new cryptografic key was successfully transmitted to the LOCKBASE B2B server.
-=IDP_B2B_PUBKEYCERT(1)	The new cryptografic key was certified and published in the B2B network.\r\rThe new key is active now.
-=IDP_B2B_PUBKEYREVOKED(1)	A new cryptografic key was received for the following B2B visit cards:\r\r%s\r\rThe new keys are certified and will be used from now on.
+=IDP_B2B_PUBKEYAUTH(2)	The registration request for the new cryptographic key was successfully transmitted to the LOCKBASE B2B server.
+=IDP_B2B_PUBKEYCERT(1)	The new cryptographic key was certified and published in the B2B network.\r\rThe new key is active now.
+=IDP_B2B_PUBKEYREVOKED(1)	A new cryptographic key was received for the following B2B visit cards:\r\r%s\r\rThe new keys are certified and will be used from now on.
 =IDP_B2B_INF_FACTORY_BACKUP(1) The file\n<%1>\nwas transmitted to the manufacturer's file archive
 =IDS_EDIT_GROUNDPLAN_ADD(1)	Adds a new floor plan
 =IDS_EDIT_GROUNDPLAN_EDIT(1)	Edit the current plan
@@ -1821,7 +1821,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 =IDD_B2B_SETUP_1(2)	LOCKBASE B2B - Setup - Identity
-=IDD_B2B_SETUP_1_STATICTXT1(1)	Before you can use the LOCKBASE file transfer service for the first time, a 'visiting card' has to be created for your company.\nThis card contains your address and a cryptografic key to ensure safe transmission of the files via internet.
+=IDD_B2B_SETUP_1_STATICTXT1(1)	Before you can use the LOCKBASE file transfer service for the first time, a 'visiting card' has to be created for your company.\nThis card contains your address and a cryptographic key to ensure safe transmission of the files via internet.
 =IDD_B2B_SETUP_1_STATICTXT2(1)	Please fill the complete address of your company into the form below. Fields marked by * are required entries.
 =IDD_B2B_SETUP_1_STATICTXT3(1)	*&Company:
 =IDD_B2B_SETUP_1_STATIC_NAME2(1)	&Additional:
@@ -1834,7 +1834,7 @@
 
 =IDD_B2B_SETUP_2(2)	LOCKBASE B2B - Setup - Entropy
 =IDD_B2B_SETUP_2_STATICTXT1(1)	LOCKBASE uses public key encryption to protect the data exchange via internet.
-=IDD_B2B_SETUP_2_STATICTXT2(1)	To be able to create a 'good' cryptografic key a series of 'real' random numbers is required.
+=IDD_B2B_SETUP_2_STATICTXT2(1)	To be able to create a 'good' cryptographic key a series of 'real' random numbers is required.
 =IDD_B2B_SETUP_2_STATICTXT3(1)	Please move around your mouse cursor over this window until the display below has reached a value of 100%.
 =IDD_B2B_SETUP_2_STATICTXT4		0 %
 =IDD_B2B_SETUP_2_STATICTXT5		100%
@@ -1842,7 +1842,7 @@
 
 =IDD_B2B_SETUP_3(2)	LOCKBASE B2B - Setup - Key Generation
 =IDD_B2B_SETUP_3_STATICTXT1(1)	Your 'visiting card' is ready to be created. Please check your entries another time and press 'Finish' if ok.
-=IDD_B2B_SETUP_3_STATIC_MSG(1)	Creating the cryptografic key\nYour 'visiting card' was successfully created.
+=IDD_B2B_SETUP_3_STATIC_MSG(1)	Creating the cryptographic key\nYour 'visiting card' was successfully created.
 =IDD_B2B_SETUP_3_STATIC_ADDRESS(1)	Address:
 =IDD_B2B_SETUP_3_STATICTXT2(1)	Short Name:
 
@@ -1869,12 +1869,12 @@
 =IDD_B2B_RECV_OK(1)	Close
 
 =IDD_B2B_SETUP_R1(2)	LOCKBASE B2B - Key Replacement
-=IDD_B2B_SETUP_R1_STATICTXT1(1)	This assistent helps you to create a new cryptografic key for your own visit card. This can be necessary, if you fear, an unauthorised person might have gained access to your current private key.
+=IDD_B2B_SETUP_R1_STATICTXT1(1)	This assistent helps you to create a new cryptographic key for your own visit card. This can be necessary, if you fear, an unauthorised person might have gained access to your current private key.
 =IDD_B2B_SETUP_R1_STATICTXT2(1)	For security reasons the key exchange needs to be authorised. Therefore the key exchange will be processed in three steps:
 =IDD_B2B_SETUP_R1_STATICTXT3(1)	1. Using this assistent you create a new cryptocrafic key, whose public part togehter with an authorisation request will be send to the LOCKBASE B2B server (will be done automatically by LOCKBASE).
 =IDD_B2B_SETUP_R1_STATICTXT4(1)	2. Körtner && Muth GmbH contacts you and verifys the identity of the new key by comparing its 'fingerprint' (a secure checksum).
 =IDD_B2B_SETUP_R1_STATICTXT5(1)	3. If the verification was successful, your new public key will be signed electronically and will be published for download in the B2B network.
-=IDD_B2B_SETUP_R1_STATICTXT6(1)	Caution: The authorisation process is not free of charge! If you don't want to create a new cryptografic key, you must cancel the process now.
+=IDD_B2B_SETUP_R1_STATICTXT6(1)	Caution: The authorisation process is not free of charge! If you don't want to create a new cryptographic key, you must cancel the process now.
 
 =IDD_B2B_ADMIN(1)	LOCKBASE B2B - Administrate Visit Cards
 =IDD_B2B_ADMIN_STATICTXT1(1)	&Visit Cards:
@@ -1901,7 +1901,7 @@
 
 =IDS_B2B_SETUP_CAPTION(1)	LOCKBASE B2B - Setup
 =IDS_B2B_SETUP_CLOSE(1)	&Close
-=IDP_B2B_SETUP_KEYREPL(1)	You created a new cyptografic key for your 'visit card' and launched an authorisation request.\nThe verification data of your new visit card are:\n\nCard Id:\t%s\nFingerprint:\t%s\n\nAs soon as the authorisation process has been finished, your new public key will be published in the B2B network.\nPlease proceed a B2B data exchange with the internet to find out, whether the authorisation process already has been finished successfully.
+=IDP_B2B_SETUP_KEYREPL(1)	You created a new cyptographic key for your 'visit card' and launched an authorisation request.\nThe verification data of your new visit card are:\n\nCard Id:\t%s\nFingerprint:\t%s\n\nAs soon as the authorisation process has been finished, your new public key will be published in the B2B network.\nPlease proceed a B2B data exchange with the internet to find out, whether the authorisation process already has been finished successfully.
 =IDP_B2B_SETUP_FACTORYCARD(0)	Error loading factory card for this installation. Possibly there is no internet connection. Setup failed.
 =IDP_B2B_SEND_SAVE_LETTER(1)	Should this text be saved as a template for future letters to this receipient?
 =IDP_B2B_SEND_LETTER_SAVED(1)	The letter was saved as template.
@@ -3429,9 +3429,9 @@
 
 =M_MAIN_FILE_B2B_P12(0)	The dialogue box to create a visit card 
 
-=M_MAIN_FILE_B2B_P13(0)	When you start the B2B module for the first time, you have to create your 'B2B visit card'. This way you receive an address, which is unique in the B2B network, and a cryptografic key is created for you. 
+=M_MAIN_FILE_B2B_P13(0)	When you start the B2B module for the first time, you have to create your 'B2B visit card'. This way you receive an address, which is unique in the B2B network, and a cryptographic key is created for you. 
 
-=M_MAIN_FILE_B2B_P14(0)	Fill in the fields, then press the button f{Next}. Now you have to help to generate a sequence of 'real' random numbers, which is necessary to create the cryptografic key. After you pressed f{Next} again, LOCKBASE is ready to create your visit card. 
+=M_MAIN_FILE_B2B_P14(0)	Fill in the fields, then press the button f{Next}. Now you have to help to generate a sequence of 'real' random numbers, which is necessary to create the cryptographic key. After you pressed f{Next} again, LOCKBASE is ready to create your visit card. 
 
 =M_MAIN_FILE_B2B_P15(0)	Notes: 
 
@@ -3445,7 +3445,7 @@
 
 =M_MAIN_FILE_B2B_P16(0)	Security note: 
 
-=M_MAIN_FILE_B2B_P16_A(0)	It is important that no unauthorized person gains access to the file 'LbwB2B' in your LOCKBASE folder. This file contains the private part of your cryptografic key. If an unauthorized person gains access to this file, he/she is possibly able to read and modify B2B transmissions addressed to you. 
+=M_MAIN_FILE_B2B_P16_A(0)	It is important that no unauthorized person gains access to the file 'LbwB2B' in your LOCKBASE folder. This file contains the private part of your cryptographic key. If an unauthorized person gains access to this file, he/she is possibly able to read and modify B2B transmissions addressed to you. 
 
 =M_MAIN_FILE_COVERSHEET(0)	System Cover Sheet 
 
@@ -3947,11 +3947,11 @@
 
 =M_MAIN_OPTIONS_B2B_P7_E(0)	f{Created at}: This field shows the creation date and time of the card. 
 
-=M_MAIN_OPTIONS_B2B_P7_F(0)	f{Public Key (Fingerprint)}: This field shows a checksum of the public key of the card, the so called fingerprint. The fingerprint allows to verify the identity of the cryptografic key, for example by comparing it to the fingerprint of the card holder on telephone. 
+=M_MAIN_OPTIONS_B2B_P7_F(0)	f{Public Key (Fingerprint)}: This field shows a checksum of the public key of the card, the so called fingerprint. The fingerprint allows to verify the identity of the cryptographic key, for example by comparing it to the fingerprint of the card holder on telephone. 
 
-=M_MAIN_OPTIONS_B2B_P7_G(0)	f{Revoked Cards}: This is a list of revoked keys of your card. You can create a new cryptografic key for your own card, which locks your old key for sending files. However, it can still be used to receive files. If you want to delete the key finally, select it in this list and press the button f{Remove} (s.b.). 
+=M_MAIN_OPTIONS_B2B_P7_G(0)	f{Revoked Cards}: This is a list of revoked keys of your card. You can create a new cryptographic key for your own card, which locks your old key for sending files. However, it can still be used to receive files. If you want to delete the key finally, select it in this list and press the button f{Remove} (s.b.). 
 
-=M_MAIN_OPTIONS_B2B_P7_H(0)	f{Replace...}: This command allows to create a new cryptografic key for your card. This can be necessary, if you fear, an unauthorised person might have gained access to your private key. An assistant leads you through the creation process. Please notice that an authentificated key replacement by the B2B environment is not free of charge! 
+=M_MAIN_OPTIONS_B2B_P7_H(0)	f{Replace...}: This command allows to create a new cryptographic key for your card. This can be necessary, if you fear, an unauthorised person might have gained access to your private key. An assistant leads you through the creation process. Please notice that an authentificated key replacement by the B2B environment is not free of charge! 
 
 =M_MAIN_OPTIONS_B2B_P7_I(0)	f{Remove}: This command allows to delete the visit card of a receipient or a revoked key. If you remove a receipient's card, you will not be able to send files to this adress anymore. If you remove a revoked key, you will not be able to receive any files, which possibly still have been encrypted by this key. 
 
@@ -4351,15 +4351,15 @@
 
 =M_DLG_DATA_LOCATION_P3_C(0)	f{Description}: Enter an additional description for the location here.
 
-=M_DLG_DATA_LOCATION_P3_D(0)	f{Grafics File}, f{File...}: Click the button f{File...} to open a file dialogue, which helps you to select the grafics file for the floor plan. The file name will be dislayed in the field f{Grafics File}. You can also enter directory and name of the grafics file by hand. The file types BMP, JPG/JPEG, PNG, TIF/TIFF, TGA, PCT, WMF and EMF are supported. Absolute as well as relative path names are possible. 
+=M_DLG_DATA_LOCATION_P3_D(0)	f{Graphics File}, f{File...}: Click the button f{File...} to open a file dialogue, which helps you to select the graphics file for the floor plan. The file name will be dislayed in the field f{Graphics File}. You can also enter directory and name of the graphics file by hand. The file types BMP, JPG/JPEG, PNG, TIF/TIFF, TGA, PCT, WMF and EMF are supported. Absolute as well as relative path names are possible. 
 
 =M_DLG_DATA_LOCATION_P3_E(0)	f{@ Serial No.}: This button inserts the character '@' (consecutive number) in the text of the focussed entry field.
 
 =M_DLG_DATA_LOCATION_P4(0)	Notes: 
 
-=M_DLG_DATA_LOCATION_P4_A(0)	To obtain floor plan files for your building we recommend to contact the responsible architect. All common CAD programs are able to export floor plan drawings in one of the supported file types. The following grafics file formats are supported: BMP, JPG/JPEG, PNG, TIF/TIFF, TGA, PCT, WMF and EMF. 
+=M_DLG_DATA_LOCATION_P4_A(0)	To obtain floor plan files for your building we recommend to contact the responsible architect. All common CAD programs are able to export floor plan drawings in one of the supported file types. The following graphics file formats are supported: BMP, JPG/JPEG, PNG, TIF/TIFF, TGA, PCT, WMF and EMF. 
 
-=M_DLG_DATA_LOCATION_P4_B(0)	The selected grafics files are not embedded into, but only linked to the master key system's file. Therefore, if you archive or send LOCKBASE files containing floor plans you have to add the belonging grafics files. Otherwise the floor plan cannot be viewed by the receiver. 
+=M_DLG_DATA_LOCATION_P4_B(0)	The selected graphics files are not embedded into, but only linked to the master key system's file. Therefore, if you archive or send LOCKBASE files containing floor plans you have to add the belonging graphics files. Otherwise the floor plan cannot be viewed by the receiver. 
 
 =M_DLG_DATA_CONNECT(0)	Connections 
 
