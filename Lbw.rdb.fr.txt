@@ -473,7 +473,7 @@
 =IDD_SYSHEAD_CHECK_ALARM(1)	Afficher remarques au &démarrage
 =IDD_SYSHEAD_CHECK_PROTECT_CALC(1)	Protéger c&alcul existant
 =IDD_SYSHEAD_STATIC_5(1)	Re&vendeur:
-=IDD_SYSHEAD_STATIC_6(1)	&Type d'installation:
+=IDD_SYSHEAD_STATIC_6(1)	&Type de système:
 =IDD_SYSHEAD_STATIC_7(1)	Pr&oduit:
 =IDD_SYSHEAD_STATIC_8(1)	Date de &fabrication:
 =IDD_SYSHEAD_STATIC_9(1)	Dernière &modification:
@@ -926,7 +926,7 @@
 =IDD_CALCEDIT_BUTTON_EXCL(1)	&Exclusif
 
 =IDD_CFG_LOADFORMAT_STATICTXT2(1)	&Revendeur:
-=IDD_CFG_LOADFORMAT_STATICTXT3(1)	&Type d'installation:
+=IDD_CFG_LOADFORMAT_STATICTXT3(1)	&Type de système:
 =IDD_CFG_LOADFORMAT_STATICTXT4(1)	&Produit:
 =IDD_CFG_LOADFORMAT_STATICTXT5(1)	R&emarques:
 =IDD_CFG_LOADFORMAT_STATICTXT6(1)	&Afficher remarques au démarrage:
@@ -1035,7 +1035,7 @@
 =IDS_CALC_EDITCODE(1)	Editer la combinaison de la fermeture focalisée\nEditer la combinaison de la fermeture focalisée
 =IDS_CALC_CALC(1)	Démarrer/arrêter le calcul du système de fermeture\nDémarrer/arrêter le calcul du système de fermeture
 =IDS_CALC_TRANSFER(1)	Transfert des données de ou vers la base de données\nTransfert des données de ou vers la base de données
-=IDS_FILE_READER(1)	Crée des fichiers Manager Lite avec le système actuellement chargé
+=IDS_FILE_READER(1)	Crée des fichiers Manager lite avec le système actuellement chargé
 =IDS_OPTIONS_LASTFILE(1)	Détermine, si LOCKBASE charge ou non le dernier fichier utilisé au démarrage.
 =IDS_OPTIONS_TOOLBAR(1)	Afficher ou cacher la barre d'outils
 =IDS_OPTIONS_STATUS_BAR(1)	Afficher ou cacher la barre d'état
@@ -1052,7 +1052,7 @@
 =IDS_FILE_B2B_SENDTHIS(1)	Ouvre une boîte de dialogue pour l'envoi de l'actuel système de fermeture\nOuvre une boîte de dialogue pour l'envoi de l'actuel système de fermeture
 =IDS_FILE_B2B_EXCHANGE(1)	Transmet les fichiers prêts à l'envoi et reçoit le courrier entrant par Internet
 =IDS_OPTIONS_B2B_AUTOEXCHANGE(1)	Détermine que l'échange de données est effectué automatiquement au démarrage du programme
-=IDS_EDIT_CONSISTENCY(1)	Vérifie si l'installation contient des désignations de cylindres ou de clés doubles, etc.
+=IDS_EDIT_CONSISTENCY(1)	Vérifie si le sytème contient des désignations de cylindres ou de clés doubles, etc.
 =IDS_VIEW_GROUNDPLAN(1)	Bascule entre le Plan de Local et la représentation sous forme de listes des portes.
 =AFX_IDS_IDLEMESSAGE(1)	F1 pour l'aide
 =AFX_IDS_HELPMODEMESSAGE(1)	Sélectionnez un objet pour lequel vous voulez obtenir de l'aide
@@ -1114,12 +1114,12 @@
 =IDS_PRTF_COVERSHEET(1)	Page de garde\n\n\nHistoire:
 =IDS_PRTF_MATRIXPRN(1)	Plan d'Organigramme
 =IDS_PRTF_PINNINGLIST(1)	Plan de montage
-=IDS_PRTF_CYLREPAIR(1)	Ordre\nOrdre de réparation de cylindre\n\nAvec celui-ci nous commandons respectivement 1 pièce du/des cylindre(s) suivant(s):||Date:|Installation-de-fermeture:|Produit:|(Ville, Date)|(Signature)|A|Qté-de-commande
+=IDS_PRTF_CYLREPAIR(1)	Ordre\nOrdre de réparation de cylindre\n\nAvec celui-ci nous commandons respectivement 1 pièce du/des cylindre(s) suivant(s):||Date:|Système-de-fermeture:|Produit:|(Ville, Date)|(Signature)|A|Qté-de-commande
 =IDS_PRTF_CYL2KEY(1)	Liste de connexions\nListe cylindres - clés
 =IDS_PRTF_CYLINDER(1)	Liste\nListe de cylindres
 =IDS_PRTF_BITTINGLIST(1)	Liste de tailles de clés
-=IDS_PRTF_KEYISSUE(1)	Reçu de sortie de clé\n\n\nMonsieur/Madame @ confirme par la présente la réception de la/des clé(s) suivantes||Date:|Installation-de-fermeture:|Produit:|(Ville, Date)|(Signature)|A
-=IDS_PRTF_KEYRETURN(1)	Reçu de sortie de clé\n\n\nJe confirme par la présente la réception de la/des clé(s) suivantes de la part de Monsieur/Madame @||Date:|Installation-de-fermeture:|Produit:|(Ville, Date)|(Signature)|A
+=IDS_PRTF_KEYISSUE(1)	Reçu de sortie de clé\n\n\nMonsieur/Madame @ confirme par la présente la réception de la/des clé(s) suivantes||Date:|Système-de-fermeture:|Produit:|(Ville, Date)|(Signature)|A
+=IDS_PRTF_KEYRETURN(1)	Reçu de sortie de clé\n\n\nJe confirme par la présente la réception de la/des clé(s) suivantes de la part de Monsieur/Madame @||Date:|Système-de-fermeture:|Produit:|(Ville, Date)|(Signature)|A
 =IDS_PRTF_KEYSTOCK(1)	Liste de stocks de clés\n\n\nSignature
 =IDS_PRTF_CONNECTDLG(1)	Connexions
 =IDS_PRTF_KEYEDITDLG(1)	Liste de copies de clés
@@ -1131,7 +1131,7 @@
 =IDS_PRN_PRINTLIB(1)	Portrait|Paysage
 =IDS_PRN_PINNING(1)	Piston
 =IDS_PRN_PAGEINFO(1)	Page %i de %n\nPage %i de %n (Extrait)\nPage %c%r de %nc%nr\nPage %i (Extrait)
-=IDS_MTRX_INFOSTR(1)	Système No.:\nPossesseur:\nNuméro client:\nRue:\nVille:\nPays:\nRevendeur:\nType d'installation:\nProduit:\nDate de fabrication:\nDernière modification:\nRemarques:\n
+=IDS_MTRX_INFOSTR(1)	Système No.:\nPossesseur:\nNuméro client:\nRue:\nVille:\nPays:\nRevendeur:\nType de système:\nProduit:\nDate de fabrication:\nDernière modification:\nRemarques:\n
 =IDP_DOC_ERRORCANTDELETE(1)	Non tous les registres des données peuvent être supprimé!
 =IDP_DOC_RECALC(1)	Cette saisie nécessite probablement un recalcul partiel du système.\nVérifiez le calcul actuel avec le programme de calcul ou annulez.
 =IDS_DOC_UPDATE(2)	Mise à jour de la version du système en cours... (%d) 
@@ -1150,8 +1150,8 @@
 =IDS_DOC_EVVASAT_TXT(1)	Installation-EVVA:\nOui\nNon\nRéception marchandise:\nRécetption facture:\nCréé par: \nClé sur No de \n
 =IDS_DOC_EVVASAT_ERR(1)	Erreur de lecture du fichier '%s', ligne %ld, champ %ld:\nLe fichier ne peut pas être ouvert.\nLe format n'est pas du format attendu.\nLe champ de données n'a pas le format attendu.\nPas assez de mémoire vive.\nFin de fichier inattendue.\nErreur interne. 
 =IDP_CALC_RECALC(1)	Par cette sélection un recalcul complet est nécessaire!
-=IDP_CALC_NOGROUP(1)	Indications concernant le groupe de codes invalides ou manquantes !
-=IDP_CALC_NOPROFILE(1)	Sélection de profil invalide !
+=IDP_CALC_NOGROUP(1)	Indications concernant le groupe de codes invalides ou manquantes!
+=IDP_CALC_NOPROFILE(1)	Sélection de profil invalide!
 =IDP_CALC_NOHS(1)	Code de clé de passe invalide:\n%s
 =IDP_CALC_GROUPERROR(1)	Conflit de groupes!\nVariures du groupe %s peuvent ouvrir des cylindres du groupe %s. %s
 =IDP_CALC_KILLALL(1)	Par cette saisie un recalcul complet est nécessaire! 
@@ -1206,7 +1206,7 @@
 =IDS_STRFRM_DOOR(1)	\n<S!>ID de porte\n<S!>Bâtiment/Dép.\nDescription\n<S!>Longueur de cylindre\nID de serrure.\nType de serrure 1 \nDimensions serrure 1\nID de serrure 2\nType de serrure 2\nDimensions de serrure 2\n
 =IDS_STRFRM_FUNCTION_1(1)	\n<S!>Fonction de clé\n<S!>Description\n<S!>Nombre de copies de clés\n\n\n\nType\nDescription du type\nNombre de copies de clés (actuel)
 =IDS_STRFRM_CYLINDER_1(1)	\n<S!>Numéro\n<S!>Type\n<S!>Longueur\n<S!>Finition\n<S!>ID-Porte\n<T!>Dernière modification\nClé\n\n\n\nNombre de clés\n\nDésignation de clé\n<S!>Quantité\n<S!>Équipement spéc.\nPos.\n\n<S!>Bâtiment\nDescription du type\nCode d'article\n<S!>Commande\n\nNombre de clés (actuel)
-=IDS_STRFRM_SYSINFO(1)	Système\nPropriétaire\nNuméro client\nType d'installation\n\n\nRevendeur\nProduit\n<T>Fabrication\n<T>Modification\nRemarques\n
+=IDS_STRFRM_SYSINFO(1)	Système\nPropriétaire\nNuméro client\nType de système\n\n\nRevendeur\nProduit\n<T>Fabrication\n<T>Modification\nRemarques\n
 =IDS_STRFRM_EVENT_SYSEXP(1)	\n\n<T>Date\n\nDésignation\nOpérateur\nNuméro d'entrée\n<T>Date de commande\n<T>Date de livraison\nMode d'expédition\nRemarques\nNuméro client\nClient\nContact\nMarque client
 =IDS_STRFRM_EVENT_KEY(1)	\n\n<T>Date\n\nDésignation\nAdministrateur\nSignature\nPersonne\nClés\nRemarques\n
 =IDS_STRFRM_EVENT_CYL(1)	\n\n<T>Date\n\nDésignation\nAdministrateur\nSignature\nCylindre\nPorte\nRemarques\n
@@ -1223,13 +1223,13 @@
 =IDP_READER_CANTSEALEXE(1)	Le fichier de programme Manager lite ne peut pas être créé!
 =IDP_READER_CANTCOPYREADERFILES(1)	Les fichiers n'ont pas pu être copiés dans le répertoire cible!
 =IDS_READER_CREATINGEXE(1)	Manager lite e cours de création... 
-=IDP_READER_INVDOC(1)	Le fichier LBW.LBF est invalide et ne peut pas être ouvert !.
+=IDP_READER_INVDOC(1)	Le fichier LBW.LBF est invalide et ne peut pas être ouvert !
 =IDP_READER_CONFIRM(1)	Le numéro du système et les coordonnées du client ne peuvent plus être modifiées par la suite dans la page de garde.\rEtes-vous sûr que ces renseignements sont corrects?
 =IDP_READER_USERDATA(1)	Le numéro système ou les coordonnées du client sont incomplets.\r\rPour pouvoir créer Manager lite, vous devez compléter le numéro système ainsi que les coordonnées du client.
 =IDP_READER_UNLOCK(1)	Le numéro de licence est invalide!\r\rPour créer une disquette Manager lite, vous devez saisir un numéro de licence valide, que vous pouvez obtenir auprès de votre revendeur LOCKBASE.
 =IDS_READER_DISKSPACE(1)	La capacité du support de données du lecteur cible est épuisée.\rVeuillez insérer un support de données supplémentaire.
 =IDP_READER_DEMO(1)	Vous n'avez pas saisi de numéro de licence.\rLOCKBASE va créer une disquette de démonstration Manager lite pour ce système de fermeture.
-=IDP_READER_PASSWORD(1)	Cette installation est protégée par mot de passe. Ce mot de passe doit-il être repris pour la protection de la disquette Manager Lite ?
+=IDP_READER_PASSWORD(1)	Cette système est protégé par mot de passe. Ce mot de passe doit-il être repris pour la protection de la disque Manager lite?
 =IDS_PRTF_ASSEMBLY(1)	Liste de composants\n\n\nGoupilles|Intercalaires|Stator|Clé|Type|Profil|No.|Type produit|Équip. spéc.|Finition|Longueur|Code d'article|Description du type|Longueur/Type de rotor|Clé de passe générale|Clé de passe générale|Clé de passe générale de groupe|Clé de passe partielle|Clé individuelle|Prix|Total|Total d'ordre|Total
 =IDS_PRTF_KEY_HISTORY(1)	Historique de clés
 =IDS_PRTF_CTRLKEYLIST(1)	Liste de clés de contrôle\n\n\nClé de contrôle|Cylindre
@@ -1250,8 +1250,8 @@
 =IDS_MACHINE_ECOSSTR(1)	Installer Ecos II\nProduit/utilisation:\n&Utilisation:\n
 =IDP_MACHINE_ECOSWARN(1)	Attention!\nLes descriptions de clés contiennent des caractères autres que numérique\nLa fonction de série Ecos II ne peut pas être utilisée pour fraiser les clés transmises.
 =IDP_MACHINE_NOTRANSFER(1)	L'Interface Machine n'est accessible qu'après la transmission des valeurs de taille et de piston du Module de Calcul dans la base de données.\nAucun transfert n'a pourtant été effectué.
-=IDP_MACHINE_BRANDERROR(0)	Les installations de cette fabrication ne peuvent pas être sorties sur la machine sélectionnée.
-=IDS_MACHINE_QUATTROSTR(1)	Installer Quattrocode\nProduit/No de série Silce:\nNo de série Silca:\n
+=IDP_MACHINE_BRANDERROR(0)	Les systèmes de cette produit ne peuvent pas être sorties sur la machine sélectionnée.
+=IDS_MACHINE_QUATTROSTR(1)	Installer Quattrocode\nProduit/No de série Silca:\nNo de série Silca:\n
 =IDP_CGA_NOCGA(1)	L'administration de groupes de codes ne peut être démarrée.\n\nLe fichier LBWCGA.EXE n'est pas présent dans le répertoire LOCKBASE, a été endommagé ou ne peut être lancé pour d'autres raisons (par. ex. Windows 3.1 ou antérieur).
 =IDP_LISTS_CREATE_DOORS(1)	Les registres des descriptions de portes des cylindres doivent-ils être créés?\nLes portes %lu ont été créées.\nToutes les portes sont déjà disponibles.
 =IDP_LISTS_NOKEYRETURN(1)	Aucune date de retour de clé dépassée.
@@ -1264,11 +1264,11 @@
 =IDP_BRANDSET_IMPORTERROR(1)	Erreur lors de la initialisation du module de fabrication '%s':\nLe fichier '%s' ne peut être ouvert.\nLe fichier '%s' ne contient que des données invalides.\nImpossible d'écrire dans le fichier '%s'.
 =IDP_BRANDSET_IMPORTOK(1)	Les données pour le module de fabrication '%s' ont été lues avec succès.
 =IDP_DOC_ASK_TO_SAVE(1)	Les données dans '%s' ont été modifiées.\nVoulez-vous enregistrer les modifications?
-=IDP_DOC_CGA_TO_SAVE(1)	Notez que vous devez annuler manuellement les modifications effectuées dans l'administration de groupes de codes si vous n'enregistrez pas cette installation.
+=IDP_DOC_CGA_TO_SAVE(1)	Notez que vous devez annuler manuellement les modifications effectuées dans l'administration de groupes de codes si vous n'enregistrez pas ce système.
 =IDS_DOC_EVVASAT_UNRESOLVED(1)	Erreur lors de la lecture du fichier '%s', ligne %ld, champ %ld:\nLe plan d'organigramme a été abandonné. Vous trouverez de plus amples informations pour la lecture du plan d'organigramme dans votre manuel Evva-Satellit.
 =IDP_DOC_IMPORTERROR1(1)	Erreur lors de la conversion des données!\nLe fichier %s, registre %ld, champ %ld contient des données invalides ou inattendues.\nLe fichier %s, registre %ld contient des données invalides ou inattendues.
 =IDP_DOC_IMPORTERROR_GENERAL(1)	Erreur lors de l'importation de données!\nLe répertoire %s ne peut pas être créé.\nFichier %s introuvable.  Ce programme doit se trouver dans le répertoire LOCKBASE.\nLe fichier d'archive Zip ne contient pas les données attendues.
-=IDP_DOC_KWDERROR(1)	Erreur lors de la conversion de données!\nLe fichier %s n'est pas en format KWD.\nLe type de ce ficher KWD n'est pas pris en charge.\rPour l'instant, seul le type de 'l'installation de fermeture mécanique complet avec fermetures' est pris en charge. 
+=IDP_DOC_KWDERROR(1)	Erreur lors de la conversion de données!\nLe fichier %s n'est pas en format KWD.\nLe type de ce ficher KWD n'est pas pris en charge.\rPour l'instant, seul le type du 'système de fermeture mécanique complet avec fermetures' est pris en charge. 
 =IDS_DOC_KWD(1)	La conversion des données est en cours: Fichier %s, ligne %ld ...\nCréation des copies des clés %d%% ..\nCréation des clés individuelles %d%% ...\nCréation des connexions %d%% ...\n
 =IDS_DOC_EXPORT(1)	La conversion des données est en cours: %s (%d%%) ...
 =IDS_DOC_IMPORT_GENERAL(1)	Extraction des données ..\nVérification des fichiers ...\nConversion des données en cours: %s (%d%%) ...
@@ -1310,8 +1310,8 @@
 =IDP_B2B_CONFSENDREPLY(1)	Voulez-vous envoyer le fichier en réponse à son propriétaire ?\r\rLe fichier sera ensuite supprimé de votre ordinateur et ne pourra plus être édité.
 =IDP_B2B_NEWMAIL(1)	Vous avez du courrier. Voulez-vous consulter votre boîte aux lettres maintenant ?
 =IDP_B2B_QUERYEND(1)	LOCKBASE échange actuellement des données avec Internet. Voulez-vous interrompre cet échange de données ?
-=IDP_B2B_EXPIRED(1)	Les installation de fermeture saisies avec la matrice LOCKBASE-B2B doivent mener à une commande sous 6 mois. Sinon il sera impossible de modifier les installations à nouveau.\r\rVous pouvez lever ce blocage en envoyant la pièce jointe en tant que commande au fabricant.
-=IDP_B2B_WARNEXPIRE(1)	Veuillez noter que les installations de fermeture créées avec ce programme doivent se concrétiser par une commande sous 6 mois. Le cas échéant elles ne pourront plus être éditées ultérieurement !
+=IDP_B2B_EXPIRED(1)	Les systèmes de fermeture saisies avec la Matrix LOCKBASE-B2B doivent mener à une commande sous 6 mois. Sinon il sera impossible de modifier les systèmes à nouveau.\r\rVous pouvez lever ce blocage en envoyant la pièce jointe en tant que commande au fabricant.
+=IDP_B2B_WARNEXPIRE(1)	Veuillez noter que les systèmes de fermeture créés avec ce programme doivent se concrétiser par une commande sous 6 mois. Le cas échéant ils ne pourront plus être édités ultérieurement !
 =IDP_B2B_CYLTYPEDB(1)	Une mise à jour pour le bibliothèque de type de cylindre a été trouvée.\r\rFabricant:\t%s\r\r La mise à jour sera installée maintenant.
 =IDP_B2B_PUBKEYAUTH(1)	La demande d'autorisation pour la nouvelle créée clé cryptographique a été transférée au serveur LOCKBASE B2B avec succès.
 =IDP_B2B_PUBKEYCERT(1)	La nouvelle créée clé cryptographique a été certifiée et publiée dans le réseau B2B.\r\rLa nouvelle clé cryptographique est ainsi actif.
@@ -1340,7 +1340,7 @@
 =IDP_USERS_ERR_OLDPWD(1)	L’ancien mot de passe est incorrect.
 =IDP_USERS_CHGPWD(1)	Le mot de passe pour l’utilisateur '%s' a été modifié.
 =IDS_USERS_INSTRUCT(1)	Initialisation de la base de données des utilisateurs.Veuillez saisir un nom et un mot de passe pour l'administrateur maître:|Pour s'identifier dans LOCKBASE, veuillez saisir votre nom d'utilisateur et votre mot de passe dans les champs suivants:|Pour modifier votre mot de passe, tapez d'abord votre ancien mot de passe, puis votre nouveau mot de passe:
-=IDS_USERS_RIGHTS(1)	Vue:0-3:Aperçu Listes;Plan d'Organigramme;Module de Calcul;Designer Système\nAccès aux données:10-12:Modifier installations;Données techniques;Modifier installations calculées\nOutils:50-52:Interface machine;Echange de données Internet (B2B);Charger et installer les mises à jour
+=IDS_USERS_RIGHTS(1)	Vue:0-3:Aperçu Listes;Plan d'Organigramme;Module de Calcul;Designer Système\nAccès aux données:10-12:Modifier systèmes;Données techniques;Modifier systèmes calculés\nOutils:50-52:Interface machine;Echange de données Internet (B2B);Charger et installer les mises à jour
 =IDS_UPDATE_TXT0(1)	LOCKBASE va tenter de contrôler si des nouvelles mises à jour sont disponibles sur le serveur Web Lockbase pour cette installation.\nAppuyez sur 'Suivant >>' pour poursuivre, ou sur 'Annuler' pour quitter l'opération.\n\nSi vous désirez désactiver la fonction de mise à jour Web, sélectionnez 'À propos de LOCKBASE...' dans le menu d'Aide et décochez la case 'Contrôler automatiquement tous les...'.
 =IDS_UPDATE_TXT1(1)	\nConnexion avec le serveur Web LOCKBASE en cours ...
 =IDS_UPDATE_TXT2(1)	La mise à jour suivante a été trouvée:\n\n%s\n\nAppuyez sur 'Suivant >>' pour charger et installer la mise à jour maintenant ou sur 'Annuler' pour quitter l'opération.
@@ -1357,7 +1357,7 @@
 =IDS_PRTFX_COVERSHEET(1)	Historique
 =IDS_PRTFX_MATRIXPRN(1)	Cylindres central|&Format paysage|&Sortir variures planifiées|&Plan de fonction uniquement|&Disposition*Clé haut*Cylindre haut*Plan d'Organigramme Euro*Groupes des Cylindres|Facteur de &graduation (%)
 =IDS_PRTFX_PINNINGLIST(1)	&Pistons accumulatifs|&Rassembler identiques|&Sortir variures planifiées|&Nombre par ligne|&Evaluate cylinder quantity|&Minimum lines per pinning
-=IDS_PRTFX_LETTER(1)	Texte lettre|Destinataire|Date|Installation|Produit|Ville, Date|Signature|Qté-de-commande|&Champ de qté de commande|&Adresse à (mm)|&Titre à (mm)
+=IDS_PRTFX_LETTER(1)	Texte lettre|Destinataire|Date|Système|Produit|Ville, Date|Signature|Qté-de-commande|&Champ de qté de commande|&Adresse à (mm)|&Titre à (mm)
 =IDS_PRTFX_KEYSTOCK(1)	Signature|&Afficher le champ de signature|&Stock*Tous*Actuel*Disponible*Remise*Détruite
 =IDS_PRTFX_ASSEMBLY(1)	Goupilles|Intercalaires|Stator|Clé|Type|Profil|Nombre|Type de produit|Équipement spécial|Finition|Longueur|Code d'article|Description du type|Longueur/Type de rotor|Clé de passe générale|Clé de passe générale|Clé de passe générale de groupe|Clé de passe partielle|Clé individuelle|Prix|Total|Total d'ordre|Total|&Matériau de marquage|&Nombre de clés|&Longueurs et types de cylindres|&Sortie séparée des rotors|&Imprimez le code d'article
 =IDP_PRN_SELECTDLG_CNF_REMFORM(1)	Voulez-vous vraiment supprimer ce document?
@@ -1672,10 +1672,10 @@
 =IDS_CGA_USAGE(1)	Objet\nSystème
 =IDP_CGA_CGNOTFOUND(1)	Les groupes de codes suivant n'ont pas pu être trouvés:\r%s.\r\rRépartissez le(s) groupe(s) de codes supérieur afin qu'ils puissent être utilisés. 
 =IDP_CGA_COMBINE(1)	Le groupe de codes sélectionné peut être combiné avec le groupe de codes déjà existant ou il peut le remplacer.\r\rVoulez-vous combiner le groupe de codes avec le groupe de codes présent ?
-=IDP_CGA_WARNMULTI(1)	Les groupes de codes suivants sont verrouillés ou déjà utilisés par d'autres installations:\n
+=IDP_CGA_WARNMULTI(1)	Les groupes de codes suivants sont verrouillés ou déjà utilisés par d'autres systèmes:\n
 =IDP_CGA_REMOVE_OLD(1)	Les groupes de codes sont déjà saisis pour le système 's'. Les saisies actuelles doivent-elles êtres supprimées?
-=IDP_CGA_WARN(1)	%s%s\rUne nouvelle utilisation est fortement déconseillée, car il est très probable qu'elle induise une fermeture non-voulue de clés n'apparenant pas à l'installation\r\rVoulez-vous tout de même utiliser le groupe de codes. 
-=IDP_CGA_WARNSINGLE(1)	Ce groupe de codes a déjà été déjà utilisé pour une ou plusieurs installations.\n
+=IDP_CGA_WARN(1)	%s%s\rUne nouvelle utilisation est fortement déconseillée, car il est très probable qu'elle induise une fermeture non-voulue de clés n'apparenant pas au système\r\rVoulez-vous tout de même utiliser le groupe de codes. 
+=IDP_CGA_WARNSINGLE(1)	Ce groupe de codes a déjà été déjà utilisé pour un ou plusieurs systèmes.\n
 =IDP_CGA_ERRLOGIN(1)	Erreur lors de l'accès à l'administration des groupes de codes:\rL'accès est actuellement bloqué par d'autres utilisateurs dans le réseau.
 =IDP_APPLIC_DDEONLY(1)	L'administration de groupes de codes peut pas créer de connexion à LOCKBASE.\nLe programme sera arrêté. 
 =IDP_APPLIC_NOFAB(1)	Le fichier de fabrications '%s' ne peut être ouvert ou contient des données invalides. L'administration de groupes de codes ne peut pas démarrer.
@@ -1774,11 +1774,11 @@
 =IDS_HLP_BTNNEXT(1)	En cliquant sur ce bouton vous fermez la saisie dans ce masque et basculez vers le prochain masque d'entrée.
 =IDS_HLP_PGSYS(1)	Dans ce masque d'entrée vous déterminez les attributs généraux du système. Les données entrées ici sont utilisées, pour remplir la page de garde et pour déterminer la taille du système de fermeture.
 =IDS_HLP_SYSNMB(1)	Entrez dans ce champ le numéro système.
-=IDS_HLP_SYSOWNER(1)	Entrez dans ce champ l'adresse d'objet, à laquelle l'installation est destinée. Vous pouvez utiliser la touche <Entrée>, pour insérer des changements de ligne dans le texte.
+=IDS_HLP_SYSOWNER(1)	Entrez dans ce champ l'adresse d'objet, à laquelle le système est destiné. Vous pouvez utiliser la touche <Entrée>, pour insérer des changements de ligne dans le texte.
 =IDS_HLP_SYSSUP(1)	Entrez dans ce champ l'adresse du donneur d'ordre ou du revendeur, qui s'occupe du système (probablement votre adresse). Vous pouvez utiliser la touche <Entrée>, pour insérer des changements de ligne dans le texte.
 =IDS_HLP_SYSCUSTN(1)	Entrez dans ce champ votre numéro client, si existant.
 =IDS_HLP_SYSBRAND(1)	Choisissez ici le produit de cylindre, avec lequel le système de fermeture doit être monté.
-=IDS_HLP_SYSPROD(1)	Dans ce champ vous déterminez, comment l'installation doit être fabriquée:\n\nSystème d'usine: Le système de fermeture sera calculé et fabriqué à l'usine\n\nSystème fabriqué à l'usine: Le système sera calculé avec votre profil individuel, mais sera fabriqué à l'usine\n\nCalculer uniquement: Le système sera calculé avec votre profil individuel, mais sera fabriqué de vous et pas à l'usine.
+=IDS_HLP_SYSPROD(1)	Dans ce champ vous déterminez, comment le système doit être fabriqué:\n\nSystème d'usine: Le système de fermeture sera calculé et fabriqué à l'usine\n\nSystème fabriqué à l'usine: Le système sera calculé avec votre profil individuel, mais sera fabriqué à l'usine\n\nCalculer uniquement: Le système sera calculé avec votre profil individuel, mais sera fabriqué de vous et pas à l'usine.
 =IDS_HLP_SYSPROF(1)	Entrez-y votre profil individuel resp. le groupe de code, avec lequel le système doit être calculé. C'est nécessaire aux systèmes fabriqué à l'usine ou systèmes auxquels soient calculés uniquement.
 =IDS_HLP_SYSKEY(1)	Entrez-y le nombre des fonctions de clés supérieures, c.-à-d. le nombre des fonctions de clés de groupe ou des fonctions de clés passe-partout général nécessaires.\n\nSi vous n'avez besoin de qu'une clé passe, mais pas une clé groupe, saisissez '1'.
 =IDS_HLP_SYSCYL(1)	Indiquez ici le nombre des cylindres et/ou portes nécessaires.
@@ -1877,7 +1877,7 @@
 
 =M_INTRO_P11(0)	LOCKBASE Professional 
 
-=M_INTRO_P12(0)	Cette version de LOCKBASE offre tout ce qui est nécessaire aux fabricants d'installations de fermetures pour la planification, le calcul et l'administration de leurs systèmes. Outre les quatre registres de données du l'w{Aperçu Listes}->LST, le w{Plan d'Organigramme}->MTRX et le w{Module de Calcul}->CALC avec l'w{Administration des Groupes de Codes}->CALC_CGA, LOCKBASE w{Professional} comprend également de w{Designer Système}->DSGN, grâce auquel il est possible de structurer facilement et de saisir des installations de fermetures hiérarchisées. Les sous-groupes d'un système de fermeture peuvent être calculés individuellement, de manière à ce que la taille et la répartition des variations des combinaisons soient facilement optimisables. 
+=M_INTRO_P12(0)	Cette version de LOCKBASE offre tout ce qui est nécessaire aux fabricants de systèmes de fermetures pour la planification, le calcul et l'administration de leurs systèmes. Outre les quatre registres de données du l'w{Aperçu Listes}->LST, le w{Plan d'Organigramme}->MTRX et le w{Module de Calcul}->CALC avec l'w{Administration des Groupes de Codes}->CALC_CGA, LOCKBASE w{Professional} comprend également de w{Designer Système}->DSGN, grâce auquel il est possible de structurer facilement et de saisir des systèmes de fermetures hiérarchisés. Les sous-groupes d'un système de fermeture peuvent être calculés individuellement, de manière à ce que la taille et la répartition des variations des combinaisons soient facilement optimisables. 
 
 =M_INTRO_CONVENTIONS(0)	1. A propos de ce Manuel 
 
@@ -1921,11 +1921,11 @@
 
 =M_INTRO_INSTALL_INSTALL(0)	Installation des fichiers du programme 
 
-=M_INTRO_INSTALL_INSTALL_P1(0)	Avant de pouvoir débuter votre travail avec LOCKBASE, vous devez installer le programme. Pour cela, vous trouverez le fichier 'Setup.exe' sur le CD d'installation ou sur la première disquette d'installation. 
+=M_INTRO_INSTALL_INSTALL_P1(0)	Avant de pouvoir débuter votre travail avec LOCKBASE, vous devez installer le programme. Pour cela, vous trouverez le fichier 'Setup.exe' sur le CD d'installation. 
 
 =M_INTRO_INSTALL_INSTALL_P2(0)	Ensuite, il est nécessaire d'enregistrer le programme avant de l'utiliser sur votre ordinateur (par téléphone, fax ou e-mail). 
 
-=M_INTRO_INSTALL_INSTALL_P3(0)	Le CD ou la disquette d'installation contient outre LOCKBASE lui-même également un programme d'installation. Procédez comme suit pour lancer le programme d'installation de LOCKBASE : 
+=M_INTRO_INSTALL_INSTALL_P3(0)	Le CD d'installation contient outre LOCKBASE lui-même également un programme d'installation. Procédez comme suit pour lancer le programme d'installation de LOCKBASE : 
 
 =M_INTRO_INSTALL_INSTALL_P3_A(0)	Allumez votre PC et lancez Windows (le cas échéant). 
 
@@ -2041,7 +2041,7 @@
 
 =M_INTRO_WIN_COMMANDS_P5(0)	Une lettre est soulignée dans tous les noms de commandes et de champs de saisies, fonctionnant comme raccourci clavier avec la touche k{Alt}. P.ex. vous ouvrez le menu m{Fichier} avec k{Alt+F}. 
 
-=M_INTRO_WIN_COMMANDS_P6(0)	Certaines commandes fréquemment employées peuvent être déclenchées au moyen d'un raccourci clavier, indiqué lorsqu'il existe dans le menu. Vous pouvez par exemple atteindre la commande m{Fichier - Ouvrir} au moyen de la combinaison k{Ctrl+F12} (touche de fonction k{F12}). Le menu ne doit pas être ouvert lorsque vous utilisez un raccourci clavier. 
+=M_INTRO_WIN_COMMANDS_P6(0)	Certaines commandes fréquemment employées peuvent être déclenchées au moyen d'un raccourci clavier, indiqué lorsqu'il existe dans le menu. Vous pouvez par exemple atteindre la commande m{Fichier - Ouvrir...} au moyen de la combinaison k{Ctrl+F12} (touche de fonction k{F12}). Le menu ne doit pas être ouvert lorsque vous utilisez un raccourci clavier. 
 
 =M_INTRO_WIN_COMMANDS_P7(0)	La méthode employée lors d'une commande n'a pas d'importance. Lorsque par la suite nous parlerons dans ce manuel de "sélectionner une commande" vous pouvez aussi bien le faire avec le clavier, la souris ou un raccourci clavier. Vous travaillerez plus vite avec le clavier, mais vous devez apprendre un peu plus. 
 
@@ -2059,7 +2059,7 @@
 
 =M_FSTEP_P1(0)	Plan d'Organigramme 
 
-=M_FSTEP_P2(0)	Le w{Plan d'Organigramme}->MTRX LOCKBASE aide à la saisie et à la spécification de systèmes de fermeture. C.-à-d. vous pouvez ici saisir, ajouter, supprimer ou modifier des cylindres et des clés d'une installation de fermeture. De plus vous pouvez y fixer les connexions. 
+=M_FSTEP_P2(0)	Le w{Plan d'Organigramme}->MTRX LOCKBASE aide à la saisie et à la spécification de systèmes de fermeture. C.-à-d. vous pouvez ici saisir, ajouter, supprimer ou modifier des cylindres et des clés d'un système de fermeture. De plus vous pouvez y fixer les connexions. 
 
 =M_FSTEP_P3(0)	Module de Calcul 
 
@@ -2443,7 +2443,7 @@
 
 =M_FSTEP_SETUP_DSGN_P14(0)	La boîte de dialogue w{Ajouter groupe} 
 
-=M_FSTEP_SETUP_DSGN_P15(0)	LOCKBASE crée maintenant les données du groupe 2 en une étape. La hiérarchisation de votre installation est maintenant visible en haut à gauche du w{Designer Système}->DSGN. Les nœuds (ovales) indiquent CPG, les deux rectangles les données du groupe 1 et du groupe 2. 
+=M_FSTEP_SETUP_DSGN_P15(0)	LOCKBASE crée maintenant les données du groupe 2 en une étape. La hiérarchisation de votre système est maintenant visible en haut à gauche du w{Designer Système}->DSGN. Les nœuds (ovales) indiquent CPG, les deux rectangles les données du groupe 1 et du groupe 2. 
 
 =M_FSTEP_SETUP_DSGN_P16(0)	Créez la CG1, la clé générale du groupe 1, en 
 
@@ -2517,9 +2517,9 @@
 
 =M_FSTEP_SETUP_INSKEY_P6_A(0)	Lorsque vous utilisez LOCKBASE pour le contrôle de clés, feuilletez jusqu'à la section {'Contrôle de clés avec LOCKBASE'}->FSTEP_KEYCTRL. 
 
-=M_FSTEP_SETUP_INSKEY_P6_B(0)	Lorsque vous utilisez LOCKBASE pour le calcul de systèmes de fermeture, continuez avec le chapitre suivant {'Calcul d'une installation'}->FSTEP_CALC. 
+=M_FSTEP_SETUP_INSKEY_P6_B(0)	Lorsque vous utilisez LOCKBASE pour le calcul de systèmes de fermeture, continuez avec le chapitre suivant {'Calcul d'un système'}->FSTEP_CALC. 
 
-=M_FSTEP_CALC(0)	2. Calcul d'une installation 
+=M_FSTEP_CALC(0)	2. Calcul d'un système
 
 =M_FSTEP_CALC_P1(0)	Basculez dans le w{Module de Calcul}->CALC, en 
 
@@ -2781,7 +2781,7 @@
 
 =M_MAIN_FILE_OPEN_P1_A(0)	Cliquez sur i{BTN_MAIN_OPEN.BMP} dans la barre d'outils ou 
 
-=M_MAIN_FILE_OPEN_P1_B(0)	sélectionnez la commande m{Fichier - Ouvrir}, ou 
+=M_MAIN_FILE_OPEN_P1_B(0)	sélectionnez la commande m{Fichier - Ouvrir...}, ou 
 
 =M_MAIN_FILE_OPEN_P1_C(0)	appuyez sur la combinaison de touches k{Ctrl+F12}. 
 
@@ -2793,7 +2793,7 @@
 
 =M_MAIN_FILE_OPEN_P3_B(0)	f{Nom de fichier}: Entrez le nom complet du fichier (avec l'extension de fichier .LBF) que vous voulez modifier. Ou sélectionnez un fichier de la liste. (Vous accédez à la liste d'un clic de souris ou avec la touche k{Tab}.) 
 
-=M_MAIN_FILE_OPEN_P3_C(0)	f{Type de fichier}: Sélectionnez le type de fichier "Fichier LOCKBASE (*.lbf)" lorsque vous voulez ouvrir une installation de fermeture saisie avec LOCKBASE. Sélectionnez un autre format, lorsque vous voulez ouvrir une installation de fermeture créée avec un autre logiciel (voir chap. III-1, {'Import de données du fichiers CSV'}->MAIN_FILE_OPEN_IMPORT_CSV). 
+=M_MAIN_FILE_OPEN_P3_C(0)	f{Type de fichier}: Sélectionnez le type de fichier "Fichier LOCKBASE (*.lbf)" lorsque vous voulez ouvrir un système de fermeture saisie avec LOCKBASE. Sélectionnez un autre format, lorsque vous voulez ouvrir un système de fermeture créé avec un autre logiciel (voir chap. III-1, {'Import de données du fichiers CSV'}->MAIN_FILE_OPEN_IMPORT_CSV). 
 
 =M_MAIN_FILE_OPEN_P3_D(0)	f{Ouvrir}: Cliquez sur ce bouton pour ouvrir le fichier sélectionné. 
 
@@ -2939,7 +2939,7 @@
 
 =M_MAIN_FILE_B2B_P1(0)	Cette commande ouvre un sous-menu, dans lequel vous avez accès aux fonctions du Module B2B de LOCKBASE. 
 
-=M_MAIN_FILE_B2B_P2(0)	LOCKBASE B2B (pour 'business to business') est un module qui permet l'échange confortable et sécurisé de données d'installations de fermeture via Internet. Le Module B2B s'occupe de l'adressage, de la compression, du cryptage et du transfert des données à envoyer. L'utilisation du procédé de cryptage à 'clé publique' 'RSA' permet de garantir la norme de sécurité actuellement la plus élevée possible pour le cryptage de données. 
+=M_MAIN_FILE_B2B_P2(0)	LOCKBASE B2B (pour 'business to business') est un module qui permet l'échange confortable et sécurisé de données de systèmes de fermeture via Internet. Le Module B2B s'occupe de l'adressage, de la compression, du cryptage et du transfert des données à envoyer. L'utilisation du procédé de cryptage à 'clé publique' 'RSA' permet de garantir la norme de sécurité actuellement la plus élevée possible pour le cryptage de données. 
 
 =M_MAIN_FILE_B2B_P3(0)	Le dialogue pour l'envoi d'un fichier 
 
@@ -3013,7 +3013,7 @@
 
 =M_MAIN_FILE_COVERSHEET(0)	Page de garde 
 
-=M_MAIN_FILE_COVERSHEET_P1(0)	La w{Page de garde} permet d'administrer les données, qui se réfèrent à l'installation de fermeture dans son ensemble. Ces données sont, outre le numéro système, des indications sur l'objet, le revendeur, le produit de cylindre, etc., mais également des extensions ou un mot de passe attribué à l'installation. La boîte de dialogue w{Page de garde} s'ouvre automatiquement après la création du nouveau système au moyen de la commande m{Fichier - Nouveau}. (voir chap. III-1, {'Créer un nouveau système de fermeture'}->MAIN_FILE_NEW). Vous pouvez modifier la page de garde ultérieurement. 
+=M_MAIN_FILE_COVERSHEET_P1(0)	La w{Page de garde} permet d'administrer les données, qui se réfèrent au système de fermeture dans son ensemble. Ces données sont, outre le numéro système, des indications sur l'objet, le revendeur, le produit de cylindre, etc., mais également des extensions ou un mot de passe attribué au système. La boîte de dialogue w{Page de garde} s'ouvre automatiquement après la création du nouveau système au moyen de la commande m{Fichier - Nouveau}. (voir chap. III-1, {'Créer un nouveau système de fermeture'}->MAIN_FILE_NEW). Vous pouvez modifier la page de garde ultérieurement. 
 
 =M_MAIN_FILE_COVERSHEET_P2(0)	Pour ouvrir la boîte de dialogue w{Page de garde}, 
 
@@ -3025,7 +3025,7 @@
 
 =M_MAIN_FILE_COVERSHEET_P3_A(0)	double-cliquez sur les liens d'infos systèmes en haut de l'aperçu du système de fermeture. 
 
-=M_MAIN_FILE_COVERSHEET_P4(0)	La w{Page de garde} est composée de 2 zones. La zone 'page de garde' contient les indications générales, en règle générale constantes, sur l'installation, alors que la zone 'Historique' consigne les données sur les extensions déjà effectuées. 
+=M_MAIN_FILE_COVERSHEET_P4(0)	La w{Page de garde} est composée de 2 zones. La zone 'page de garde' contient les indications générales, en règle générale constantes, sur le système, alors que la zone 'Historique' consigne les données sur les extensions déjà effectuées. 
 
 =M_MAIN_FILE_COVERSHEET_P5(0)	Afin d'afficher une zone 
 
@@ -3043,7 +3043,7 @@
 
 =M_MAIN_FILE_COVERSHEET_P7_C(0)	f{Revendeur}: Ce champ accueille l'adresse du fournisseur du système de fermeture. k{Entrée} commence une nouvelle ligne. Pour quitter ce champ, cliquez sur un autre champ, appuyez sur la touche k{Tab} ou utilisez une combinaison k{Alt+[Accès Rapide]}. 
 
-=M_MAIN_FILE_COVERSHEET_P7_D(0)	f{Type d'installation}: Entrez ici le type de l'installation, ex. installation principale de fermeture, installation de fermeture centralisée, etc. 
+=M_MAIN_FILE_COVERSHEET_P7_D(0)	f{Type de système}: Entrez ici le type du système de fermeture, p.ex. système principal de fermeture, systèmede fermeture centralisé, etc. 
 
 =M_MAIN_FILE_COVERSHEET_P7_E(0)	f{Produit}: Entrez la fabrication du cylindre du système de fermeture. 
 
@@ -3051,23 +3051,23 @@
 
 =M_MAIN_FILE_COVERSHEET_P7_G(0)	f{Afficher remarques au démarrage}: Cochez cette case si vous voulez que LOCKBASE affiche le champ f{Remarques} au démarrage du système. De cette manière, votre attention sera attirée sur des informations particulièrement importantes pour le travail avec ce système de fermeture. 
 
-=M_MAIN_FILE_COVERSHEET_P7_H(0)	f{Protéger calcul existant}: Cochez cette case, pour protéger un système de fermeture calculé des modifications par autres installations LOCKBASE. Lorsque cette case est cochée, seulement le créateur du calcul peut effectuer des modifications apportées au système de fermeture, qui peuvent se répercuter sur le calcul. Ainsi on ne peut pas effectuer des modifications du numérotation et de la fonctionnalité de fermetures des clés ou cylindres. Des clés et des cylindres ne peuvent pas être supprimés. Il est cependant possible d'effectuer des extensions, c'est-à-dire on peut créer des cylindres et clés nouveaux et on peut aussi les connecter avec des clés ou cylindres existants. Cette fonction facilite l'échange de données avec des autres sociétés. 
+=M_MAIN_FILE_COVERSHEET_P7_H(0)	f{Protéger calcul existant}: Cochez cette case, pour protéger un système de fermeture calculé des modifications par autres systèmes LOCKBASE. Lorsque cette case est cochée, seulement le créateur du calcul peut effectuer des modifications apportées au système de fermeture, qui peuvent se répercuter sur le calcul. Ainsi on ne peut pas effectuer des modifications du numérotation et de la fonctionnalité de fermetures des clés ou cylindres. Des clés et des cylindres ne peuvent pas être supprimés. Il est cependant possible d'effectuer des extensions, c'est-à-dire on peut créer des cylindres et clés nouveaux et on peut aussi les connecter avec des clés ou cylindres existants. Cette fonction facilite l'échange de données avec des autres sociétés. 
 
 =M_MAIN_FILE_COVERSHEET_P7_I(0)	f{Date de fabrication}, f{Dernière modification}: Ces champs sont incrémentés avec la date actuelle respective, mais ils peuvent être édités et modifiés. 
 
 =M_MAIN_FILE_COVERSHEET_P7_J(0)	f{Saisir mot de passe / Modifier mot de passe}: A l'aide de ce bouton, vous ouvrez une boîte de dialogue dans laquelle vous pouvez fixer ou modifier un mot de passe pour protéger le système (voir chap. III-1, {'Mots de passe'}->MAIN_FILE_PWD). 
 
-=M_MAIN_FILE_COVERSHEET_P7_K(0)	f{Modèle de format}: Avec cette zone de liste déroulante vous sélectionnez un modèle de format pour le système de fermeture. Tous les modèles de format trouvés dans le répertoire LOCKBASE seront offrit. Tous les formatages, des police données et des format lignes de l'affichage des données et des dialogues existantes, aussi bien que les ajustements du tous les documents imprimés (voir chap. IX-4, {'Les documents LOCKBASE'}->PRN_DOC) seront remplacés par les ajustements du modèle de format. Si ne pas déjà occupés, aussi les champs f{Revendeur}, f{Type d'installation} et f{Produit} seront pris du modèle. 
+=M_MAIN_FILE_COVERSHEET_P7_K(0)	f{Modèle de format}: Avec cette zone de liste déroulante vous sélectionnez un modèle de format pour le système de fermeture. Tous les modèles de format trouvés dans le répertoire LOCKBASE seront offrit. Tous les formatages, des police données et des format lignes de l'affichage des données et des dialogues existantes, aussi bien que les ajustements du tous les documents imprimés (voir chap. IX-4, {'Les documents LOCKBASE'}->PRN_DOC) seront remplacés par les ajustements du modèle de format. Si ne pas déjà occupés, aussi les champs f{Revendeur}, f{Type de système} et f{Produit} seront pris du modèle. 
 
 =M_MAIN_FILE_COVERSHEET_P8(0)	Conseil: 
 
-=M_MAIN_FILE_COVERSHEET_P8_A(0)	Pour créer un modèle de format, enregistrez simplement une fichier formatée selon vos souhaits avec l'extension 'lbt' dans le répertoire LOCKBASE (voir chap. III-1, {'Enregistrer le fichier de système de fermeture sous un nouveau nom'}->MAIN_FILE_SAVEAS). 
+=M_MAIN_FILE_COVERSHEET_P8_A(0)	Pour créer un modèle de format, enregistrez simplement un fichier formaté selon vos souhaits avec l'extension 'lbt' dans le répertoire LOCKBASE (voir chap. III-1, {'Enregistrer le fichier de système de fermeture sous un nouveau nom'}->MAIN_FILE_SAVEAS). 
 
 =M_MAIN_FILE_COVERSHEET_P9(0)	La zone 'Historique' de la boîte de dialogue w{Page de garde} 
 
 =M_MAIN_FILE_COVERSHEET_P10(0)	La zone 'Historique' possède les éléments de contrôle et les champs de saisie suivants: 
 
-=M_MAIN_FILE_COVERSHEET_P10_A(0)	f{Expansions/Commandes}: Ici s'affiche la liste de toutes les extensions apportées à l'installation. Si aucune entrée n'a été effectuée, seule l'entrée <Nouveau> s'y trouve. Le contenu de cette liste peut uniquement être modifié à l'aide des boutons f{Nouveau}, f{Editer...}, f{Supprimer} et f{Format...} (voir ci-dessous). 
+=M_MAIN_FILE_COVERSHEET_P10_A(0)	f{Expansions/Commandes}: Ici s'affiche la liste de toutes les extensions apportées au système. Si aucune entrée n'a été effectuée, seule l'entrée <Nouveau> s'y trouve. Le contenu de cette liste peut uniquement être modifié à l'aide des boutons f{Nouveau}, f{Editer...}, f{Supprimer} et f{Format...} (voir ci-dessous). 
 
 =M_MAIN_FILE_COVERSHEET_P10_B(0)	f{Nouveau}: Vous pouvez créer une nouvelle extension en appuyant sur ce bouton. La boîte de dialogue w{Expansion/Editer commande} s'ouvre (voir ci-dessous). Le texte '<Nouveau>' s'affiche dans le champ f{Désignation} et les champs de date obtiennent la date du jour. Remplacez ces valeurs par défaut par des indications sensées. Lorsque vous quittez le dialogue en cliquant sur f{OK}, la nouvelle entrée s'affiche dans la liste. 
 
@@ -3347,7 +3347,7 @@
 
 =M_MAIN_OPTIONS_USERADMIN(0)	Administration des utilisateurs 
 
-=M_MAIN_OPTIONS_USERADMIN_P1(0)	L'administration des utilisateurs permet la création d'un nombre voulu d'utilisateurs LOCKBASE avec des droits d'accès et de traitement différents sur les données d'une installation de fermeture. Ceci permet de minimiser les sources d'erreurs dans les processus de travail des entreprises, dans lesquels des personnes différentes exécutent des travaux différents sur une installation de fermeture. 
+=M_MAIN_OPTIONS_USERADMIN_P1(0)	L'administration des utilisateurs permet la création d'un nombre voulu d'utilisateurs LOCKBASE avec des droits d'accès et de traitement différents sur les données d'un système de fermeture. Ceci permet de minimiser les sources d'erreurs dans les processus de travail des entreprises, dans lesquels des personnes différentes exécutent des travaux différents sur un système de fermeture. 
 
 =M_MAIN_OPTIONS_USERADMIN_P2(0)	Pour ouvrir l'administration des utilisateurs, 
 
@@ -3407,7 +3407,7 @@
 
 =M_MAIN_OPTIONS_USERADMIN_P11_A(0)	f{Données techniques}: L'utilisateur peut afficher et modifier les données techniques comme les combinaisons de fermeture, les combinaisons ou les profils de cylindres. 
 
-=M_MAIN_OPTIONS_USERADMIN_P11_B(0)	f{Modifier installations calculées}: Lorsqu'un utilisateur se voit accorder ce droit, il peut à la fois modifier ou supprimer des jeux de données calculés que de créer de nouveaux jeux et connexion. Lorsqu'il n'a pas ce droit, l'utilisateur a seulement le droit d'exécuter des extensions à l'installation. Il/elle a le droit de travailler dans la nouvelle partie de l'installation (pas encore calculée), mais il ne peut pas modifier d'anciens cylindres ou fonctions de fermeture ou de connexions entre ces derniers. Il/elle a cependant le droit de créer ou de supprimer des connexions entre des anciens et des nouveaux jeux de données. 
+=M_MAIN_OPTIONS_USERADMIN_P11_B(0)	f{Modifier systèmes calculés}: Lorsqu'un utilisateur se voit accorder ce droit, il peut à la fois modifier ou supprimer des jeux de données calculés que de créer de nouveaux jeux et connexion. Lorsqu'il n'a pas ce droit, l'utilisateur a seulement le droit d'exécuter des extensions à l'installation. Il a le droit de travailler dans la nouvelle partie du système (pas encore calculée), mais il ne peut pas modifier d'anciens cylindres ou fonctions de fermeture ou de connexions entre ces derniers. Il a cependant le droit de créer ou de supprimer des connexions entre des anciens et des nouveaux jeux de données. 
 
 =M_MAIN_OPTIONS_USERADMIN_P12(0)	La catégorie !{Outils} contient les droits de fonctions supplémentaires ou de modules additionnels: 
 
@@ -3947,7 +3947,7 @@
 
 =M_DLG_USAGE_FONT_P5_A(0)	La boîte de dialogue w{Police} ne propose que les polices TrueType, car elles sont identiques à l'écran et à l'impression. 
 
-=M_DLG_USAGE_FONT_P5_B(0)	Vous pouvez créer un modèle de format pour les nouveaux fichiers LOCKBASE. Modifiez le format de d'une installation existante selon vos souhaits et enregistrez-la dans le répertoire LOCKBASE sous le nom 'STANDARD.LBT'. Lors de la création d'une nouvelle installation, LOCKBASE vérifie l'existence de ce fichier et reprend le cas échéant tous les paramètres de formatage présents dans celui-ci pour la nouvelle installation. 
+=M_DLG_USAGE_FONT_P5_B(0)	Vous pouvez créer un modèle de format pour les nouveaux fichiers LOCKBASE. Modifiez le format d'un système existant selon vos souhaits et enregistrez-le dans le répertoire LOCKBASE sous le nom 'STANDARD.LBT'. Lors de la création d'un nouveau système, LOCKBASE vérifie l'existence de ce fichier et reprend le cas échéant tous les paramètres de formatage présents dans celui-ci pour le nouveau système. 
 
 =M_DLG_USAGE_HEADER(0)	Formatage directe avec les titres des listes 
 
@@ -4233,7 +4233,7 @@
 
 =M_LST_EDIT_ADD_P6_D(0)	Aucun registre n'est créé si la valeur du champ f{à} est inférieure au champ. 
 
-=M_LST_EDIT_ADD_P6_E(0)	Vous ne pouvez pas ajouter de fonctions de clés et de cylindres dans la version LOCKBASE w{Manager lite}. Seul le fournisseur du système de fermeture est en mesure d'apporter des modifications aux données techniques de l'installation. 
+=M_LST_EDIT_ADD_P6_E(0)	Vous ne pouvez pas ajouter de fonctions de clés et de cylindres dans la version LOCKBASE w{Manager lite}. Seul le fournisseur du système de fermeture est en mesure d'apporter des modifications aux données techniques du système. 
 
 =M_LST_EDIT_ADD_DEF(0)	Créer des registres prédéterminés 
 
@@ -4287,7 +4287,7 @@
 
 =M_LST_EDIT_DEL_P3_A(0)	Dans un système de fermeture analysé et hiérarchisé, vous ne pouvez supprimer des registres de fonctions de clés et de cylindres que lorsqu'un sous-groupe est affiché (voir chap. VIII-1, {'Analyser les systèmes de fermeture'}->DSGN_ANALYSE). 
 
-=M_LST_EDIT_DEL_P3_B(0)	Vous ne pouvez pas supprimer de fonctions de clés et de cylindres dans la version LOCKBASE w{Manager lite}. Seul le fournisseur du système de fermeture est en mesure d'apporter des modifications aux données techniques de l'installation. 
+=M_LST_EDIT_DEL_P3_B(0)	Vous ne pouvez pas supprimer de fonctions de clés et de cylindres dans la version LOCKBASE w{Manager lite}. Seul le fournisseur du système de fermeture est en mesure d'apporter des modifications aux données techniques du système. 
 
 =M_LST_EDIT_OVERDUE_KEYS(0)	Date de retours de clés dépassées 
 
@@ -4365,7 +4365,7 @@
 
 =M_LST_CONNECT_SET_P5_C(0)	Dans un système de fermeture analysé et hiérarchisé, vous ne pouvez seulement éditer des connexions entre des registres de fonctions de clés et de cylindres lorsqu'un sous-groupe est affiché. 
 
-=M_LST_CONNECT_SET_P5_D(0)	Vous ne pouvez pas connecter de fonctions de clés et de cylindres dans la version LOCKBASE w{Manager lite}. Seul le fournisseur du système de fermeture est en mesure d'apporter des modifications aux données techniques de l'installation. 
+=M_LST_CONNECT_SET_P5_D(0)	Vous ne pouvez pas connecter de fonctions de clés et de cylindres dans la version LOCKBASE w{Manager lite}. Seul le fournisseur du système de fermeture est en mesure d'apporter des modifications aux données techniques du système. 
 
 =M_LST_CONNECT_SHOW(0)	Afficher les registres connectés 
 
@@ -4577,9 +4577,9 @@
 
 =M_MTRX_USAGE_EUROMATRIX_P2(0)	Les connexions des clés individuelles (cylindres - clés individuelles) ne sont pas représentées sous forme de matrice. Si un cylindre possède une clé individuelle, son nom et le nombre de clés est indiqué sous forme de champ de données dans la ligne du registre du cylindre. 
 
-=M_MTRX_USAGE_EUROMATRIX_P3(0)	Le format Euro permet un affichage beaucoup plus compact et lisible du Plan d'Organigramme, en particulier lors de grandes installations dotées de nombreuses clés individuelles. 
+=M_MTRX_USAGE_EUROMATRIX_P3(0)	Le Format Euro permet un affichage beaucoup plus compact et lisible du Plan d'Organigramme, en particulier lors de grandes systèmes dotés de nombreuses clés individuelles. 
 
-=M_MTRX_USAGE_EUROMATRIX_P4(0)	Le maniement du Plan d'Organigramme Euro fonction en grande partie exactement comme dans l'affichage normal (voir chap. VI-1, {'Maniement de la fenêtre du Plan d'Organigramme'}->MTRX_USAGE). L'inversion des contenus des lignes est des colonnes n'est cependant pas possible dans le format Euro. 
+=M_MTRX_USAGE_EUROMATRIX_P4(0)	Le maniement du Plan d'Organigramme Euro fonction en grande partie exactement comme dans l'affichage normal (voir chap. VI-1, {'Maniement de la fenêtre du Plan d'Organigramme'}->MTRX_USAGE). L'inversion des contenus des lignes est des colonnes n'est cependant pas possible dans le Format Euro. 
 
 =M_MTRX_USAGE_EUROMATRIX_P5(0)	Conseils: 
 
@@ -4759,7 +4759,7 @@
 
 =M_MTRX_EDIT_CONSISTENCY_P4_E(0)	f{Regrouper les cylindres à fermeture identique}: Si cette case est cochée, les cylindres à fermeture identique seront rassemblés dans les fermetures égales. Ainsi, sous la forme non triée, le premier cylindre de chaque fermeture égale devient le cylindre 'maître' (voir chap. IV-1, {'Enregistrements de cylindres'}->DLG_DATA_CYL). 
 
-=M_MTRX_EDIT_CONSISTENCY_P4_F(0)	f{Contrôler}: Vous lancez le contrôle de cohérence en appuyant sur ce bouton. L'installation est parcourue à la recherche d'écarts par rapport aux règles définies ci-dessus. Les écarts déterminés s'affichent dans le champ f{Erreurs de cohérence} et peuvent y être corrigés (voir ci-dessous). 
+=M_MTRX_EDIT_CONSISTENCY_P4_F(0)	f{Contrôler}: Vous lancez le contrôle de cohérence en appuyant sur ce bouton. Le système est parcourue à la recherche d'écarts par rapport aux règles définies ci-dessus. Les écarts déterminés s'affichent dans le champ f{Erreurs de cohérence} et peuvent y être corrigés (voir ci-dessous). 
 
 =M_MTRX_EDIT_CONSISTENCY_P4_G(0)	f{Fermer}: Ce bouton ferme la boîte de dialogue, sans exécuter de contrôle. 
 
@@ -4835,7 +4835,7 @@
 
 =M_CALC_P8_B(0)	f{Groupe de codes}: Entrez ici un groupe de codes valide pour le produit sélectionné. Les identifiants présents de gauche à droite correspondent aux taillages de la butée jusqu'à la pointe de la clé. Le groupe de code est valable, comme le produit, pour la totalité du système de fermeture. Les combinaisons de caractères pouvant être utilisées sont différentes selon les produits (voir chap. VII-7, {'Produits de cylindres et groupes de codes'}->CALC_BRANDS). Si vous avez également acquis l' w{Administration de groupes de codes}, sélectionnez un groupe de code a l'aide de la commande m{Edition - Administration groupes de codes} voir chap. VII-2, {'Administration de groupes de codes'}->CALC_CGA). 
 
-=M_CALC_P8_C(0)	f{Installer}: Avec les produits pour lesquels vous pouvez modifier les paramètres de calcul, vous disposez de ce bouton de commande. Il ouvre ensuite une boîte de dialogue spécifique au produit, dans laquelle vous pouvez varier les règles de calcul de l'installation de fermeture par LOCKBASE. 
+=M_CALC_P8_C(0)	f{Installer}: Avec les produits pour lesquels vous pouvez modifier les paramètres de calcul, vous disposez de ce bouton de commande. Il ouvre ensuite une boîte de dialogue spécifique au produit, dans laquelle vous pouvez varier les règles de calcul de le système de fermeture par LOCKBASE. 
 
 =M_CALC_STEPS(0)	1. Etapes pour le calcul d'un système de fermeture 
 
@@ -4853,9 +4853,9 @@
 
 =M_CALC_STEPS_P1_F(0)	Si le système de fermeture a été calculé, vous pouvez reprendre le résultat des calculs en cliquant sur i{BTN_CALC_TRANSFER.BMP} dans la barre d'outils ou en sélectionnant la commande m{Edition - Transfert} (voir chap. VII-6, {'Transfert'}->CALC_TRANSFER). 
 
-=M_CALC_STEPS_P2(0)	i{GROUP_MAIN.BMP} Si vous ne voyez qu'un rectangle avec le numéro système de votre installation, la raison peut être parmi les suivantes: 
+=M_CALC_STEPS_P2(0)	i{GROUP_MAIN.BMP} Si vous ne voyez qu'un rectangle avec le numéro système de votre système, la raison peut être parmi les suivantes: 
 
-=M_CALC_STEPS_P2_A(0)	Vous n'avez pas encore lancé l'{analyse des groupes}->DSGN_ANALYSE. 
+=M_CALC_STEPS_P2_A(0)	Vous n'avez pas encore lancé l'{Analyse des groupes}->DSGN_ANALYSE. 
 
 =M_CALC_STEPS_P2_B(0)	Le système de fermeture ne possède pas de structure de groupe. 
 
@@ -4865,15 +4865,15 @@
 
 =M_CALC_STEPS_P3(0)	Dans chacun de ces cas de figure, vous ne pouvez qu'éditer la variation des combinaisons pour tout le système de fermeture. 
 
-=M_CALC_STEPS_P4(0)	Si le calcul échoue, parce que l'installation est trop complète, vous pouvez 
+=M_CALC_STEPS_P4(0)	Si le calcul échoue, parce que le système est trop complet, vous pouvez 
 
-=M_CALC_STEPS_P4_A(0)	soit attribuer une variation des combinaisons plus grande à votre installation, ou 
+=M_CALC_STEPS_P4_A(0)	soit attribuer une variation des combinaisons plus grande à votre système, ou 
 
 =M_CALC_STEPS_P4_B(0)	faire un calcul sur plus de profils (voir chap. VII-4, {'Lancer ou arrêter le calcul'}->CALC_CALC). 
 
 =M_CALC_STEPS_P5(0)	Consigne de sécurité: 
 
-=M_CALC_STEPS_P5_A(0)	Lorsque l'w{Administration des groupes de codes} ne fait pas partie de votre version de LOCKBASE, il est indispensable que les groupes de codes déjà utilisés soient systématiquement administrés pour pouvoir éviter des défauts de fermeture entre les différentes installations de fermeture. 
+=M_CALC_STEPS_P5_A(0)	Lorsque l'w{Administration des groupes de codes} ne fait pas partie de votre version de LOCKBASE, il est indispensable que les groupes de codes déjà utilisés soient systématiquement administrés pour pouvoir éviter des défauts de fermeture entre les différentes systèmes de fermeture. 
 
 =M_CALC_STEPS_P6(0)	Conseils: 
 
@@ -4929,7 +4929,7 @@
 
 =M_CALC_CGA_FIELDS_P3_B(0)	i{ICON_CGA_SPLIT.BMP} f{Réparti}: Ce groupe de codes est réparti. Il peut à nouveau être fusionné, si vous n'avez pas utilisé ou réparti des groupes de codes nouvellement créés. 
 
-=M_CALC_CGA_FIELDS_P3_C(0)	i{ICON_CGA_USED.BMP} f{Utilisé}: Ce groupe de codes a déjà été déjà utilisé pour une ou plusieurs installations. Les installations utilisant ce groupe de code sont affichées dans la liste f{Utilisation} de la partie inférieure de l'w{Administration des groupes de codes}. 
+=M_CALC_CGA_FIELDS_P3_C(0)	i{ICON_CGA_USED.BMP} f{Utilisé}: Ce groupe de codes a déjà été déjà utilisé pour un ou plusieurs systèmes. Les systèmes utilisant ce groupe de code sont affichés dans la liste f{Utilisation} de la partie inférieure de l'w{Administration des groupes de codes}. 
 
 =M_CALC_CGA_FIELDS_P3_D(0)	i{ICON_CGA_LOCKED.BMP} f{Bloqué}: Ce groupe de codes a été bloqué. La raison pour ce blocage doit être indiquée dans le champ f{Description}. 
 
@@ -4951,7 +4951,7 @@
 
 =M_CALC_CGA_FIELDS_P5(0)	Conseils: 
 
-=M_CALC_CGA_FIELDS_P5_A(0)	Vous pouvez également utiliser plusieurs fois des groupes de codes, c.-à-d. sélectionner un groupe de codes utilisé par un autre système de fermeture. Nous vous déconseillons cela, car il est possible de provoquer une fermeture simultanée non voulue de clés d'une autre installation. 
+=M_CALC_CGA_FIELDS_P5_A(0)	Vous pouvez également utiliser plusieurs fois des groupes de codes, c.-à-d. sélectionner un groupe de codes utilisé par un autre système de fermeture. Nous vous déconseillons cela, car il est possible de provoquer une fermeture simultanée non voulue de clés d'un autre système. 
 
 =M_CALC_CGA_FIELDS_P5_B(0)	Si vous êtes dans l'obligation d'utiliser plusieurs fois un groupe de codes, vous devez au moins utiliser une combinaison de clé de passe générale différente de la première utilisation. Vous pouvez ainsi sous réserves réduire la probabilité d'une fermeture simultanée. 
 
@@ -4959,7 +4959,7 @@
 
 =M_CALC_CGA_SPLIT(0)	Répartir les groupes de codes 
 
-=M_CALC_CGA_SPLIT_P1(0)	L'objectif de l'w{Administration des groupes de codes} n'est pas seulement d'éviter un chevauchement non voulu de différents systèmes de fermeture, mais aussi d'aider à répartir la variation des combinaisons d'un produit de manière à rendre disponible un nombre de variures correspondant à la taille des différentes installations. 
+=M_CALC_CGA_SPLIT_P1(0)	L'objectif de l'w{Administration des groupes de codes} n'est pas seulement d'éviter un chevauchement non voulu de différents systèmes de fermeture, mais aussi d'aider à répartir la variation des combinaisons d'un produit de manière à rendre disponible un nombre de variures correspondant à la taille des différentes systèmes. 
 
 =M_CALC_CGA_SPLIT_P2(0)	La boîte de dialogue w{Répartir groupe de codes} 
 
@@ -4973,7 +4973,7 @@
 
 =M_CALC_CGA_SPLIT_P5_B(0)	Avant de reprendre des groupes de codes de l'w{Administration des groupes de codes}, vous devez concevoir un système de répartition pour vous, dans lequel sont employés à la fois des petits que des grands groupes de codes. 
 
-=M_CALC_CGA_SPLIT_P5_C(0)	Il est dans tous les cas préférable d'essayer de calculer une installation avec un petit groupe de codes. LOCKBASE calcule plus vite avec des petits groupes de codes et vous ne gâchez pas inutilement de variation des combinaisons, dont vous aurez peut être plus tard un besoin urgent. 
+=M_CALC_CGA_SPLIT_P5_C(0)	Il est dans tous les cas préférable d'essayer de calculer un système avec un petit groupe de codes. LOCKBASE calcule plus vite avec des petits groupes de codes et vous ne gâchez pas inutilement de variation des combinaisons, dont vous aurez peut être plus tard un besoin urgent. 
 
 =M_CALC_KBA(0)	3. Déterminer les profils, le code de clé de passe et la variation des combinaisons 
 
@@ -5003,7 +5003,7 @@
 
 =M_CALC_KBA_P4_E(0)	f{Exclusif}: A l'aide de cette option, vous réservez l'exclusivité d'une profondeur de taille ou un profil pour une clé de passe. La profondeur de taille ou le profil n'apparaîtra plus dans aucune fermeture individuelle ou de groupe et ne sera plus proposé dans des variations de combinaisons subséquentes. Les tailles exclusives sont également marquées en couleur, un profil exclusif est marqué d'un astérisque (*). 
 
-=M_CALC_KBA_P4_F(0)	f{Utiliser constantes tournantes}: Activez cette option, pour mettre un calcul avec des constantes rotatives en oeuvre. Respectivement certain un nombre des valeurs à calculer de la clé principale est pris en charge lors de cette procédure, auquel cas la position des valeurs chargées varie systématiquement (tourne) devient. La procédure conduit généralement à de meilleurs résultats de calcul, c'est pourquoi ce réglage est activé conformément aux normes. Avec certaines installations ou marques, il peut toutefois aussi conduire à de plus mauvais résultats. Dans le champ f{Positions} vous pouvez entrer combien de positions de la clé principale doivent être tournées. 
+=M_CALC_KBA_P4_F(0)	f{Utiliser constantes tournantes}: Activez cette option, pour mettre un calcul avec des constantes rotatives en oeuvre. Respectivement certain un nombre des valeurs à calculer de la clé principale est pris en charge lors de cette procédure, auquel cas la position des valeurs chargées varie systématiquement (tourne) devient. La procédure conduit généralement à de meilleurs résultats de calcul, c'est pourquoi ce réglage est activé conformément aux normes. Avec certaines systèmes ou produits, il peut toutefois aussi conduire à de plus mauvais résultats. Dans le champ f{Positions} vous pouvez entrer combien de positions de la clé principale doivent être tournées. 
 
 =M_CALC_KBA_P5(0)	Les données d'état du groupe correspondant à la variation des combinaisons à modifier apparaît dans la zone f{Statistiques}. 
 
@@ -5049,7 +5049,7 @@
 
 =M_CALC_KBA_P15_A(0)	Une taille exclusive de clé de passe augmente la sécurité de votre système de fermeture. La taille la plus basse d'une clé de passe convient le mieux pour une taille exclusive, car il est impossible de créer une clé de passe en limant une autre clé. 
 
-=M_CALC_KBA_P15_B(0)	Lorsque vous répartissez les groupes de codes par constantes sur plusieurs systèmes de fermeture et lorsque l'w{Administration des groupes de codes} ne fait pas partie de votre version de LOCKBASE, il est indispensable que les combinaisons utilisées soient systématiquement administrées pour pouvoir éviter des défauts de fermeture entre les différentes installations de fermeture. 
+=M_CALC_KBA_P15_B(0)	Lorsque vous répartissez les groupes de codes par constantes sur plusieurs systèmes de fermeture et lorsque l'w{Administration des groupes de codes} ne fait pas partie de votre version de LOCKBASE, il est indispensable que les combinaisons utilisées soient systématiquement administrées pour pouvoir éviter des défauts de fermeture entre les différentes systèmes de fermeture. 
 
 =M_CALC_KBA_P16(0)	Conseils: 
 
@@ -5073,7 +5073,7 @@
 
 =M_CALC_CALC_P1_B(0)	sélectionnez la commande m{Edition - Calculer}. 
 
-=M_CALC_CALC_P2(0)	Vous savez que LOCKBASE effectue le calcul de l'installation 
+=M_CALC_CALC_P2(0)	Vous savez que LOCKBASE effectue le calcul du système
 
 =M_CALC_CALC_P2_A(0)	grâce à la bulle i{ICON_CALC_BUBBLE.BMP} à côté du champ de saisie f{Groupe de codes}, 
 
@@ -5827,7 +5827,7 @@
 
 =M_DSGN_ANALYSE_STATISTICS(0)	Zone statistiques 
 
-=M_DSGN_ANALYSE_STATISTICS_P1(0)	Plusieurs données de groupes sont affichées dans la zone f{Statistiques}, avec lesquelles le cas échéant certains problèmes peuvent être prévus lors du calcul ultérieur de l'installation. 
+=M_DSGN_ANALYSE_STATISTICS_P1(0)	Plusieurs données de groupes sont affichées dans la zone f{Statistiques}, avec lesquelles le cas échéant certains problèmes peuvent être prévus lors du calcul ultérieur du système. 
 
 =M_DSGN_ANALYSE_STATISTICS_P1_A(0)	f{Groupe}: Le nom du groupe auquel se réfèrent des données. 
 
@@ -5875,7 +5875,7 @@
 
 =M_DSGN_SETUP(0)	2. Créer des systèmes de fermeture avec le Designer Système 
 
-=M_DSGN_SETUP_P1(0)	Outre pour l'analyse de systèmes de fermeture déjà saisis, vous pouvez utiliser le w{Designer Système} pour saisir un système de fermeture à structure hiérarchique ou créer une installation de fermeture. 
+=M_DSGN_SETUP_P1(0)	Outre pour l'analyse de systèmes de fermeture déjà saisis, vous pouvez utiliser le w{Designer Système} pour saisir un système de fermeture à structure hiérarchique ou créer un système de fermeture. 
 
 =M_DSGN_SETUP_P2(0)	Après l'exécution de la commande m{Fichier - Nouveau}, la fenêtre w{Structure de groupes} du w{Designer Système} obtient un rectangle contenant un numéro système. Convenez avec votre client de quelle structure hiérarchique il veut disposer pour son système de fermeture. Lors de la saisie d'un nouveau système de fermeture avec le w{Designer Système}, vous n'êtes pas contraint par une suite d'étapes spécifiques. 
 
@@ -6131,9 +6131,9 @@
 
 =M_PRN_FORMAT_FORM(0)	Formulaire 
 
-=M_PRN_FORMAT_FORM_P1(0)	La fichier w{Formulaire} 
+=M_PRN_FORMAT_FORM_P1(0)	Le fichier w{Formulaire} 
 
-=M_PRN_FORMAT_FORM_P2(0)	La fichier w{Formulaire} contient des réglages général du formulaire. Cette fichier est disponible pour tous les documents et offre les champs de saisie et les éléments de commande suivants: 
+=M_PRN_FORMAT_FORM_P2(0)	Le fichier w{Formulaire} contient des réglages général du formulaire. Cette fichier est disponible pour tous les documents et offre les champs de saisie et les éléments de commande suivants: 
 
 =M_PRN_FORMAT_FORM_P2_A(0)	f{Nom}: Ce champ possède le nom du document, comme il apparaît dans la liste f{Formulaire} de la boîte de dialogue w{Sélection d'imprimés}->PRN_SELECT. Vous pouvez changer ce nom selon vos souhaits. Cependant le champ ne faut pas être vide. 
 
@@ -6149,7 +6149,7 @@
 
 =M_PRN_FORMAT_MARGIN(0)	Régler des marges 
 
-=M_PRN_FORMAT_MARGIN_P1(0)	La fichier w{Marges} 
+=M_PRN_FORMAT_MARGIN_P1(0)	Le fichier w{Marges} 
 
 =M_PRN_FORMAT_MARGIN_P2(0)	Vous indiquez ici les marges du document. On y trouve des champs de saisie suivants: 
 
@@ -6185,7 +6185,7 @@
 
 =M_PRN_FORMAT_DATASTOCK(0)	Sélectionner des bases de données 
 
-=M_PRN_FORMAT_DATASTOCK_P1(0)	La fichier w{Bases de données} 
+=M_PRN_FORMAT_DATASTOCK_P1(0)	Le fichier w{Bases de données} 
 
 =M_PRN_FORMAT_DATASTOCK_P2(0)	Vous pouvez sélectionner les bases de données ici, dont données doivent être imprimées dans certain un document. Ainsi vous pouvez créer p.ex. une liste personnes-portes en copiant un formulaire avec des double listes et en sélectionnant 'personnes' par la première base de données et 'portes' par la deuxième base de données. 
 
@@ -6197,9 +6197,9 @@
 
 =M_PRN_FORMAT_FONTFORM(0)	Modifier police et format des lignes 
 
-=M_PRN_FORMAT_FONTFORM_P1(0)	La fichier w{Police et format lignes} 
+=M_PRN_FORMAT_FONTFORM_P1(0)	Le fichier w{Police et format lignes} 
 
-=M_PRN_FORMAT_FONTFORM_P2(0)	La fichier w{Police et format lignes} permet de déterminer police, taille et style de police des formulaires aussi bien que titre, mise en page et classement des lignes de données. On y trouve les éléments de commande suivants: 
+=M_PRN_FORMAT_FONTFORM_P2(0)	Le fichier w{Police et format lignes} permet de déterminer police, taille et style de police des formulaires aussi bien que titre, mise en page et classement des lignes de données. On y trouve les éléments de commande suivants: 
 
 =M_PRN_FORMAT_FONTFORM_P2_A(0)	f{Police}: Choisissez de cette liste l'élément dont police vous voudriez modifier et appuyez sur le correspondant bouton f{Edition}. La boîte de dialogue w{Police} s'ouvre (pour une description plus détaillée de la boîte de dialogue w{Police}, reportez-vous au chap. IV-2, {'Police'}->DLG_USAGE_FONT). 
 
@@ -6213,9 +6213,9 @@
 
 =M_PRN_FORMAT_TEXT(0)	Editer des textes de documents 
 
-=M_PRN_FORMAT_TEXT_P1(0)	La fichier w{Texte} 
+=M_PRN_FORMAT_TEXT_P1(0)	Le fichier w{Texte} 
 
-=M_PRN_FORMAT_TEXT_P2(0)	La fichier w{Texte} permet l'édition de quelques étiquettes de champs ou textes spécifiques pour le formulaire correspondant. Vous pouvez-y p.ex. modifier le texte de lettre du reçus ou la désignation des certaines entrées de la liste de composants. On y trouve les champs de saisie et de contrôle suivants: 
+=M_PRN_FORMAT_TEXT_P2(0)	Le fichier w{Texte} permet l'édition de quelques étiquettes de champs ou textes spécifiques pour le formulaire correspondant. Vous pouvez-y p.ex. modifier le texte de lettre du reçus ou la désignation des certaines entrées de la liste de composants. On y trouve les champs de saisie et de contrôle suivants: 
 
 =M_PRN_FORMAT_TEXT_P2_A(0)	f{Désignation}: Cette liste contient la désignation de tous les textes de formulaires, qui peut être édités. Pour modifier un texte, cliquez sur sa désignation dans cette liste. Le contenu du texte actuel sera affiché d'après dans le champ voisin f{Contenu}. 
 
@@ -6223,15 +6223,15 @@
 
 =M_PRN_FORMAT_TEXT_P3(0)	Conseil: 
 
-=M_PRN_FORMAT_TEXT_P3_A(0)	Les étiquettes des champs de données vous pouvez changer dans la f{Format des lignes} de la fichier w{Police et format des lignes} (voir chap. IX-3, {'Régler police et format des lignes'}->PRN_FORMAT_FONTFORM et chap. IV-2, {'Format des lignes et classement'}->DLG_USAGE_LINE). 
+=M_PRN_FORMAT_TEXT_P3_A(0)	Les étiquettes des champs de données vous pouvez changer dans le f{Format des lignes} du fichier w{Police et format des lignes} (voir chap. IX-3, {'Régler police et format des lignes'}->PRN_FORMAT_FONTFORM et chap. IV-2, {'Format des lignes et classement'}->DLG_USAGE_LINE). 
 
 =M_PRN_FORMAT_OPTIONS(0)	Réglages 
 
-=M_PRN_FORMAT_OPTIONS_P1(0)	La fichier w{Réglages} 
+=M_PRN_FORMAT_OPTIONS_P1(0)	Le fichier w{Réglages} 
 
-=M_PRN_FORMAT_OPTIONS_P2(0)	Avec la fichier w{Réglages} vous pouvez déterminer des différents préréglages ou des variantes spécifiques pour le formulaire correspondant. Quels champs et éléments de commande sont actuellement disponible, dépend du formulaire correspondant. 
+=M_PRN_FORMAT_OPTIONS_P2(0)	Avec le fichier w{Réglages} vous pouvez déterminer des différents préréglages ou des variantes spécifiques pour le formulaire correspondant. Quels champs et éléments de commande sont actuellement disponible, dépend du formulaire correspondant. 
 
-=M_PRN_FORMAT_OPTIONS_P3(0)	Les formulaires suivants contiennent une fichier w{Réglages}. Une documentation des réglages possibles, vous trouverez dans les paragraphes indiqués. 
+=M_PRN_FORMAT_OPTIONS_P3(0)	Les formulaires suivants contiennent un fichier w{Réglages}. Une documentation des réglages possibles, vous trouverez dans les paragraphes indiqués. 
 
 =M_PRN_FORMAT_OPTIONS_P3_A(0)	Plan d'Organigramme (voir chap. IX-4, {'Plan d'Organigramme'}->PRN_DOC_MTRX) 
 
@@ -6251,15 +6251,15 @@
 
 =M_PRN_FORMAT_LABELS(0)	Mise en page 
 
-=M_PRN_FORMAT_LABELS_P1(0)	La fichier w{Mise en page} 
+=M_PRN_FORMAT_LABELS_P1(0)	Le fichier w{Mise en page} 
 
-=M_PRN_FORMAT_LABELS_P2(0)	La fichier w{Mise en page} sert à la formatage des imprimés d'étiquettes. Celle-ci n'existe que lors du formatage d'un formulaire d'étiquette. 
+=M_PRN_FORMAT_LABELS_P2(0)	Le fichier w{Mise en page} sert à la formatage des imprimés d'étiquettes. Celle-ci n'existe que lors du formatage d'un formulaire d'étiquette. 
 
 =M_PRN_FORMAT_LABELS_P3(0)	Pour le réglage d'un formulaire d'étiquettes, vous devez indiquer à LOCKBASE comment la page d'étiquettes est répartie (nombre des étiquettes côte à côte et l'une au-dessous de l'autre). Vous pouvez indiquer dans les marges où commence la première étiquette en haut à gauche ou la dernière étiquette s'arrête en bas à droite (voir IX-2, {'Régler des marges'}->PRN_FORMAT_MARGIN). Vous pouvez réguler les écarts entre les différentes étiquettes sur la page au moyen des bords d'étiquettes. 
 
 =M_PRN_FORMAT_LABELS_P4(0)	Une page d'étiquettes avec 2 étiquettes côte à côte et 2 étiquettes l'une au-dessous de l'autre 
 
-=M_PRN_FORMAT_LABELS_P5(0)	La fichier w{Mise en page} contient les champs de saisie et de contrôle suivants: 
+=M_PRN_FORMAT_LABELS_P5(0)	Le fichier w{Mise en page} contient les champs de saisie et de contrôle suivants: 
 
 =M_PRN_FORMAT_LABELS_P5_A(0)	f{Marges étiquettes}: Entrez dans ces champs de saisie l'écart gauche, supérieur, droite et inférieur entre des marges d'étiquette et le texte. 
 
@@ -6363,9 +6363,9 @@
 
 =M_PRN_DOC_ASSEMBLY_P2_B(0)	Le nombre total des clés du système, classées par état et par profil 
 
-=M_PRN_DOC_ASSEMBLY_P2_C(0)	Le nombre total de stators de cylindres nécessaires à l'installation, classées par type, longueur et éventuellement par profil (construction modulaire). 
+=M_PRN_DOC_ASSEMBLY_P2_C(0)	Le nombre total de stators de cylindres nécessaires au système, classées par type, longueur et éventuellement par profil (construction modulaire). 
 
-=M_PRN_DOC_ASSEMBLY_P2_D(0)	Le nombre total des rotors nécessaires à l'installation, classées par longueur et par profil. 
+=M_PRN_DOC_ASSEMBLY_P2_D(0)	Le nombre total des rotors nécessaires au système, classées par longueur et par profil. 
 
 =M_PRN_DOC_ASSEMBLY_P3(0)	Le document w{Liste de composants} offre les réglages supplémentaires suivants: 
 
@@ -6451,13 +6451,13 @@
 
 =M_PRN_DOC_ORDER_P3(0)	Conseil: 
 
-=M_PRN_DOC_ORDER_P3_A(0)	Si aucune entrée n'a été effectuée dans la fichier w{Texte}->PRN_FORMAT_TEXT pour le texte 'Adresse', le contenu du champ f{Revendeur} dans la w{Page de garde} sera utilisé comme adresse (voir chap. III-1, {'Page de garde'}->MAIN_FILE_COVERSHEET). 
+=M_PRN_DOC_ORDER_P3_A(0)	Si aucune entrée n'a été effectuée dans le fichier w{Texte}->PRN_FORMAT_TEXT pour le texte 'Adresse', le contenu du champ f{Revendeur} dans la w{Page de garde} sera utilisé comme adresse (voir chap. III-1, {'Page de garde'}->MAIN_FILE_COVERSHEET). 
 
 =M_PRN_DOC_LABELS(0)	Étiquettes 
 
 =M_PRN_DOC_LABELS_P1(0)	Le document w{Étiquettes} permet l'impression d'étiquettes pour les registres des bases de données différantes. 
 
-=M_PRN_DOC_LABELS_P2(0)	Pour le réglage du formulaire d'étiquettes sert la fichier w{Mise en page} des w{Formatage d'imprimés} (voir chap. IX-3, {'Mise en page'}->PRN_FORMAT_LABELS). 
+=M_PRN_DOC_LABELS_P2(0)	Pour le réglage du formulaire d'étiquettes sert le fichier w{Mise en page} des w{Formatage d'imprimés} (voir chap. IX-3, {'Mise en page'}->PRN_FORMAT_LABELS). 
 
 =M_PRN_DOC_LABELS_P3(0)	Pour l'impression d'étiquettes dans la boîte de dialogue w{Sélection d'imprimés}->PRN_SELECT apparaît un champ de saisie pour insérer la position de démarrage d'imprimé sur le papier. Cela permet l'utilisation du papier partiellement imprimé. Les étiquettes doivent être imprimés toujours séparément. 
 
@@ -6665,7 +6665,7 @@
 
 =M_GLOSS_FORMAT_TEMPLATE(0)	Modèle de format 
 
-=M_GLOSS_FORMAT_TEMPLATE_P1(0)	Un modèle de format est une fichier, qui peut être utilisé comme modèle par formatage (police et format des lignes, etc.) par l'affichage des données, des dialogues et des documents imprimé. Des modèles de format LOCKBASE ont l'extension fichier '.lbt' et doivent être enregistrés dans le répertoire LOCKBASE. Simplement vous pouvez créer un modèle de format en enregistrant une fichier LOCKBASE, formatée selon vos souhaits, avec l'extension '.lbt' dans le répertoire LOCKBASE. 
+=M_GLOSS_FORMAT_TEMPLATE_P1(0)	Un modèle de format est un fichier, qui peut être utilisé comme modèle par formatage (police et format des lignes, etc.) par l'affichage des données, des dialogues et des documents imprimé. Des modèles de format LOCKBASE ont l'extension fichier '.lbt' et doivent être enregistrés dans le répertoire LOCKBASE. Simplement vous pouvez créer un modèle de format en enregistrant un fichier LOCKBASE, formaté selon vos souhaits, avec l'extension '.lbt' dans le répertoire LOCKBASE. 
 
 =M_GLOSS_FORMAT_TEMPLATE_P2(0)	!{Voir aussi:} Chap. III-1, {'Enregistrer le fichier de système de fermeture sous un nouveau nom'}->MAIN_FILE_SAVEAS et {'Page de garde'}->MAIN_FILE_COVERSHEET 
 
