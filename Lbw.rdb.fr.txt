@@ -53,7 +53,7 @@
 =ID_OPTIONS_STATUS_BAR(1)	Barre d'é&tat
 =ID_OPTIONS_LASTFILE(1)	Ouvrir les &derniers fichiers utilisés
 =ID_OPTIONS_VIEWS(1)	Ouvrir la &fenêtre au démarrage...
-=ID_OPTIONS_UADMIN(1)	&Administration des utilisateurs...
+=ID_OPTIONS_UADMIN(1)	&Administration des Utilisateurs...
 =ID_OPTIONS_B2B_AUTOEXCHANGE(1)	&Echange de données automatique
 =ID_OPTIONS_B2B_ADMIN(1)	&Administrer des Cartes de visite B2B...
 =ID_OPTIONS_CREATOR(1)	&Utiliser l'Assistant d'Organigramme
@@ -131,7 +131,7 @@
 =ID_EDIT_DELETELINES(1)	S&upprimer (Lignes)\tSuppr
 =ID_EDIT_COPY_LINE(1)	Co&pier (Lignes)\tCtrl+C
 =ID_EDIT_PASTE_LINE(1)	Co&ller (Lignes)\tCtrl+V
-=ID_OPTIONS_SYSTEMINFOFONT(1)	Police &Infos-sytème...
+=ID_OPTIONS_SYSTEMINFOFONT(1)	Police &Infos-système...
 =ID_OPTIONS_FORMATCOLS(1)	Format &colonnes...
 =ID_OPTIONS_KEYSUP(1)	&Clé haut
 =ID_OPTIONS_CYLSUP(1)	C&ylindre haut
@@ -386,7 +386,7 @@
 =IDD_SETUP_CISA_STATICTXT7(1)	Ball qty. / &positions:\n(e.g. 2:1,3,4)
 =IDD_SETUP_CISA_CHECK_CFILTER(1)	Disable &filters for construction keys
 
-=IDD_MACHINE(1)	Sortie machine
+=IDD_MACHINE(1)	Interface-Machine
 =IDD_MACHINE_STATICTXT1(1)		Sortie &machine:
 =IDD_MACHINE_STATICTXT2(1)		&Sortie fichier:
 =IDD_MACHINE_STATICTXT3(1)		&Fourchette de sortie:
@@ -529,7 +529,7 @@
 =IDD_LISTS_GROUNDPLAN_ADDITEMS_STATICTXT2(1)	Dans la liste, marquez les portes, qui doivent être insérées dans le plan de local, puis appuyez sur OK.
 =IDD_LISTS_GROUNDPLAN_ADDITEMS_HELP(1)	&Aide
 
-=IDD_USERS_LOGIN(1)	LOCKBASE - Initialisation de l'adm. des utilisateurs|LOCKBASE - Accueil|Administration des utilisateurs - Modifier un mot de passe
+=IDD_USERS_LOGIN(1)	LOCKBASE - Initialisation de l'adm. des utilisateurs|LOCKBASE - Accueil|Administration des Utilisateurs - Modifier un mot de passe
 =IDD_USERS_LOGIN_STATIC1(1)	&Mot de passe:|&Ancien mot de passe:
 =IDD_USERS_LOGIN_STATIC2(1)	&Confirmer le mot de passe:|&Nouveau mot de passe:
 =IDD_USERS_LOGIN_STATIC3(1)	&Confirmer le mot de passe:
@@ -539,7 +539,7 @@
 =IDD_USERS_LOGIN_STATIC_INSTRUCT(1)	Instructions
 =IDD_USERS_LOGIN_STATICTXT1(1)	&Utilisateur:
 
-=IDD_USERS_ADMIN(1)	Administration des utilisateurs
+=IDD_USERS_ADMIN(1)	Administration des Utilisateurs
 =IDD_USERS_ADMIN_STATICTXT1(1)	&Utilisateurs:
 =IDD_USERS_ADMIN_BUTTON_NEW(1)	&Nouveau
 =IDD_USERS_ADMIN_BUTTON_REM(1)	&Supprimer
@@ -603,7 +603,7 @@
 =IDD_CISA_MATRIX_SETUP_STATICTXT2(1)	Code de préfixe de système:
 =IDD_CISA_MATRIX_SETUP_CANCEL(1)	Annuler
 
-=IDD_PRINT_SELECT(1)	Qu'est-ce qui doit être imprimé ?
+=IDD_PRINT_SELECT(1)	Sélection d'Imprimés
 =IDD_PRINT_SELECT_STATICTXT1(1)	&Formulaires:
 =IDD_PRINT_SELECT_STATICTXT2(1)	Imprima&nte:
 =IDD_PRINT_SELECT_STATICTXT3(1)	F&ourchette de sortie:
@@ -1052,7 +1052,7 @@
 =IDS_FILE_B2B_SENDTHIS(1)	Ouvre une boîte de dialogue pour l'envoi de l'actuel système de fermeture\nOuvre une boîte de dialogue pour l'envoi de l'actuel système de fermeture
 =IDS_FILE_B2B_EXCHANGE(1)	Transmet les fichiers prêts à l'envoi et reçoit le courrier entrant par Internet
 =IDS_OPTIONS_B2B_AUTOEXCHANGE(1)	Détermine que l'échange de données est effectué automatiquement au démarrage du programme
-=IDS_EDIT_CONSISTENCY(1)	Vérifie si le sytème contient des désignations de cylindres ou de clés doubles, etc.
+=IDS_EDIT_CONSISTENCY(1)	Vérifie si le système contient des désignations de cylindres ou de clés doubles, etc.
 =IDS_VIEW_GROUNDPLAN(1)	Bascule entre le Plan de Local et la représentation sous forme de listes des portes.
 =AFX_IDS_IDLEMESSAGE(1)	F1 pour l'aide
 =AFX_IDS_HELPMODEMESSAGE(1)	Sélectionnez un objet pour lequel vous voulez obtenir de l'aide
@@ -1249,22 +1249,22 @@
 =IDS_MACHINE_UNOCODESTR(1)	Installer Unocode\nProduit/No de carte:\nNo de carte:\n
 =IDS_MACHINE_ECOSSTR(1)	Installer Ecos II\nProduit/utilisation:\n&Utilisation:\n
 =IDP_MACHINE_ECOSWARN(1)	Attention!\nLes descriptions de clés contiennent des caractères autres que numérique\nLa fonction de série Ecos II ne peut pas être utilisée pour fraiser les clés transmises.
-=IDP_MACHINE_NOTRANSFER(1)	L'Interface Machine n'est accessible qu'après la transmission des valeurs de taille et de piston du Module de Calcul dans la base de données.\nAucun transfert n'a pourtant été effectué.
+=IDP_MACHINE_NOTRANSFER(1)	L'Interface-Machine n'est accessible qu'après la transmission des valeurs de taille et de piston du Module de Calcul dans la base de données.\nAucun transfert n'a pourtant été effectué.
 =IDP_MACHINE_BRANDERROR(0)	Les systèmes de cette produit ne peuvent pas être sorties sur la machine sélectionnée.
 =IDS_MACHINE_QUATTROSTR(1)	Installer Quattrocode\nProduit/No de série Silca:\nNo de série Silca:\n
-=IDP_CGA_NOCGA(1)	L'administration de groupes de codes ne peut être démarrée.\n\nLe fichier LBWCGA.EXE n'est pas présent dans le répertoire LOCKBASE, a été endommagé ou ne peut être lancé pour d'autres raisons (par. ex. Windows 3.1 ou antérieur).
+=IDP_CGA_NOCGA(1)	L'Administration de Groupes de Codes ne peut être démarrée.\n\nLe fichier LBWCGA.EXE n'est pas présent dans le répertoire LOCKBASE, a été endommagé ou ne peut être lancé pour d'autres raisons (par. ex. Windows 3.1 ou antérieur).
 =IDP_LISTS_CREATE_DOORS(1)	Les registres des descriptions de portes des cylindres doivent-ils être créés?\nLes portes %lu ont été créées.\nToutes les portes sont déjà disponibles.
 =IDP_LISTS_NOKEYRETURN(1)	Aucune date de retour de clé dépassée.
 =IDS_LISTS_PROCVIEW_KEYRETURN(1)	Recherche de retours de clés : %d%%
 =IDP_LISTS_GROUNDPLAN_ERR(1)	L'erreur suivante s'est produite:\nLa désignation est manquante ou a déjà été attribuée à un autre plan de local.\nLe fichier indiqué n'a pas été trouvé.\nLe fichier indiqué n'est pas un fichier graphique ou son format n'est pas pris en charge.\n
 =IDS_LISTS_GROUNDPLAN_FILTER(1)	Fichiers graphiques pris en charge
-=IDP_LISTS_GROUNDPLAN_DEL(1)	Êtes-vous sûr de vouloir supprimer ce plan ?
-=IDP_LISTS_GROUNDPLAN_REMITEMS(1)	Êtes-vous sûr de vouloir retirer %lu portes de ce plan ?
+=IDP_LISTS_GROUNDPLAN_DEL(1)	Êtes-vous sûr de vouloir supprimer ce plan?
+=IDP_LISTS_GROUNDPLAN_REMITEMS(1)	Êtes-vous sûr de vouloir retirer %lu portes de ce plan?
 =IDP_LISTS_GROUNDPLAN_LOAD(1)	Erreur lors du chargement du plan de local '%s' :\nLe nom du plan n'est pas valide.\nLe fichier lié au plan de local ne se trouve pas à l'endroit attendu. Entrez à nouveau le chemin du fichier.\nLe fichier lié au plan de local n'est pas un fichier graphique ou n'est pas d'un format pris en charge. Veuillez sélectionner un autre fichier.\n
 =IDP_BRANDSET_IMPORTERROR(1)	Erreur lors de la initialisation du module de fabrication '%s':\nLe fichier '%s' ne peut être ouvert.\nLe fichier '%s' ne contient que des données invalides.\nImpossible d'écrire dans le fichier '%s'.
 =IDP_BRANDSET_IMPORTOK(1)	Les données pour le module de fabrication '%s' ont été lues avec succès.
 =IDP_DOC_ASK_TO_SAVE(1)	Les données dans '%s' ont été modifiées.\nVoulez-vous enregistrer les modifications?
-=IDP_DOC_CGA_TO_SAVE(1)	Notez que vous devez annuler manuellement les modifications effectuées dans l'administration de groupes de codes si vous n'enregistrez pas ce système.
+=IDP_DOC_CGA_TO_SAVE(1)	Notez que vous devez annuler manuellement les modifications effectuées dans l'Administration de Groupes de Codes si vous n'enregistrez pas ce système.
 =IDS_DOC_EVVASAT_UNRESOLVED(1)	Erreur lors de la lecture du fichier '%s', ligne %ld, champ %ld:\nLe plan d'organigramme a été abandonné. Vous trouverez de plus amples informations pour la lecture du plan d'organigramme dans votre manuel Evva-Satellit.
 =IDP_DOC_IMPORTERROR1(1)	Erreur lors de la conversion des données!\nLe fichier %s, registre %ld, champ %ld contient des données invalides ou inattendues.\nLe fichier %s, registre %ld contient des données invalides ou inattendues.
 =IDP_DOC_IMPORTERROR_GENERAL(1)	Erreur lors de l'importation de données!\nLe répertoire %s ne peut pas être créé.\nFichier %s introuvable.  Ce programme doit se trouver dans le répertoire LOCKBASE.\nLe fichier d'archive Zip ne contient pas les données attendues.
@@ -1297,7 +1297,7 @@
 =IDP_CYLF_ADDCHGKEYS(1)	Voulez-vous créer des clés individuelles pour les cylindres sélectionnés ?
 =IDP_CYLF_REMCHGKEYS(1)	Voulez-vous supprimer toutes les clés individuelles pour les cylindres sélectionnés ?
 =IDP_MACHINE_FERTECNO(1)	Les paramètres de la machine n'ont pas été reseignés complètement ou en partie.
-=IDS_MACHINE_SILCASSI(1)	Installer Silca SSI\nProduit/No de série Silce:\nNo de série Silca:\n
+=IDS_MACHINE_SILCASSI(1)	Installer Silca SSI\nProduit/No de série Silca:\nNo de série Silca:\n
 =IDS_MACHINE_GERAISEL(1)	Installer Gera Isel\n&Produit/Carte:\n&Carte:\n
 =IDS_MACHINE_SILCACSV_HEAD(1)	Code;Quantité;Côté A
 =IDS_B2B_EXCHANGE_TXT(1)	Démarrage transfert de données ...\nEnvoyer '%s'\nRecevoir '%s'\nErreur: '%s'\nTransfert des données interrompu.\nTransfert de données terminé.
@@ -1321,7 +1321,7 @@
 =IDS_EDIT_GROUNDPLAN_DELETE(1)	Supprime le plan de local actuel
 =IDS_WINDOW_FOCUSPREV(1)	Basculer vers la base de données précédente pour visionner des registres de données
 =IDS_WINDOW_FOCUSNEXT(1)	Feuilleter vers la prochaine base de données pour visionner des registres de données
-=IDS_OPTIONS_UADMIN(1)	Ouvrir ou activer l'administration des utilisateurs
+=IDS_OPTIONS_UADMIN(1)	Ouvrir ou activer l'Administration des Utilisateurs
 =IDS_OPTIONS_CREATOR(1)	Activez ce réglage, pour utiliser l'Assistant d'Organigramme pour créer des nouveaux systèmes de fermetures
 =IDS_OPTIONS_CTDBDOC(1)	Activez ce réglage, pour afficher les textes d'aide concernant les produits des cylindres lors de la création ou de l'édition des cylindres
 =IDS_OPTIONS_B2B_ADMIN(1)	Ouvre une boîte de dialogue pour administrer des Cartes de visite B2B
@@ -1332,15 +1332,15 @@
 =IDP_USERS_ERR_PASS(1)	Le mot de passe est invalide.\r\rLe mot de passe doit au moins contenir 3 caractères et ne pas contenir d’espaces.
 =IDP_USERS_ERR_RETYPE(1)	Le mot de passe et la confirmation sont différents.
 =IDP_USERS_CNF_REMOVE(1)	Êtes-vous sûr de vouloir supprimer cet utilisateur?
-=IDP_USERS_CNF_DISABLE(1)	Êtes-vous sûr de vouloir désactiver l'administration des utilisateurs ?\r\rVeuillez tenir compte du fait que chaque utilisateur aura l’accès complet sur toutes les données en cas de désactivation de l’administration des utilisateurs.
-=IDP_USERS_DISABLE(1)	L’administration des utilisateurs a été désactivée.\r\rTous les utilisateurs ont un accès complet à toutes les données.\r\rIl est possible de réactiver l’administration des utilisateurs en sélectionnant à nouveau la commande de menu 'Administration des utilisateurs' et en redémarrant LOCKBASE.
-=IDP_USERS_CNF_ENABLE(1)	L’administration des utilisateurs est inactive.\r\rVoulez-vous l’activer maintenant?
-=IDP_USERS_ENABLE(1)	L’administration des utilisateurs sera activée au prochain démarrage du programme.\r\rQuittez le programme maintenant et lancez LOCKBASE à nouveau pour rendre la modification effective.
+=IDP_USERS_CNF_DISABLE(1)	Êtes-vous sûr de vouloir désactiver l'Administration des Utilisateurs?\r\rVeuillez tenir compte du fait que chaque utilisateur aura l’accès complet sur toutes les données en cas de désactivation de l’Administration des Utilisateurs.
+=IDP_USERS_DISABLE(1)	L’Administration des Utilisateurs a été désactivée.\r\rTous les utilisateurs ont un accès complet à toutes les données.\r\rIl est possible de réactiver l’Administration des Utilisateurs en sélectionnant à nouveau la commande de menu 'Administration des Utilisateurs' et en redémarrant LOCKBASE.
+=IDP_USERS_CNF_ENABLE(1)	L’Administration des Utilisateurs est inactive.\r\rVoulez-vous l’activer maintenant?
+=IDP_USERS_ENABLE(1)	L’Administration des Utilisateurs sera activée au prochain démarrage du programme.\r\rQuittez le programme maintenant et lancez LOCKBASE à nouveau pour rendre la modification effective.
 =IDP_USERS_ERR_LOGIN(1)	L’utilisateur est inconnu ou le mot de passe est erroné.\r\rLOCKBASE ne peut pas ouvrir votre session.
 =IDP_USERS_ERR_OLDPWD(1)	L’ancien mot de passe est incorrect.
 =IDP_USERS_CHGPWD(1)	Le mot de passe pour l’utilisateur '%s' a été modifié.
 =IDS_USERS_INSTRUCT(1)	Initialisation de la base de données des utilisateurs.Veuillez saisir un nom et un mot de passe pour l'administrateur maître:|Pour s'identifier dans LOCKBASE, veuillez saisir votre nom d'utilisateur et votre mot de passe dans les champs suivants:|Pour modifier votre mot de passe, tapez d'abord votre ancien mot de passe, puis votre nouveau mot de passe:
-=IDS_USERS_RIGHTS(1)	Vue:0-3:Aperçu Listes;Plan d'Organigramme;Module de Calcul;Designer Système\nAccès aux données:10-12:Modifier systèmes;Données techniques;Modifier systèmes calculés\nOutils:50-52:Interface machine;Echange de données Internet (B2B);Charger et installer les mises à jour
+=IDS_USERS_RIGHTS(1)	Vue:0-3:Aperçu Listes;Plan d'Organigramme;Module de Calcul;Designer Système\nAccès aux données:10-12:Modifier systèmes;Données techniques;Modifier systèmes calculés\nOutils:50-52:Interface-Machine;Echange de données Internet (B2B);Charger et installer les mises à jour
 =IDS_UPDATE_TXT0(1)	LOCKBASE va tenter de contrôler si des nouvelles mises à jour sont disponibles sur le serveur Web Lockbase pour cette installation.\nAppuyez sur 'Suivant >>' pour poursuivre, ou sur 'Annuler' pour quitter l'opération.\n\nSi vous désirez désactiver la fonction de mise à jour Web, sélectionnez 'À propos de LOCKBASE...' dans le menu d'Aide et décochez la case 'Contrôler automatiquement tous les...'.
 =IDS_UPDATE_TXT1(1)	\nConnexion avec le serveur Web LOCKBASE en cours ...
 =IDS_UPDATE_TXT2(1)	La mise à jour suivante a été trouvée:\n\n%s\n\nAppuyez sur 'Suivant >>' pour charger et installer la mise à jour maintenant ou sur 'Annuler' pour quitter l'opération.
@@ -1646,7 +1646,7 @@
 =IDP_APP_ERR_MODULE(1)	Le fichier '%s' n'est pas localisé dans l'annuaire de LOCKBASE, a été endommagé ou manque certains de ses composants.
 =IDS_APP_CFG_LBFCREATOR(1)	0|CPP%u|CPG|CPG
 
-=IDD_CGA(1)	Administration de groupes de codes
+=IDD_CGA(1)	Administration de Groupes de Codes
 =IDD_CGA_STATICTXT1(1)	Rec&hercher dans:
 =IDD_CGA_STATICTXT2(1)	Groupe de &code / Etat:
 =IDD_CGA_STATICTXT3(1)	&Description:
@@ -1677,8 +1677,8 @@
 =IDP_CGA_WARN(1)	%s%s\rUne nouvelle utilisation est fortement déconseillée, car il est très probable qu'elle induise une fermeture non-voulue de clés n'apparenant pas au système\r\rVoulez-vous tout de même utiliser le groupe de codes. 
 =IDP_CGA_WARNSINGLE(1)	Ce groupe de codes a déjà été déjà utilisé pour un ou plusieurs systèmes.\n
 =IDP_CGA_ERRLOGIN(1)	Erreur lors de l'accès à l'administration des groupes de codes:\rL'accès est actuellement bloqué par d'autres utilisateurs dans le réseau.
-=IDP_APPLIC_DDEONLY(1)	L'administration de groupes de codes peut pas créer de connexion à LOCKBASE.\nLe programme sera arrêté. 
-=IDP_APPLIC_NOFAB(1)	Le fichier de fabrications '%s' ne peut être ouvert ou contient des données invalides. L'administration de groupes de codes ne peut pas démarrer.
+=IDP_APPLIC_DDEONLY(1)	L'Administration de Groupes de Codes peut pas créer de connexion à LOCKBASE.\nLe programme sera arrêté. 
+=IDP_APPLIC_NOFAB(1)	Le fichier de fabrications '%s' ne peut être ouvert ou contient des données invalides. L'Administration de Groupes de Codes ne peut pas démarrer.
 =IDP_APPLIC_DBERR(1)	Une erreur s'est produite lors de l'ouverture de l'adm. de groupes de codes:\nLe fichier '%s' est introuvable.\nLe fichier '%s' contient des données invalides.\n Le fichier '%s' ne peut être créé.\nLe fichier '%s' existe déjà.\nLe fichier '%s' est déjà ouvert.\nL'adm. de groupes de codes est bloquée par un autre utilisateur du réseau.\nLe fichier '%s' a été créé par une version plus ancienne de LOCKBASE.\nLe fichier a été créé avec par une version plus récente de LOCKBASE.
 =IDS_CGA_LOCK(1)	Bloquer / débloquer Groupe de codes (F7)
 =IDS_CGA_EDIT(1)	Ajouter / Editer description de profil (F8)
@@ -1692,7 +1692,7 @@
 =IDS_CGAEDITPROF_DESCRIPTION(1)	<Profil défini par l'utilisateur>
 =IDP_CGAEDITPROF_INVALID(1)	La description indiquée est invalide.\nSélectionnez un autre nom pour le profil.
 =IDP_STDBRAND_NODATA(1)	Aucun profil n'est disponible pour le module de fabrication '%s'.
-=AFX_IDS_APP_TITLE_CGA(1)	Administration de groupes de codes
+=AFX_IDS_APP_TITLE_CGA(1)	Administration de Groupes de Codes
 
 =IDD_MAIN(1)	Assistant d'Organigramme LOCKBASE
 =IDD_MAIN_PANEL_SYS(1)	Page de garde
@@ -1953,7 +1953,7 @@
 
 =M_INTRO_INSTALL_START_P1_C(0)	Déplacez le curseur de la souris sur l'élément de menu m{Programmes}, puis sur m{LOCKBASE} et cliquez sur m{LOCKBASE}. 
 
-=M_INTRO_INSTALL_START_P2(0)	Lorsque l'administration des utilisateurs LOCKBASE est activée, le dialogue d'identification s'affiche d'abord (voir chap. I-2, {'Identification dans LOCKBASE'}->INTRO_INSTALL_LOGIN). Entrez ici le votre mot de passe d'utilisateur et cliquez sur f{OK}. La fenêtre w{Principale} de LOCKBASE s'affiche à l'écran un court moment après, et vous pouvez utiliser LOCKBASE. 
+=M_INTRO_INSTALL_START_P2(0)	Lorsque l'Administration des Utilisateurs LOCKBASE est activée, le dialogue d'identification s'affiche d'abord (voir chap. I-2, {'Identification dans LOCKBASE'}->INTRO_INSTALL_LOGIN). Entrez ici le votre mot de passe d'utilisateur et cliquez sur f{OK}. La fenêtre w{Principale} de LOCKBASE s'affiche à l'écran un court moment après, et vous pouvez utiliser LOCKBASE. 
 
 =M_INTRO_INSTALL_UNLOCK(0)	Libérer LOCKBASE 
 
@@ -1973,7 +1973,7 @@
 
 =M_INTRO_INSTALL_LOGIN_P1(0)	Identification dans LOCKBASE 
 
-=M_INTRO_INSTALL_LOGIN_P2(0)	Lorsque l'{Administration des utilisateurs}->MAIN_OPTIONS_USERADMIN est activée, vous devez d'abord vous identifier dans LOCKBASE. Le dialogue de connexion s'affiche avec les champs suivants: 
+=M_INTRO_INSTALL_LOGIN_P2(0)	Lorsque l'{Administration des Utilisateurs}->MAIN_OPTIONS_USERADMIN est activée, vous devez d'abord vous identifier dans LOCKBASE. Le dialogue de connexion s'affiche avec les champs suivants: 
 
 =M_INTRO_INSTALL_LOGIN_P2_A(0)	f{Utilisateur}: Entrez votre nom d'utilisateur ici. Votre nom d'utilisateur Windows est automatiquement inséré, il est donc recommandé d'utiliser celui-ci en tant que nom d'utilisateur LOCKBASE. 
 
@@ -1981,7 +1981,7 @@
 
 =M_INTRO_INSTALL_LOGIN_P3(0)	La dialogue de connexion pour l'administrateur maître 
 
-=M_INTRO_INSTALL_LOGIN_P4(0)	Lorsque LOCKBASE est lancé pour la première fois, vous devez saisir un mot de panne pour l'administrateur maître. Le premier utilisateur, qui lance LOCKBASE, devient automatiquement l'administrateur maître. Cet utilisateur peut avoir accès à l'administration des utilisateur et créer les autres utilisateurs (voir chap. III-2, {'Administration des utilisateurs'}->MAIN_OPTIONS_USERADMIN). Vous pouvez par la suite retirer le droit de l'administrateur à l'administrateur maître, mais il faut toujours qu'il en existe un. 
+=M_INTRO_INSTALL_LOGIN_P4(0)	Lorsque LOCKBASE est lancé pour la première fois, vous devez saisir un mot de panne pour l'administrateur maître. Le premier utilisateur, qui lance LOCKBASE, devient automatiquement l'administrateur maître. Cet utilisateur peut avoir accès à l'administration des utilisateur et créer les autres utilisateurs (voir chap. III-2, {'Administration des Utilisateurs'}->MAIN_OPTIONS_USERADMIN). Vous pouvez par la suite retirer le droit de l'administrateur à l'administrateur maître, mais il faut toujours qu'il en existe un. 
 
 =M_INTRO_INSTALL_LOGIN_P5(0)	Le dialogue de connexion pour l'administrateur maître possède un champ supplémentaire pour la confirmation du mot de passe: 
 
@@ -2693,7 +2693,7 @@
 
 =M_FSTEP_CALC_P42(0)	Nous allons démontrer l'imprimé avec l'exemple de la Liste de tailles de clés: 
 
-=M_FSTEP_CALC_P42_A(0)	Sélectionnez dans le menu m{Fichier} la commande m{Imprimer}. La boîte de dialogue w{Qu'est-ce qui doit être imprimé?}->PRN_SELECT apparaît. 
+=M_FSTEP_CALC_P42_A(0)	Sélectionnez dans le menu m{Fichier} la commande m{Imprimer}. La boîte de dialogue w{Sélection d'Imprimés}->PRN_SELECT apparaît. 
 
 =M_FSTEP_CALC_P42_B(0)	Cliquez dans la liste f{Documents} sur le mot w{Liste de tailles de clés}. 
 
@@ -3077,13 +3077,13 @@
 
 =M_MAIN_FILE_COVERSHEET_P10_E(0)	f{Commande...}: Ce bouton ouvre la boîte de dialogue w{Administration de commandes} (voir chap. III-1, {'Administration de commandes'}->MAIN_FILE_ORDERS), avec laquelle vous pouvez attribuer des cylindres et des clés à la commande sélectionnée. 
 
-=M_MAIN_FILE_COVERSHEET_P10_F(0)	f{Format...}: Ce bouton ouvre le dialogue w{Format lignes} pour modifier l'affichage de la liste f{Expansions/Commandes} (voir chap. IV-2, {'Police et format lignes'}->DLG_USAGE_LINE). L'ordre des champs détermine l'affichage des zones de sortie des cylindres et des copies de clés dans le dialogue Sélection d'imprimés (voir chap. IX-1, {'La boîte de dialogue Sélection d'imprimés'}->PRN_SELECT) et dans l'Interface Machine (voir chap. III-1, {'Interface Machine'}->MAIN_FILE_MACHINE), parce qu'ici le contenu du premier champ affiché dans la liste sera offert pour choisir la zone de sortie. 
+=M_MAIN_FILE_COVERSHEET_P10_F(0)	f{Format...}: Ce bouton ouvre le dialogue w{Format lignes} pour modifier l'affichage de la liste f{Expansions/Commandes} (voir chap. IV-2, {'Police et format lignes'}->DLG_USAGE_LINE). L'ordre des champs détermine l'affichage des zones de sortie des cylindres et des copies de clés dans le dialogue Sélection d'Imprimés (voir chap. IX-1, {'La boîte de dialogue Sélection d'Imprimés'}->PRN_SELECT) et dans l'Interface-Machine (voir chap. III-1, {'Interface-Machine'}->MAIN_FILE_MACHINE), parce qu'ici le contenu du premier champ affiché dans la liste sera offert pour choisir la zone de sortie. 
 
 =M_MAIN_FILE_COVERSHEET_P10_G(0)	f{Commentaire}: Ici, le commentaire déposé au processus est indiqué (voir chap. III-1, {'Administration de commandes'}->MAIN_FILE_ORDERS). Ce champ ne peut pas être modifié. 
 
 =M_MAIN_FILE_ORDERS(0)	Administration de commandes 
 
-=M_MAIN_FILE_ORDERS_P1(0)	À l'aide d'Administration de commandes on peut documenter les modifications et les expansions effectués au système de fermeture. Pour chaque extension vous pouvez établir un registre avec toutes les données de commande importantes et l'attribuer des cylindres et des clés correspondants. De plus vous pouvez sélectionner les registres de cylindres et de clés appartiennent directement à une commande dans le Module d'Impression et dans l'Interface Machine. 
+=M_MAIN_FILE_ORDERS_P1(0)	À l'aide d'Administration de commandes on peut documenter les modifications et les expansions effectués au système de fermeture. Pour chaque extension vous pouvez établir un registre avec toutes les données de commande importantes et l'attribuer des cylindres et des clés correspondants. De plus vous pouvez sélectionner les registres de cylindres et de clés appartiennent directement à une commande dans le Module d'Impression et dans l'Interface-Machine. 
 
 =M_MAIN_FILE_ORDERS_P2(0)	L'Administration de commandes est une partie des Page de gardes et peut aussi ouvert par la zone 'Historique' du dialogue w{Page de garde} (voir chap. III-1, {'Page de garde'}->MAIN_FILE_COVERSHEET). 
 
@@ -3179,11 +3179,11 @@
 
 =M_MAIN_FILE_PWD_P4_A(0)	Pour des raisons de sécurité, des astérisques (*) s'affichent à la place des caractères que vous tapez dans cette boîte de dialogue. Assurez-vous que personne ne vous espionne votre clavier, lorsque vous tapez ou modifiez votre mot de passe. 
 
-=M_MAIN_FILE_MACHINE(0)	Interface - Machine 
+=M_MAIN_FILE_MACHINE(0)	Interface-Machine 
 
-=M_MAIN_FILE_MACHINE_P1(0)	La boîte de dialogue w{Sortie machine} 
+=M_MAIN_FILE_MACHINE_P1(0)	La boîte de dialogue w{Interface-Machine} 
 
-=M_MAIN_FILE_MACHINE_P2(0)	Lorsque vous avez choisi m{Fichier - Interface-Machine} depuis le menu, la boîte de dialogue w{Sortie machine} s'affiche. Vous pouvez ici générer un fichier comprenant les combinaisons de fermetures ou les montages de cylindres pour le transmettre à une fraiseuse de clés CNC ou un automate de montage de cylindres. 
+=M_MAIN_FILE_MACHINE_P2(0)	Lorsque vous avez choisi m{Fichier - Interface-Machine} depuis le menu, la boîte de dialogue w{Interface-Machine} s'affiche. Vous pouvez ici générer un fichier comprenant les combinaisons de fermetures ou les montages de cylindres pour le transmettre à une fraiseuse de clés CNC ou un automate de montage de cylindres. 
 
 =M_MAIN_FILE_MACHINE_P3(0)	La boîte de dialogue possède les champs de saisie suivants: 
 
@@ -3345,17 +3345,17 @@
 
 =M_MAIN_OPTIONS_OPENWINONSTART_P3_A(0)	Ce réglage est automatiquement enregistré. 
 
-=M_MAIN_OPTIONS_USERADMIN(0)	Administration des utilisateurs 
+=M_MAIN_OPTIONS_USERADMIN(0)	Administration des Utilisateurs 
 
-=M_MAIN_OPTIONS_USERADMIN_P1(0)	L'administration des utilisateurs permet la création d'un nombre voulu d'utilisateurs LOCKBASE avec des droits d'accès et de traitement différents sur les données d'un système de fermeture. Ceci permet de minimiser les sources d'erreurs dans les processus de travail des entreprises, dans lesquels des personnes différentes exécutent des travaux différents sur un système de fermeture. 
+=M_MAIN_OPTIONS_USERADMIN_P1(0)	L'Administration des Utilisateurs permet la création d'un nombre voulu d'utilisateurs LOCKBASE avec des droits d'accès et de traitement différents sur les données d'un système de fermeture. Ceci permet de minimiser les sources d'erreurs dans les processus de travail des entreprises, dans lesquels des personnes différentes exécutent des travaux différents sur un système de fermeture. 
 
-=M_MAIN_OPTIONS_USERADMIN_P2(0)	Pour ouvrir l'administration des utilisateurs, 
+=M_MAIN_OPTIONS_USERADMIN_P2(0)	Pour ouvrir l'Administration des Utilisateurs, 
 
-=M_MAIN_OPTIONS_USERADMIN_P2_A(0)	sélectionnez la commande m{Options - Administration des utilisateurs}. 
+=M_MAIN_OPTIONS_USERADMIN_P2_A(0)	sélectionnez la commande m{Options - Administration des Utilisateurs}. 
 
 =M_MAIN_OPTIONS_USERADMIN_P3(0)	Boîte de dialogue de modification du mot de passe utilisateur 
 
-=M_MAIN_OPTIONS_USERADMIN_P4(0)	L'administration des utilisateurs peut uniquement être ouvert par un administrateur (voir ci-dessous). Lorsqu'un utilisateur lambda exécute cette commande, une boîte de dialogue s'affiche dans laquelle un utilisateur normal peut modifier son mot de passe. 
+=M_MAIN_OPTIONS_USERADMIN_P4(0)	L'Administration des Utilisateurs peut uniquement être ouvert par un administrateur (voir ci-dessous). Lorsqu'un utilisateur lambda exécute cette commande, une boîte de dialogue s'affiche dans laquelle un utilisateur normal peut modifier son mot de passe. 
 
 =M_MAIN_OPTIONS_USERADMIN_P5(0)	Cette boîte de dialogue contient les champs suivants: 
 
@@ -3365,11 +3365,11 @@
 
 =M_MAIN_OPTIONS_USERADMIN_P5_C(0)	f{Nouveau mot de passe}, f{Confirmation le mot de passe}: Entrez votre nouveau mot de passe LOCKBASE dans ces deux champs. Le deuxième champ sert au contrôle de la saisie dans le premier champ. Ceci permet d'éviter toute faute de frappe lors de la saisie du mot de passe. 
 
-=M_MAIN_OPTIONS_USERADMIN_P6(0)	L'administration des utilisateurs LOCKBASE 
+=M_MAIN_OPTIONS_USERADMIN_P6(0)	L'administration des Utilisateurs LOCKBASE 
 
-=M_MAIN_OPTIONS_USERADMIN_P7(0)	La gestion des droits des utilisateurs est réservée aux administrateurs. Seuls eux peuvent accéder à l'administration des utilisateurs. C'est pourquoi il doit au moins en exister un. C'est également pourquoi LOCKBASE crée automatiquement un administrateur lors de l'initialisation de l'administration des utilisateurs (voir chap. I-2, {'Identification dans LOKCBASE'}->INTRO_INSTALL_LOGIN). 
+=M_MAIN_OPTIONS_USERADMIN_P7(0)	La gestion des droits des utilisateurs est réservée aux administrateurs. Seuls eux peuvent accéder à l'Administration des Utilisateurs. C'est pourquoi il doit au moins en exister un. C'est également pourquoi LOCKBASE crée automatiquement un administrateur lors de l'initialisation de l'Administration des Utilisateurs (voir chap. I-2, {'Identification dans LOKCBASE'}->INTRO_INSTALL_LOGIN). 
 
-=M_MAIN_OPTIONS_USERADMIN_P8(0)	Lorsqu'un administrateur exécute la commande m{Options - Administration des utilisateurs}, l'administration des utilisateurs complète s'affiche. Cette boîte de dialogue offre les champs de saisie et les éléments de commande suivants: 
+=M_MAIN_OPTIONS_USERADMIN_P8(0)	Lorsqu'un administrateur exécute la commande m{Options - Administration des Utilisateurs}, l'Administration des Utilisateurs complète s'affiche. Cette boîte de dialogue offre les champs de saisie et les éléments de commande suivants: 
 
 =M_MAIN_OPTIONS_USERADMIN_P8_A(0)	f{Utilisateurs}: La liste de tous les utilisateurs autorisés à travailler avec LOCKBASE. Le nom d'utilisateur est affiché. Sélectionnez l'utilisateur ici, dont vous désirez modifier les caractéristiques. 
 
@@ -3383,13 +3383,13 @@
 
 =M_MAIN_OPTIONS_USERADMIN_P8_F(0)	f{Administrateur}: Activez cette case à cocher, lorsque l'utilisateur sélectionné doit être un administrateur. Un administrateur possède automatiquement tous les droits disponibles et peut en plus créer de nouveaux utilisateurs et en modifier ou supprimer des existants. C'est pourquoi il faut faire attention à la distribution du droit de l'administrateur. Il faut cependant qu'il existe un administrateur. Ainsi un administrateur est automatiquement créé lors de la première initialisation de LOCKBASE (voir chap. I-2, {'Identification dans LOCKBASE'}->INTRO_INSTALL_LOGIN). 
 
-=M_MAIN_OPTIONS_USERADMIN_P8_G(0)	f{Accepter Windows login}: Activez cette case à cocher lorsque vous ne voulez pas effectuer un propre login d'utilisateur, mais vous souhaiteriez que l'utilisateur doit être annoncé automatiquement avec son nom d'utilisateur Windows. Dans ce cas, le mot de passe enregistré va être ignoré. Des utilisateurs qui doivent être annoncés automatiquement avec leurs nom d'utilisateur Windows doivent être enregistrés dans l'administration des utilisateurs LOCKBASE. Si ce n'est pas le cas, un login régulier sera effectué (voir chap. I-2, {'Identification dans LOCKBASE'}->INTRO_INSTALL_LOGIN). 
+=M_MAIN_OPTIONS_USERADMIN_P8_G(0)	f{Accepter Windows login}: Activez cette case à cocher lorsque vous ne voulez pas effectuer un propre login d'utilisateur, mais vous souhaiteriez que l'utilisateur doit être annoncé automatiquement avec son nom d'utilisateur Windows. Dans ce cas, le mot de passe enregistré va être ignoré. Des utilisateurs qui doivent être annoncés automatiquement avec leurs nom d'utilisateur Windows doivent être enregistrés dans l'Administration des Utilisateurs LOCKBASE. Si ce n'est pas le cas, un login régulier sera effectué (voir chap. I-2, {'Identification dans LOCKBASE'}->INTRO_INSTALL_LOGIN). 
 
 =M_MAIN_OPTIONS_USERADMIN_P8_H(0)	f{Droits}: Cette liste contient les domaines, pour lesquels les droits d'utilisateurs sont attribués. Activez un domaine, pour afficher les droits correspondants à droite à côté de la liste. 
 
-=M_MAIN_OPTIONS_USERADMIN_P8_I(0)	f{Fermer}: Ce bouton permet de quitter l'administration des utilisateurs. Les modifications effectuées sont enregistrées et la boîte de dialogue est fermée. 
+=M_MAIN_OPTIONS_USERADMIN_P8_I(0)	f{Fermer}: Ce bouton permet de quitter l'Administration des Utilisateurs. Les modifications effectuées sont enregistrées et la boîte de dialogue est fermée. 
 
-=M_MAIN_OPTIONS_USERADMIN_P8_J(0)	f{Désactiver}: Ce bouton permet de désactiver l'administration des utilisateurs. Lorsque l'administration des utilisateurs est désactivée, toute personne, qui a accès au PC, peut utiliser LOCKBASE sans restriction. Ceci peut s'avérer nécessaire, lorsque LOCKBASE est uniquement utilisé par une personne et lorsque l'accès est impossible à des personnes non autorisées. Les utilisateurs déjà créés restent présents et peuvent à tout moment être réactivés à l'aide de la commande m{Options - Administration des utilisateurs}. 
+=M_MAIN_OPTIONS_USERADMIN_P8_J(0)	f{Désactiver}: Ce bouton permet de désactiver l'Administration des Utilisateurs. Lorsque l'Administration des Utilisateurs est désactivée, toute personne, qui a accès au PC, peut utiliser LOCKBASE sans restriction. Ceci peut s'avérer nécessaire, lorsque LOCKBASE est uniquement utilisé par une personne et lorsque l'accès est impossible à des personnes non autorisées. Les utilisateurs déjà créés restent présents et peuvent à tout moment être réactivés à l'aide de la commande m{Options - Administration des Utilisateurs}. 
 
 =M_MAIN_OPTIONS_USERADMIN_P9(0)	Afin d'améliorer la vue d'ensemble, les droits d'utilisateurs de LOCKBASE sont classés par différentes catégories. Les droits disponibles respectivement dépendent cependant de la version installée de LOCKBASE. Lorsque votre version de LOCKBASE ne contient par exemple aucun Module de Calcul, le droit pour le f{Module de Calcul} n'est pas disponible. Ci-dessous vous trouverez une description détaillée de la signification des différents droits des utilisateurs. 
 
@@ -3411,7 +3411,7 @@
 
 =M_MAIN_OPTIONS_USERADMIN_P12(0)	La catégorie !{Outils} contient les droits de fonctions supplémentaires ou de modules additionnels: 
 
-=M_MAIN_OPTIONS_USERADMIN_P12_A(0)	f{Interface machine}: L'utilisateur peut utiliser w{l'Interface machine} (voir chap. III-1, {'Interface machine'}->MAIN_FILE_MACHINE). 
+=M_MAIN_OPTIONS_USERADMIN_P12_A(0)	f{Interface-Machine}: L'utilisateur peut utiliser w{l'Interface-Machine} (voir chap. III-1, {'Interface-Machine'}->MAIN_FILE_MACHINE). 
 
 =M_MAIN_OPTIONS_USERADMIN_P12_B(0)	f{Echange de données Internet (B2B)}: L'utilisateur a le droit d'utiliser le Module B2B pour l'échange de données via Internet. 
 
@@ -3421,9 +3421,9 @@
 
 =M_MAIN_OPTIONS_USERADMIN_P13_A(0)	Lorsque l'utilisateur sélectionné est un administrateur, les éléments de contrôle dans la zone f{Droits} sont désactivés. Lorsque vous désirez configurer les droits d'un utilisateur, vous devez préalablement décocher la case f{Administrateur}. 
 
-=M_MAIN_OPTIONS_USERADMIN_P13_B(0)	Lorsque vous obtenez des messages d'erreur lors du changement d'utilisateur ou lors de la fermeture ou désactivation de l'administration des utilisateurs, cela indique que les données saisies pour l'utilisateur en cours sont incomplètes ou incorrectes. Entrez les données manquantes, corrigez les erreurs et effectuez une nouvelle tentative. Si vous avez créé un utilisateur par erreur, que vous ne désirez pas reprendre dans l'administration des utilisateurs, supprimez le tout simplement grâce au bouton f{Supprimer}. 
+=M_MAIN_OPTIONS_USERADMIN_P13_B(0)	Lorsque vous obtenez des messages d'erreur lors du changement d'utilisateur ou lors de la fermeture ou désactivation de l'Administration des Utilisateurs, cela indique que les données saisies pour l'utilisateur en cours sont incomplètes ou incorrectes. Entrez les données manquantes, corrigez les erreurs et effectuez une nouvelle tentative. Si vous avez créé un utilisateur par erreur, que vous ne désirez pas reprendre dans l'Administration des Utilisateurs, supprimez le tout simplement grâce au bouton f{Supprimer}. 
 
-=M_MAIN_OPTIONS_USERADMIN_P13_C(0)	Si l'administration des utilisateur a été éteinte, elle peut réactivée à l'aide de la commande m{Options - Administration des utilisateurs}. Vous devez ensuite quitter et redémarrer LOCKBASE, pour rendre la modification effective. 
+=M_MAIN_OPTIONS_USERADMIN_P13_C(0)	Si l'Administration des Utilisateur a été éteinte, elle peut réactivée à l'aide de la commande m{Options - Administration des Utilisateurs}. Vous devez ensuite quitter et redémarrer LOCKBASE, pour rendre la modification effective. 
 
 =M_MAIN_OPTIONS_B2B(0)	Envoyer/recevoir les fichiers 
 
@@ -3859,7 +3859,7 @@
 
 =M_DLG_DATA_CONNECT_P6_G(0)	f{Supprimer connexions} i{BTN_CONNECT_RSHIFT.BMP}: Marquez un ou plusieurs registres dans la liste f{Connecté}, et sélectionnez ce bouton de commande. Les registres sélectionnés sont déplacés dans l'autre liste et les connexions sont supprimées. 
 
-=M_DLG_DATA_CONNECT_P6_H(0)	f{Imprimer le reçu directement}: Cette case à cocher n'apparaît que lors de l'utilisation du dialogue d'utilisation pour la remise/le retour de clés dans la vue sous forme de liste (voir chap. V, {'Vue d'ensemble des listes'}->LST). Cochez la case, si vous voulez exécuter une impression directe de reçu avec les paramètres définis dans le module d'impression (voir chap. IX-2, {'Reçu de remise de clés'}->PRN_DOC_RECEIPT et {'Reçu de retour de clés'}->PRN_DOC_RECEIPT). 
+=M_DLG_DATA_CONNECT_P6_H(0)	f{Imprimer le reçu directement}: Cette case à cocher n'apparaît que lors de l'utilisation du dialogue d'utilisation pour la remise/le retour de clés dans la vue sous forme de liste (voir chap. V, {'Vue d'ensemble des listes'}->LST). Cochez la case, si vous voulez exécuter une impression directe de reçu avec les paramètres définis dans le Module d'Impression (voir chap. IX-2, {'Reçu de remise de clés'}->PRN_DOC_RECEIPT et {'Reçu de retour de clés'}->PRN_DOC_RECEIPT). 
 
 =M_DLG_DATA_CONNECT_P7(0)	Vous pouvez connecter ou supprimer plusieurs registres à la suite, vous pouvez également étendre la sélection sur plusieurs registres. Si les registres sont affichés ensembles dans la liste, appuyez et maintenez la touche k{Maj} enfoncée pendant que vous déplacez la sélection avec la souris ou avec les flèches k{Haut} ou k{Bas}. 
 
@@ -4831,9 +4831,9 @@
 
 =M_CALC_P8(0)	Les zones de saisies suivantes sont disponibles: 
 
-=M_CALC_P8_A(0)	f{Produit}: Sélectionnez dans cette liste de produits le cylindre, dans lequel le système de fermeture doit être monté. Dans la liste de produits, on trouve les modules de produits, que vous avez acquis avec votre version de LOCKBASE. Si vous avez également acquis l'w{Administration de groupes de codes}, sélectionnez un produit a l'aide de la commande m{Edition - Administration groupes de codes} (voir chap. VII-2, {'Administration de groupes de codes'}->CALC_CGA). 
+=M_CALC_P8_A(0)	f{Produit}: Sélectionnez dans cette liste de produits le cylindre, dans lequel le système de fermeture doit être monté. Dans la liste de produits, on trouve les modules de produits, que vous avez acquis avec votre version de LOCKBASE. Si vous avez également acquis l'w{Administration de Groupes de Codes}, sélectionnez un produit a l'aide de la commande m{Edition - Administration de Groupes de Codes} (voir chap. VII-2, {'Administration de Groupes de Codes'}->CALC_CGA). 
 
-=M_CALC_P8_B(0)	f{Groupe de codes}: Entrez ici un groupe de codes valide pour le produit sélectionné. Les identifiants présents de gauche à droite correspondent aux taillages de la butée jusqu'à la pointe de la clé. Le groupe de code est valable, comme le produit, pour la totalité du système de fermeture. Les combinaisons de caractères pouvant être utilisées sont différentes selon les produits (voir chap. VII-7, {'Produits de cylindres et groupes de codes'}->CALC_BRANDS). Si vous avez également acquis l' w{Administration de groupes de codes}, sélectionnez un groupe de code a l'aide de la commande m{Edition - Administration groupes de codes} voir chap. VII-2, {'Administration de groupes de codes'}->CALC_CGA). 
+=M_CALC_P8_B(0)	f{Groupe de codes}: Entrez ici un groupe de codes valide pour le produit sélectionné. Les identifiants présents de gauche à droite correspondent aux taillages de la butée jusqu'à la pointe de la clé. Le groupe de code est valable, comme le produit, pour la totalité du système de fermeture. Les combinaisons de caractères pouvant être utilisées sont différentes selon les produits (voir chap. VII-7, {'Produits de cylindres et groupes de codes'}->CALC_BRANDS). Si vous avez également acquis l' w{Administration de Groupes de Codes}, sélectionnez un groupe de code a l'aide de la commande m{Edition - Administration de Groupes de Codes} voir chap. VII-2, {'Administration de Groupes de Codes'}->CALC_CGA). 
 
 =M_CALC_P8_C(0)	f{Installer}: Avec les produits pour lesquels vous pouvez modifier les paramètres de calcul, vous disposez de ce bouton de commande. Il ouvre ensuite une boîte de dialogue spécifique au produit, dans laquelle vous pouvez varier les règles de calcul de le système de fermeture par LOCKBASE. 
 
@@ -4843,9 +4843,9 @@
 
 =M_CALC_STEPS_P1_A(0)	Entrez d'abord toutes les fonctions de clés, tous les cylindres et toutes les variures dans l'w{Aperçu Listes}->LST, dans le w{Plan d'Organigramme}->MTRX ou dans le w{Designer Système}->DSGN. 
 
-=M_CALC_STEPS_P1_B(0)	Sélectionnez la fabrication du cylindre dans la fenêtre w{Module de Calcul} de la liste de f{Produit} le cylindre, avec dans lequel le système de fermeture doit être monté. Si vous avez également acquis l' w{Administration de groupes de codes}, sélectionnez un produit dans l'w{Administration de groupes de codes} (voir chap. VII-2, {'Administration de groupes de codes'}->CALC_CGA). 
+=M_CALC_STEPS_P1_B(0)	Sélectionnez la fabrication du cylindre dans la fenêtre w{Module de Calcul} de la liste de f{Produit} le cylindre, avec dans lequel le système de fermeture doit être monté. Si vous avez également acquis l' w{Administration de Groupes de Codes}, sélectionnez un produit dans l'w{Administration de Groupes de Codes} (voir chap. VII-2, {'Administration de Groupes de Codes'}->CALC_CGA). 
 
-=M_CALC_STEPS_P1_C(0)	Entrez un groupe de codes valide pour le produit sélectionné dans le champ f{Groupe de codes}. Le groupe de codes est valable, comme le produit, pour la totalité du système de fermeture. Si vous avez également acquis l'w{Administration de groupes de codes}, sélectionnez le groupe de code dans l' w{Administration de groupes de codes} (voir chap. VII-2, {'Administration de groupes de codes'}->CALC_CGA). 
+=M_CALC_STEPS_P1_C(0)	Entrez un groupe de codes valide pour le produit sélectionné dans le champ f{Groupe de codes}. Le groupe de codes est valable, comme le produit, pour la totalité du système de fermeture. Si vous avez également acquis l'w{Administration de Groupes de Codes}, sélectionnez le groupe de code dans l' w{Administration de Groupes de Codes} (voir chap. VII-2, {'Administration de Groupes de Codes'}->CALC_CGA). 
 
 =M_CALC_STEPS_P1_D(0)	Marquez l'un après l'autre chaque groupe de la w{Structure de groupes} et appelez la boîte de dialogue w{Editer variation des combinaisons}, pour déterminer ici ou confirmer la variation des combinaisons et le profil du groupe (voir chap. VII-3, {'Déterminer les profils, la variation des combinaisons et le code de la clé de passe'}->CALC_KBA). 
 
@@ -4885,11 +4885,11 @@
 
 =M_CALC_STEPS_P6_D(0)	Le w{Module de Calcul} LOCKBASE exclue automatiquement certaines combinaisons selon leur usage. En font partie par exemple plus de deux profondeurs de taille voisines ou trois tailles égales en tout (pour les produits à cinq pistons), les suites de tailles en escalier ou descendantes ou des combinaisons non taillables à cause de tailles voisines trop fraisées. 
 
-=M_CALC_CGA(0)	2. Administration de groupes de codes 
+=M_CALC_CGA(0)	2. Administration de Groupes de Codes 
 
-=M_CALC_CGA_P1(0)	L'w{Administration des groupes de codes} avec la barre de commandes (a), le liste des groupes de codes (b), les champs d'état (c) et la liste d'utilisation (d). 
+=M_CALC_CGA_P1(0)	L'w{Administration des Groupes de Codes} avec la barre de commandes (a), le liste des groupes de codes (b), les champs d'état (c) et la liste d'utilisation (d). 
 
-=M_CALC_CGA_P2(0)	L'w{Administration des groupes de codes} permet une gestion systématique des groupes de codes utilisés pour le calcul, pour éviter un chevauchement de variures non détecté dans les différents systèmes de fermeture. 
+=M_CALC_CGA_P2(0)	L'w{Administration des Groupes de Codes} permet une gestion systématique des groupes de codes utilisés pour le calcul, pour éviter un chevauchement de variures non détecté dans les différents systèmes de fermeture. 
 
 =M_CALC_CGA_P3(0)	Pour ouvrir l'w{Administration des groupes de codes}, 
 
@@ -5175,7 +5175,7 @@
 
 =M_CALC_TRANSFER_IMPORT_P1_A(0)	Entrez préalablement les combinaisons de fermeture et les profils dans les registres de fonctions de clé et établissez la connexion entre les fonctions de clé et les cylindres dans le w{Plan d'Organigramme}->MTRX_CONNECT ou dans l'w{Aperçu Listes}->LST_CONNECT. 
 
-=M_CALC_TRANSFER_IMPORT_P1_B(0)	Basculez ensuite dans le w{Module de Calcul} et entrez le produit dans le champ f{Produit} et le groupe de codes dans le champ f{Groupe de codes}. Si vous avez également acquis l' w{Administration de groupes de codes}, sélectionnez le groupe de code correspondant (voir chap. VII-2, {'Administration de groupes de codes'}->CALC_CGA). 
+=M_CALC_TRANSFER_IMPORT_P1_B(0)	Basculez ensuite dans le w{Module de Calcul} et entrez le produit dans le champ f{Produit} et le groupe de codes dans le champ f{Groupe de codes}. Si vous avez également acquis l' w{Administration de Groupes de Codes}, sélectionnez le groupe de code correspondant (voir chap. VII-2, {'Administration de Groupes de Codes'}->CALC_CGA). 
 
 =M_CALC_TRANSFER_IMPORT_P1_C(0)	Importez les données dans le w{Module de Calcul} avec la commande m{Edition - Transfert...}. LOCKBASE reconstruit la variation des combinaisons du système. Lorsque vous possédez un w{Designer Système}, vous pouvez effectuer une Analyse pour déterminer si une structure de groupe est présente (voir chap. VIII-1, {'Analyser des systèmes de fermeture '}->DSGN_ANALYSE). 
 
@@ -6027,17 +6027,17 @@
 
 =M_PRN(0)	IX. Imprimer des documents 
 
-=M_PRN_P1(0)	Le Module d'impression LOCKBASE vous offre l'impression de nombreux documents différents (voir chap. IX-4, {'Les documents LOCKBASE'}->PRN_DOC. Vous pouvez changer la représentation des documents et créer des nouveaux documents. Tous les documents peuvent être affichés en plus dans l'aperçu avant l'impression (voir chap. IX-2, {'Aperçu et Imprimer'}->PRN_PRINT). 
+=M_PRN_P1(0)	Le Module d'Impression LOCKBASE vous offre l'impression de nombreux documents différents (voir chap. IX-4, {'Les documents LOCKBASE'}->PRN_DOC. Vous pouvez changer la représentation des documents et créer des nouveaux documents. Tous les documents peuvent être affichés en plus dans l'aperçu avant l'impression (voir chap. IX-2, {'Aperçu et Imprimer'}->PRN_PRINT). 
 
-=M_PRN_P2(0)	La boîte de dialogue w{Sélection d'imprimés}->PRN_SELECT affiche tous les documents disponibles et permet le choix d'un ou plusieurs documents pour l'impression. Vous pouvez sélectionner des imprimantes différentes pour les documents individuels et créer des nouveaux documents. 
+=M_PRN_P2(0)	La boîte de dialogue w{Sélection d'Imprimés}->PRN_SELECT affiche tous les documents disponibles et permet le choix d'un ou plusieurs documents pour l'impression. Vous pouvez sélectionner des imprimantes différentes pour les documents individuels et créer des nouveaux documents. 
 
 =M_PRN_P3(0)	La boîte de dialogue w{Formatage d'imprimés}->PRN_FORMAT permet le formatage d'un document. Vous pouvez façonner le titre, le sous-titre, la note de bas de page, la police et le format des lignes, les marges etc. selon vos souhaits. 
 
-=M_PRN_SELECT(0)	1. La boîte de dialogue Sélection d'imprimés 
+=M_PRN_SELECT(0)	1. La boîte de dialogue Sélection d'Imprimés 
 
-=M_PRN_SELECT_P1(0)	La boîte de dialogue w{Qu'est-ce qui doit être imprimé?} 
+=M_PRN_SELECT_P1(0)	La boîte de dialogue w{Sélection d'Imprimés} 
 
-=M_PRN_SELECT_P2(0)	Démarrez le Module d'impression LOCKBASE avec 
+=M_PRN_SELECT_P2(0)	Démarrez le Module d'Impression LOCKBASE avec 
 
 =M_PRN_SELECT_P2_A(0)	un clic sur i{BTN_MAIN_PRN.BMP} dans la barre d'outils ou 
 
@@ -6045,9 +6045,9 @@
 
 =M_PRN_SELECT_P2_C(0)	la combinaison de touches k{Maj+Ctrl+F12}. 
 
-=M_PRN_SELECT_P3(0)	D'abord s'ouvre la boîte de dialogue w{Qu'est-ce qui doit être imprimé?}, dans laquelle vous sélectionnez les documents à imprimer. À partir d'ici vous pouvez formater et imprimer des documents ou voir les formulaires dans l'aperçu. Vous pouvez créer et formater des nouveaux documents. 
+=M_PRN_SELECT_P3(0)	D'abord s'ouvre la boîte de dialogue w{Sélection d'Imprimés}, dans laquelle vous sélectionnez les documents à imprimer. À partir d'ici vous pouvez formater et imprimer des documents ou voir les formulaires dans l'aperçu. Vous pouvez créer et formater des nouveaux documents. 
 
-=M_PRN_SELECT_P4(0)	La boîte de dialogue w{Sélection d'imprimés} contient des champs de saisie et des éléments de commande suivants: 
+=M_PRN_SELECT_P4(0)	La boîte de dialogue w{Sélection d'Imprimés} contient des champs de saisie et des éléments de commande suivants: 
 
 =M_PRN_SELECT_P4_A(0)	f{Formulaire}: Vous trouvez ici une liste triée de tous les formulaires disponibles. Vous pouvez sélectionner un ou plusieurs document/s pour l'impression ou le formatage, pour les copier ou supprimer (sur le maniement de la liste voir chap. IV-2, {'Marquage des registres'}->DLG_USAGE_SELECT). Si vous désirez de formater, copier ou supprimer un document, vous devez sélectionner un seul formulaire. Ainsi que vous voulez imprimer des étiquettes, vous devez sélectionner un seul formulaire. 
 
@@ -6057,9 +6057,9 @@
 
 =M_PRN_SELECT_P4_D(0)	f{Registres}: Cette liste contient tous les registres de la base de données, ce-qui correspond à la présélection (voir f{Fourchette de sortie}). Les registres, qui doivent être imprimés, doivent être marqués. Vous pouvez élargir ou modifier le marquage (voir chap. IV-2, {'Marquage des registres'}->DLG_USAGE_SELECT). 
 
-=M_PRN_SELECT_P4_E(0)	f{Fermer}: Ce bouton ferme la boîte de dialogue w{Sélection d'imprimés}. Les documents sélectionnés ne seront pas imprimés, cependant le formatage modifié sera accepté. 
+=M_PRN_SELECT_P4_E(0)	f{Fermer}: Ce bouton ferme la boîte de dialogue w{Sélection d'Imprimés}. Les documents sélectionnés ne seront pas imprimés, cependant le formatage modifié sera accepté. 
 
-=M_PRN_SELECT_P4_F(0)	f{Imprimer}: Les documents sélectionnés seront imprimés (voir chap. IX-3, {'Lancer l'impression'}->PRN_PRINT_PRINT). Ensuite la boîte de dialogue w{Sélection d'imprimés} sera fermée. Le bouton n'est que disponible, si une imprimante valable a été sélectionnée (voir f{Imprimante}). 
+=M_PRN_SELECT_P4_F(0)	f{Imprimer}: Les documents sélectionnés seront imprimés (voir chap. IX-3, {'Lancer l'impression'}->PRN_PRINT_PRINT). Ensuite la boîte de dialogue w{Sélection d'Imprimés} sera fermée. Le bouton n'est que disponible, si une imprimante valable a été sélectionnée (voir f{Imprimante}). 
 
 =M_PRN_SELECT_P4_G(0)	f{Aperçu}: Les documents sélectionnés seront affichés dans l'aperçu (voir chap. IX-3, {'Aperçu'}->PRN_PRINT_PREVIEW). Le bouton n'est que disponible, si une imprimante valable a été sélectionnée (voir f{Imprimante}). 
 
@@ -6081,11 +6081,11 @@
 
 =M_PRN_PRINT(0)	2. Aperçu et Imprimer 
 
-=M_PRN_PRINT_P1(0)	Vous pouvez à tout moment lancer l'impression d'un ou plusieurs document/s avec le bouton f{Imprimer} depuis la boîte de dialogue w{Sélection d'imprimés}->PRN_SELECT. Tout d'abord vous atteignez dans la boîte de dialogue w{Imprimer}, dans laquelle vous pouvez procéder à des derniers réglages (voir chap. IX-2, {'Lancer l'impression'}->PRN_PRINT_PRINT). 
+=M_PRN_PRINT_P1(0)	Vous pouvez à tout moment lancer l'impression d'un ou plusieurs document/s avec le bouton f{Imprimer} depuis la boîte de dialogue w{Sélection d'Imprimés}->PRN_SELECT. Tout d'abord vous atteignez dans la boîte de dialogue w{Imprimer}, dans laquelle vous pouvez procéder à des derniers réglages (voir chap. IX-2, {'Lancer l'impression'}->PRN_PRINT_PRINT). 
 
 =M_PRN_PRINT_P2(0)	Pour ne pas gâcher de papier, vous devriez seulement appuyer sur le bouton f{Imprimer}, lorsque vous avez sélectionné les beaux réglages et vous avez contrôlé votre formatage dans l'w{Aperçu avant impression}. 
 
-=M_PRN_PRINT_P3(0)	Pour cela vous trouvez dans la boîte de dialogue w{Sélection d'imprimés}->PRN_SELECT un bouton f{Aperçu}, avec lequel vous atteignez l'w{Aperçu avant impression}->PRN_PRINT_PREVIEW. Avec lequel vous ouvrez la fenêtre w{Aperçu avant impression}, dans laquelle vous pouvez voir quel effet ont votre police et les ajustages de marges ou les réglages de format des lignes. Vous ne pouvez pas modifier l'agencement de votre document dans la fenêtre w{Aperçu avant impression}. 
+=M_PRN_PRINT_P3(0)	Pour cela vous trouvez dans la boîte de dialogue w{Sélection d'Imprimés}->PRN_SELECT un bouton f{Aperçu}, avec lequel vous atteignez l'w{Aperçu avant impression}->PRN_PRINT_PREVIEW. Avec lequel vous ouvrez la fenêtre w{Aperçu avant impression}, dans laquelle vous pouvez voir quel effet ont votre police et les ajustages de marges ou les réglages de format des lignes. Vous ne pouvez pas modifier l'agencement de votre document dans la fenêtre w{Aperçu avant impression}. 
 
 =M_PRN_PRINT_PREVIEW(0)	Aperçu avant impression 
 
@@ -6103,7 +6103,7 @@
 
 =M_PRN_PRINT_PREVIEW_P2_E(0)	f{Zoom arrière}: Ce bouton annule l'agrandissement. Un clic dans un détail agrandi n'a d'effet lorsque la deuxième étape d'agrandissement est activée. 
 
-=M_PRN_PRINT_PREVIEW_P2_F(0)	f{Fermer}: Ce bouton ferme la fenêtre d'w{Aperçu avant impression}. Vous retournez dans la fenêtre w{Sélection d'imprimés}->PRN_SELECT. 
+=M_PRN_PRINT_PREVIEW_P2_F(0)	f{Fermer}: Ce bouton ferme la fenêtre d'w{Aperçu avant impression}. Vous retournez dans la fenêtre w{Sélection d'Imprimés}->PRN_SELECT. 
 
 =M_PRN_PRINT_PRINT(0)	Lancer l'impression 
 
@@ -6125,7 +6125,7 @@
 
 =M_PRN_FORMAT_P1(0)	Les fichiers de la boîte de dialogue w{Formatage d'imprimés} 
 
-=M_PRN_FORMAT_P2(0)	La boîte de dialogue w{Formatage d'imprimés} serve au réglage des propriétés du format d'un document d'impression. Vous atteignez la boîte de dialogue w{Formatage d'imprimés} de la boîte de dialogue w{Sélection d'imprimés}->PRN_SELECT à l'aide du bouton f{Formater...}. 
+=M_PRN_FORMAT_P2(0)	La boîte de dialogue w{Formatage d'imprimés} serve au réglage des propriétés du format d'un document d'impression. Vous atteignez la boîte de dialogue w{Formatage d'imprimés} de la boîte de dialogue w{Sélection d'Imprimés}->PRN_SELECT à l'aide du bouton f{Formater...}. 
 
 =M_PRN_FORMAT_P3(0)	Les éléments de commande de la boîte de dialogue w{Formatage d'imprimés} sont classé par thèmes se répartissant sur plusieurs fiches. Quelles fichiers sont disponibles actuellement, dépend du formulaire sélectionné. Vous pouvez afficher une fiche, en cliquant avec la souris sur le correspondant onglet ou sautez-le avec la touche k{Tab} et sélectionnez-le avec les k{Flèches}. 
 
@@ -6135,7 +6135,7 @@
 
 =M_PRN_FORMAT_FORM_P2(0)	Le fichier w{Formulaire} contient des réglages général du formulaire. Cette fichier est disponible pour tous les documents et offre les champs de saisie et les éléments de commande suivants: 
 
-=M_PRN_FORMAT_FORM_P2_A(0)	f{Nom}: Ce champ possède le nom du document, comme il apparaît dans la liste f{Formulaire} de la boîte de dialogue w{Sélection d'imprimés}->PRN_SELECT. Vous pouvez changer ce nom selon vos souhaits. Cependant le champ ne faut pas être vide. 
+=M_PRN_FORMAT_FORM_P2_A(0)	f{Nom}: Ce champ possède le nom du document, comme il apparaît dans la liste f{Formulaire} de la boîte de dialogue w{Sélection d'Imprimés}->PRN_SELECT. Vous pouvez changer ce nom selon vos souhaits. Cependant le champ ne faut pas être vide. 
 
 =M_PRN_FORMAT_FORM_P2_B(0)	f{Titre}, f{Sous-titre}, f{Note de bas de page}: Le titre, le sous-titre et la note de bas de page du document, comme ils apparaissent imprimés. Vous pouvez saisir du texte selon vos souhaits. Ne pas tous les champs sont contenu dans chaque formulaire. 
 
@@ -6191,7 +6191,7 @@
 
 =M_PRN_FORMAT_DATASTOCK_P3(0)	À votre disposition sont mises des éléments de commande suivants: 
 
-=M_PRN_FORMAT_DATASTOCK_P3_A(0)	f{Base de données primaire}: Choisissez ici la primaire base de données, dont les données doivent être affichées. Avec la primaire base de données vous indiquez aussi la façon des données, dont les registres seront affichés dans la boîte de dialogue w{Sélection d'imprimés}->PRN_SELECT et avec ceux vous pouvez faire une sélection. Pour la plupart du documents vous ne pouvez que sélectionner la primaire base de données. 
+=M_PRN_FORMAT_DATASTOCK_P3_A(0)	f{Base de données primaire}: Choisissez ici la primaire base de données, dont les données doivent être affichées. Avec la primaire base de données vous indiquez aussi la façon des données, dont les registres seront affichés dans la boîte de dialogue w{Sélection d'Imprimés}->PRN_SELECT et avec ceux vous pouvez faire une sélection. Pour la plupart du documents vous ne pouvez que sélectionner la primaire base de données. 
 
 =M_PRN_FORMAT_DATASTOCK_P3_B(0)	f{Base de données secondaire}: Dans un formulaire de double listes vous pouvez aussi déterminer la deuxième base de données. Celle-ci est le but des connexions qui devront être affichées, p.ex. les portes d'une liste personnes-portes. 
 
@@ -6269,7 +6269,7 @@
 
 =M_PRN_DOC(0)	4. Les documents LOCKBASE 
 
-=M_PRN_DOC_P1(0)	LOCKBASE offre un stock de base des types de formulaires, pour répondre aux besoins variés des groupes d'utilisateurs différents. Sur la base de ce stock vous pouvez créer des formulaires propres ou des variantes des documents en copiant un document existant et adapter son formatage au but souhaité (voir chap. IX-1, {'La boîte de dialogue Sélection d'imprimés'}->PRN_SELECT et chap. IX-3, {'La boîte de dialogue Formatage d'imprimés'}->PRN_FORMAT). 
+=M_PRN_DOC_P1(0)	LOCKBASE offre un stock de base des types de formulaires, pour répondre aux besoins variés des groupes d'utilisateurs différents. Sur la base de ce stock vous pouvez créer des formulaires propres ou des variantes des documents en copiant un document existant et adapter son formatage au but souhaité (voir chap. IX-1, {'La boîte de dialogue Sélection d'Imprimés'}->PRN_SELECT et chap. IX-3, {'La boîte de dialogue Formatage d'imprimés'}->PRN_FORMAT). 
 
 =M_PRN_DOC_P2(0)	Les formulaires sont enregistrés avec les données du système de fermeture. Cela veut dire que vous, si vous voulez, pouvez créer une série de formulaires propres pour chaque système. Normalement vous enregistrerez vos formulaires cependant dans les modèles de format, que vous pouvez attribuer aux fichiers de système de fermeture existants ou nouveaux (sur le maniement des modèles de format voir chap. III-1, {'Page de garde'}->MAIN_FILE_COVERSHEET). 
 
@@ -6459,7 +6459,7 @@
 
 =M_PRN_DOC_LABELS_P2(0)	Pour le réglage du formulaire d'étiquettes sert le fichier w{Mise en page} des w{Formatage d'imprimés} (voir chap. IX-3, {'Mise en page'}->PRN_FORMAT_LABELS). 
 
-=M_PRN_DOC_LABELS_P3(0)	Pour l'impression d'étiquettes dans la boîte de dialogue w{Sélection d'imprimés}->PRN_SELECT apparaît un champ de saisie pour insérer la position de démarrage d'imprimé sur le papier. Cela permet l'utilisation du papier partiellement imprimé. Les étiquettes doivent être imprimés toujours séparément. 
+=M_PRN_DOC_LABELS_P3(0)	Pour l'impression d'étiquettes dans la boîte de dialogue w{Sélection d'Imprimés}->PRN_SELECT apparaît un champ de saisie pour insérer la position de démarrage d'imprimé sur le papier. Cela permet l'utilisation du papier partiellement imprimé. Les étiquettes doivent être imprimés toujours séparément. 
 
 =M_GLOSS_HOTKEY(0)	Accès rapide 
 
