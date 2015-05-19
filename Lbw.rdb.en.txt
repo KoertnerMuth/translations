@@ -1287,7 +1287,7 @@
 =IDR_LBCWTYPE(1)	Calculator\nNoName\nLBWDOC\nLOCKBASE file (*.lbf)\n.LBF\nLBWDOC\nLOCKBASE file
 =IDR_LBWMTRX(1)	System Matrix\nNoName\nLBWDOC\nLOCKBASE file (*.lbf)\n.LBF\nLBWDOC\nLOCKBASE file
 =IDS_LBW_EXCHANGE(1)	LOCKBASE file (*.lbf)\nLOCKBASE template (*.lbt)\nLOCKBASE for DOS (*.sys)
-=IDS_LBW_EXCHANGE_IMPORT	Elcon Superlock (*.slp;*.slt)\nElcon Superlock CSV (*.csv)\nEvva Satellit (*.sat)\nEvva Mdb (*.mdb)\nKeso Key (*.dbf)\nAbax Systemgeneral (*.zip)\nZP Import (*.is1)\nKWD file (*.kwd)\nRichter Kaba ExperT (*.dbf)\nAllianz GIS (*.csv)\neHardWare Trade (*.cyl)\nFelics (*.win;*.zim;*.cla)\nArkey (*.db)\nRS3/Chifral (*.csv)\nUNIKA CSV (*.csv)\nPfaffenhain Elektronik (*.csv)\nGera Excel Export (*.csv)\nMetro Key Usage (*.csv)\nCES Matrix (*.csv)\nCSV (*.csv)\nPortier (*.xml)
+=IDS_LBW_EXCHANGE_IMPORT	Elcon Superlock (*.slp;*.slt)\nElcon Superlock CSV (*.csv)\nEvva Satellit (*.sat)\nEvva Mdb (*.mdb)\nKeso Key (*.dbf)\nAbax Systemgeneral (*.zip)\nZP Import (*.is1)\nKWD file (*.kwd)\nRichter Kaba ExperT (*.dbf)\nAllianz GIS (*.csv)\neHardWare Trade (*.cyl)\nFelics (*.win;*.zim;*.cla)\nArkey (*.db)\nRS3/Chifral (*.csv)\nUNIKA CSV (*.csv)\nPfaffenhain Elektronik (*.csv)\nGera Excel Export (*.csv)\nMetro Key Usage (*.csv)\nCES Matrix (*.csv)\nCSV (*.csv)\nPortier (*.xml)\nKey Design (*.xml)
 =IDS_LBW_NOLICENCE(0)	No licence found for current user
 =IDS_LBW_WEASELS(1)	Weasels rip my flesh!\n\nThe LOCKBASE program file has been altered. Hard disk errors, a computer virus or manual manipulations of the program code might be the reason for this error.\n\nRestore the original file from backup or the LOCKBASE installation diskette.
 =IDS_LBW_SHARE(1)	SHARE is not running!\nTo work properly, LOCKBASE needs the DOS-Utility SHARE.EXE or a DOS-compatible Network.
@@ -1514,11 +1514,11 @@
 =IDP_DESGN_EMPTYDLG(1)	No data entered for %s\nthe Master Key\n the Central Cylinder\nthe Interchange Keys\nthe Cylinder\nthe Change Keys\nthe Doors\n
 =IDS_STRFRM_OWNER(1)	\n<S!>Surname\n<S!>First Name\nStreet\n<S!>City\nState\nPhone (Office)\nPhone (priv.)\n<S!>Personel ID\n<S!>Department\nFunction/Title\n
 =IDS_STRFRM_FUNCTION(1)	\n<S!>Key Function\n<S!>Designation\n<S!>Key Quantity\nProfile\nCodegroup\nCombination\nType\nType description\nKey Quantity (current)
-=IDS_STRFRM_KEY(1)	\n<S!>Key Holder\n<S!>Stamp\n<T>Production\n<T!>Issue\n<T!>Return\n<C!>Status*In Order*Available*Issued*Missing*Destroyed\nNotes\n\n<S!>Order
-=IDS_STRFRM_CYLINDER(1)	\n<S!>Number\n<S!>Type\n<S!>Length\n<S!>Finish\n<S!>Door Designation\n<T!>Last altered\nChange Key\nCode Group\nProfile\n\nKey Quantity\nPinning\nKey Design.\n<S!>Quantity\n<S!>Special Equipment\nPos.\n\n<S!>Building\nType description\nItem code\n<S!>Order\n\nKey Quantity (current)
+=IDS_STRFRM_KEY(1)	\n<S!>Key Holder\n<S!>Stamp\n<T>Production\n<T!>Issue\n<T!>Return\n<C!>Status*In Order*Available*Issued*Missing*Destroyed\nNotes\n\n<S!>Order\nElectronic ID
+=IDS_STRFRM_CYLINDER(2)	\n<S!>Number\n<S!>Type\n<S!>Length\n<S!>Finish\n<S!>Door Designation\n<T!>Last altered\nChange Key\nCode Group\nProfile\n\nKey Quantity\nPinning\nKey Design.\n<S!>Quantity\n<S!>Special Equipment\nPos.\n\n<S!>Building\nType description\nItem code\n<S!>Order\nElectronic ID\nKey Quantity (current)
 =IDS_STRFRM_DOOR(1)	\n<S!>Door\n<S!>Building/Dep.\nDescription\n<S!>Cylinder Length\nLock 1\nLock 1 Type\nLock 1 Dim.\nLock 2\nLock 2 Type\nLock 2 Dim.\n
 =IDS_STRFRM_FUNCTION_1(1)	\n<S!>Function\n<S!>Designation\n<S!>No. of Keys\n\n\n\nType\nType description\nKey Quantity (current)
-=IDS_STRFRM_CYLINDER_1(1)	\n<S!>Number\n<S!>Type\n<S!>Length\n<S!>Finish\n<S!>Door Designation\n<T!>Last altered\nChange Key\n\n\n\nKey Quantity\n\n\nKey Design.\n<S!>Quantity\n<S!>Special Equipment\nPos.\n\n<S!>Building\nType description\nItem code\n<S!>Order\n\nKey Quantity (current)
+=IDS_STRFRM_CYLINDER_1(2)	\n<S!>Number\n<S!>Type\n<S!>Length\n<S!>Finish\n<S!>Door Designation\n<T!>Last altered\nChange Key\n\n\n\nKey Quantity\n\n\nKey Design.\n<S!>Quantity\n<S!>Special Equipment\nPos.\n\n<S!>Building\nType description\nItem code\n<S!>Order\nElectronic ID\nKey Quantity (current)
 =IDS_STRFRM_CYLINDER_EXCHG(0) Outer length\nInner length
 =IDS_STRFRM_SYSINFO(2)	System\nOwner\nCustomers No.\nType of System\n\n\nSupplier\nBrand\n<T>Production\n<T>Modified\nComment\n\n\n\n\nSecurity Card
 =IDS_STRFRM_EVENT_SYSEXP(1)	\n\n<T>Date\n\nDesignation\nReferee\nOrder Number\n<T>Date of Order\n<T>Date of Delivery\nShipping\nRemarks\nCustomer No.\nCustomer\nContact\nCustomer Stamp\n
@@ -1594,7 +1594,7 @@
 =IDP_DOC_KWDERROR(1)	Errors occurred during data import!\nFile %s is not a KWD-file.\nThe type of this KWD-file is not supported.\rLOCKBASE currently only supports the KWD type 'Schließanlage mechanisch komplett mit Schließungen'.
 =IDS_DOC_KWD(1)	Data conversion in progress: File %s, Line %ld ...\nCreating key copies %d%% ...\nCreating change keys %d%% ...\nCreating connections %d%%...\n
 =IDS_DOC_IMPORT_GENERAL(1)	Extracting files ...\nChecking files ...\nData conversion in progress: %s (%d%%) ...
-=IDP_DOC_EXCHG_PORTIER(0) Missing required tag\nInvalid contents\nInvalid logic, data consistency error
+=IDP_DOC_EXCHG_XML(1) Missing required tag\nInvalid contents\nInvalid logic, data consistency error\nIdentifier data field empty or contents not unique
 =IDS_DOC_EXPORT(1)	Data conversion in progress: %s (%d%%) ...
 =IDP_DOC_REMCHGKEYS_FAIL(1)	Not all the change keys could be deleted. Some of them already were issued to keyholders.
 =IDP_DOC_NOSUPERUNCHECK(1)	The attribute 'Central cylinder' could not be removed at %lu of %lu cylinders, because connections to change keys of other cylinders still exist.
@@ -1660,7 +1660,7 @@
 =IDP_USERS_ERR_PASS(1)	The password is invalid.\r\rThe password has to be at least 3 characters long and must not contain space characters.
 =IDP_USERS_ERR_RETYPE(1)	Password and retyped password are different.
 =IDP_USERS_CNF_REMOVE(1)	Are you sure to remove this user?
-=IDP_USERS_CNF_DISABLE(1)	Are you sure to disable the user administration?\r\rPlease notice, that with user administration disabled every user has unlimited access to all data.
+=IDP_USERS_CNF_DISABLE(2)	Are you sure to disable the user administration?\r\rPlease notice, that with user administration disabled every user has unlimited access to all data. Currently registered users will be removed on the next startup of LOCKBASE.
 =IDP_USERS_DISABLE(1)	The user administration was disabled.\r\rAll users now have unlimited access to all data.\r\rTo enable again the user administration, select the menu command 'User Administration...' and restart LOCKBASE afterwards.
 =IDP_USERS_CNF_ENABLE(1)	The user administration is not active.\r\rDo you want to activate the user administration now?
 =IDP_USERS_ENABLE(1)	The user administration will be enabled at the next start of LOCKBASE.\r\rPlease exit the program now to let the changes take effect.
@@ -1940,7 +1940,7 @@
 =IDD_CGASPLIT_STATICTXT1(1)			This code group can be split up in several different ways.\nPlease choose one of the methods listed below to split up the selected code group.
 =IDD_CGASPLIT_STATIC_POS2SPLIT(1)	Please enter a desired &behavior for each position.
 =IDD_CGASPLIT_STATIC_HINT(1)		(C = constant, V = variable)
-=IDS_CGASPLIT(2)	P&rofiles\n&Parity Patterns\n&Constant Pins:(C = constant, V = variable)\n&Side Pins:(C = constant, V = variable):&Use more pins\n&2- or 3-step progression:(2 = 2-step, 3 = 3-step, V = variable)\n&Major Section Profiles\nM&inor Section Profiles\n&Upper Side Pins:(C = constant, V = variable)\n&Magnets:(C = constant, V = variable)\nP&rofiles:(C = constant, V = variable)
+=IDS_CGASPLIT(3)	P&rofiles\n&Parity Patterns\n&Constant Pins:(C = constant, V = variable)\n&Side Pins:(C = constant, V = variable):&Use more pins\n&2- or 3-step progression:(2 = 2-step, 3 = 3-step, V = variable)\n&Major Section Profiles\nM&inor Section Profiles\n&Upper Side Pins:(C = constant, V = variable)\n&Magnets:(C = constant, V = variable)\nP&rofiles:(C = constant, V = variable)\nBalls:(C = constant, V = variable)
 
 =IDD_CGA_EDITPROF(1)	Profile Name
 =IDD_CGA_EDITPROF_STATICTXT1(1)	Please enter the profile designation below.
@@ -3829,7 +3829,7 @@
 
 =M_MAIN_OPTIONS_USERADMIN_P8_I(0)	f{Close}: This button ends the user administration. The changes are saved and the dialogue window will be closed. 
 
-=M_MAIN_OPTIONS_USERADMIN_P8_J(0)	f{Disable}: This button deactivates the user administration. If the user administration is deactivated, every person with access to the computer can use LOCKBASE without any limitations. This can be useful, if LOCKBASE is used only by one person and access to the program is not possible for unauthorized persons. Already registered users are kept and can be reactivated anytime by running again the command m{Options - User Administration}. 
+=M_MAIN_OPTIONS_USERADMIN_P8_J(1)	f{Disable}: This button deactivates the user administration. If the user administration is deactivated, every person with access to the computer can use LOCKBASE without any limitations. This can be useful, if LOCKBASE is used only by one person and access to the program is not possible for unauthorized persons. Already registered users will be removed at the next startup of LOCKBASE. The user administration can be reactivated anytime by running again the command m{Options - User Administration}. 
 
 =M_MAIN_OPTIONS_USERADMIN_P9(0)	To allow easier access and better overview, the LOCKBASE user rights are separated into several different sections. However, it depends on your LOCKBASE configuration, whether a certain right is available or not. For example, if your LOCKBASE has no w{Calculation Module}->CALC, the right f{Calculator} will not appear. The following is a detailed description of every user right and its meaning. 
 
